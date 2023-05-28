@@ -4,6 +4,7 @@ import textual
 from textual.app import App, ComposeResult
 from textual.containers import Container, VerticalScroll, Grid
 from textual.events import Event
+from textual.messages import UpdateScroll
 from textual.widgets import Header, Footer, Input, Static, DataTable
 
 from pathlib import Path
@@ -79,9 +80,10 @@ class ShakespeareSearchApp(App):
     @textual.on(DataTable.CellSelected, "#search-results")
     def on_data_table_click(self, event):
         data = self.search_results[event.coordinate.row]
-        print(">>> scroll to line", data.file_lineno)
-        self.script_scroller.scroll_to(data.file_lineno, force=True)
-        self.script_scroller.render()
+        self.script_scroller.scroll_to(
+            y=data.file_lineno - self.script_scroller.size.height // 2,
+            animate=False
+        )
 
     def action_toggle_dark(self) -> None:
         """An action to toggle dark mode."""

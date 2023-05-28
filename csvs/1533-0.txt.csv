@@ -1,0 +1,2488 @@
+act,scene,scene_line,role,file_name,file_lineno,line
+I,I,0,---,1533-0.txt,121,Thunder and Lightning. Enter three Witches.
+I,I,1,FIRST WITCH,1533-0.txt,124,When shall we three meet again?
+I,I,2,FIRST WITCH,1533-0.txt,125,"In thunder, lightning, or in rain?"
+I,I,3,SECOND WITCH,1533-0.txt,128,"When the hurlyburly’s done,"
+I,I,4,SECOND WITCH,1533-0.txt,129,When the battle’s lost and won.
+I,I,5,THIRD WITCH,1533-0.txt,132,That will be ere the set of sun.
+I,I,6,FIRST WITCH,1533-0.txt,135,Where the place?
+I,I,7,SECOND WITCH,1533-0.txt,138,Upon the heath.
+I,I,8,THIRD WITCH,1533-0.txt,141,There to meet with Macbeth.
+I,I,9,FIRST WITCH,1533-0.txt,144,"I come, Graymalkin!"
+I,I,10,SECOND WITCH,1533-0.txt,147,Paddock calls.
+I,I,11,THIRD WITCH,1533-0.txt,150,Anon.
+I,I,12,ALL,1533-0.txt,153,"Fair is foul, and foul is fair:"
+I,I,13,ALL,1533-0.txt,154,Hover through the fog and filthy air.
+I,I,13,---,1533-0.txt,156,[Exeunt.]
+I,II,0,---,1533-0.txt,160,"Alarum within. Enter King Duncan, Malcolm, Donalbain, Lennox, with Attendants, meeting a bleeding Captain."
+I,II,1,DUNCAN,1533-0.txt,164,"What bloody man is that? He can report,"
+I,II,2,DUNCAN,1533-0.txt,165,"As seemeth by his plight, of the revolt"
+I,II,3,DUNCAN,1533-0.txt,166,The newest state.
+I,II,4,MALCOLM,1533-0.txt,169,This is the sergeant
+I,II,5,MALCOLM,1533-0.txt,170,"Who, like a good and hardy soldier, fought"
+I,II,6,MALCOLM,1533-0.txt,171,"’Gainst my captivity.— Hail, brave friend!"
+I,II,7,MALCOLM,1533-0.txt,172,Say to the King the knowledge of the broil
+I,II,8,MALCOLM,1533-0.txt,173,As thou didst leave it.
+I,II,9,SOLDIER,1533-0.txt,176,Doubtful it stood;
+I,II,10,SOLDIER,1533-0.txt,177,As two spent swimmers that do cling together
+I,II,11,SOLDIER,1533-0.txt,178,And choke their art. The merciless Macdonwald
+I,II,12,SOLDIER,1533-0.txt,179,"(Worthy to be a rebel, for to that"
+I,II,13,SOLDIER,1533-0.txt,180,The multiplying villainies of nature
+I,II,14,SOLDIER,1533-0.txt,181,Do swarm upon him) from the Western Isles
+I,II,15,SOLDIER,1533-0.txt,182,Of kerns and gallowglasses is supplied;
+I,II,16,SOLDIER,1533-0.txt,183,"And Fortune, on his damned quarrel smiling,"
+I,II,17,SOLDIER,1533-0.txt,184,Show’d like a rebel’s whore. But all’s too weak;
+I,II,18,SOLDIER,1533-0.txt,185,"For brave Macbeth (well he deserves that name),"
+I,II,19,SOLDIER,1533-0.txt,186,"Disdaining Fortune, with his brandish’d steel,"
+I,II,20,SOLDIER,1533-0.txt,187,"Which smok’d with bloody execution,"
+I,II,21,SOLDIER,1533-0.txt,188,"Like Valour’s minion, carv’d out his passage,"
+I,II,22,SOLDIER,1533-0.txt,189,Till he fac’d the slave;
+I,II,23,SOLDIER,1533-0.txt,190,"Which ne’er shook hands, nor bade farewell to him,"
+I,II,24,SOLDIER,1533-0.txt,191,"Till he unseam’d him from the nave to the chops,"
+I,II,25,SOLDIER,1533-0.txt,192,And fix’d his head upon our battlements.
+I,II,26,DUNCAN,1533-0.txt,195,O valiant cousin! worthy gentleman!
+I,II,27,SOLDIER,1533-0.txt,198,As whence the sun ’gins his reflection
+I,II,28,SOLDIER,1533-0.txt,199,"Shipwracking storms and direful thunders break,"
+I,II,29,SOLDIER,1533-0.txt,200,"So from that spring, whence comfort seem’d to come"
+I,II,30,SOLDIER,1533-0.txt,201,"Discomfort swells. Mark, King of Scotland, mark:"
+I,II,31,SOLDIER,1533-0.txt,202,"No sooner justice had, with valour arm’d,"
+I,II,32,SOLDIER,1533-0.txt,203,"Compell’d these skipping kerns to trust their heels,"
+I,II,33,SOLDIER,1533-0.txt,204,"But the Norweyan lord, surveying vantage,"
+I,II,34,SOLDIER,1533-0.txt,205,"With furbish’d arms and new supplies of men,"
+I,II,35,SOLDIER,1533-0.txt,206,Began a fresh assault.
+I,II,36,DUNCAN,1533-0.txt,209,Dismay’d not this
+I,II,37,DUNCAN,1533-0.txt,210,"Our captains, Macbeth and Banquo?"
+I,II,38,SOLDIER,1533-0.txt,213,Yes;
+I,II,39,SOLDIER,1533-0.txt,214,"As sparrows eagles, or the hare the lion."
+I,II,40,SOLDIER,1533-0.txt,215,"If I say sooth, I must report they were"
+I,II,41,SOLDIER,1533-0.txt,216,As cannons overcharg’d with double cracks;
+I,II,42,SOLDIER,1533-0.txt,217,So they
+I,II,43,SOLDIER,1533-0.txt,218,Doubly redoubled strokes upon the foe:
+I,II,44,SOLDIER,1533-0.txt,219,"Except they meant to bathe in reeking wounds,"
+I,II,45,SOLDIER,1533-0.txt,220,"Or memorize another Golgotha,"
+I,II,46,SOLDIER,1533-0.txt,221,I cannot tell— 
+I,II,47,SOLDIER,1533-0.txt,222,"But I am faint, my gashes cry for help."
+I,II,48,DUNCAN,1533-0.txt,225,So well thy words become thee as thy wounds:
+I,II,49,DUNCAN,1533-0.txt,226,"They smack of honour both.— Go, get him surgeons."
+I,II,49,---,1533-0.txt,228,"[Exit Captain, attended.]"
+I,II,49,---,1533-0.txt,230,Enter Ross and Angus.
+I,II,50,DUNCAN,1533-0.txt,232,Who comes here?
+I,II,51,MALCOLM,1533-0.txt,235,The worthy Thane of Ross.
+I,II,52,LENNOX,1533-0.txt,238,What a haste looks through his eyes! So should he look
+I,II,53,LENNOX,1533-0.txt,239,That seems to speak things strange.
+I,II,54,ROSS,1533-0.txt,242,God save the King!
+I,II,55,DUNCAN,1533-0.txt,245,"Whence cam’st thou, worthy thane?"
+I,II,56,ROSS,1533-0.txt,248,"From Fife, great King,"
+I,II,57,ROSS,1533-0.txt,249,Where the Norweyan banners flout the sky
+I,II,58,ROSS,1533-0.txt,250,And fan our people cold.
+I,II,59,ROSS,1533-0.txt,251,"Norway himself, with terrible numbers,"
+I,II,60,ROSS,1533-0.txt,252,"Assisted by that most disloyal traitor,"
+I,II,61,ROSS,1533-0.txt,253,"The Thane of Cawdor, began a dismal conflict;"
+I,II,62,ROSS,1533-0.txt,254,"Till that Bellona’s bridegroom, lapp’d in proof,"
+I,II,63,ROSS,1533-0.txt,255,"Confronted him with self-comparisons,"
+I,II,64,ROSS,1533-0.txt,256,"Point against point, rebellious arm ’gainst arm,"
+I,II,65,ROSS,1533-0.txt,257,"Curbing his lavish spirit: and, to conclude,"
+I,II,66,ROSS,1533-0.txt,258,The victory fell on us.
+I,II,67,DUNCAN,1533-0.txt,261,Great happiness!
+I,II,68,ROSS,1533-0.txt,264,That now
+I,II,69,ROSS,1533-0.txt,265,"Sweno, the Norways’ king, craves composition;"
+I,II,70,ROSS,1533-0.txt,266,Nor would we deign him burial of his men
+I,II,71,ROSS,1533-0.txt,267,Till he disbursed at Saint Colme’s Inch
+I,II,72,ROSS,1533-0.txt,268,Ten thousand dollars to our general use.
+I,II,73,DUNCAN,1533-0.txt,271,No more that Thane of Cawdor shall deceive
+I,II,74,DUNCAN,1533-0.txt,272,"Our bosom interest. Go pronounce his present death,"
+I,II,75,DUNCAN,1533-0.txt,273,And with his former title greet Macbeth.
+I,II,76,ROSS,1533-0.txt,276,I’ll see it done.
+I,II,77,DUNCAN,1533-0.txt,279,"What he hath lost, noble Macbeth hath won."
+I,II,77,---,1533-0.txt,281,[Exeunt.]
+I,III,0,---,1533-0.txt,285,Thunder. Enter the three Witches.
+I,III,1,FIRST WITCH,1533-0.txt,288,"Where hast thou been, sister?"
+I,III,2,SECOND WITCH,1533-0.txt,291,Killing swine.
+I,III,3,THIRD WITCH,1533-0.txt,294,"Sister, where thou?"
+I,III,4,FIRST WITCH,1533-0.txt,297,"A sailor’s wife had chestnuts in her lap,"
+I,III,5,FIRST WITCH,1533-0.txt,298,"And mounch’d, and mounch’d, and mounch’d. “Give me,” quoth I."
+I,III,6,FIRST WITCH,1533-0.txt,299,"“Aroint thee, witch!” the rump-fed ronyon cries."
+I,III,7,FIRST WITCH,1533-0.txt,300,"Her husband’s to Aleppo gone, master o’ th’ _Tiger:_"
+I,III,8,FIRST WITCH,1533-0.txt,301,"But in a sieve I’ll thither sail,"
+I,III,9,FIRST WITCH,1533-0.txt,302,"And, like a rat without a tail,"
+I,III,10,FIRST WITCH,1533-0.txt,303,"I’ll do, I’ll do, and I’ll do."
+I,III,11,SECOND WITCH,1533-0.txt,306,I’ll give thee a wind.
+I,III,12,FIRST WITCH,1533-0.txt,309,Th’art kind.
+I,III,13,THIRD WITCH,1533-0.txt,312,And I another.
+I,III,14,FIRST WITCH,1533-0.txt,315,"I myself have all the other,"
+I,III,15,FIRST WITCH,1533-0.txt,316,"And the very ports they blow,"
+I,III,16,FIRST WITCH,1533-0.txt,317,All the quarters that they know
+I,III,17,FIRST WITCH,1533-0.txt,318,I’ the shipman’s card.
+I,III,18,FIRST WITCH,1533-0.txt,319,I will drain him dry as hay:
+I,III,19,FIRST WITCH,1533-0.txt,320,Sleep shall neither night nor day
+I,III,20,FIRST WITCH,1533-0.txt,321,Hang upon his pent-house lid;
+I,III,21,FIRST WITCH,1533-0.txt,322,He shall live a man forbid.
+I,III,22,FIRST WITCH,1533-0.txt,323,"Weary sev’n-nights nine times nine,"
+I,III,23,FIRST WITCH,1533-0.txt,324,"Shall he dwindle, peak, and pine:"
+I,III,24,FIRST WITCH,1533-0.txt,325,"Though his bark cannot be lost,"
+I,III,25,FIRST WITCH,1533-0.txt,326,Yet it shall be tempest-tost.
+I,III,26,FIRST WITCH,1533-0.txt,327,Look what I have.
+I,III,27,SECOND WITCH,1533-0.txt,330,"Show me, show me."
+I,III,28,FIRST WITCH,1533-0.txt,333,"Here I have a pilot’s thumb,"
+I,III,29,FIRST WITCH,1533-0.txt,334,Wrack’d as homeward he did come.
+I,III,29,---,1533-0.txt,336,[Drum within.]
+I,III,30,THIRD WITCH,1533-0.txt,339,"A drum, a drum!"
+I,III,31,THIRD WITCH,1533-0.txt,340,Macbeth doth come.
+I,III,32,ALL,1533-0.txt,343,"The Weird Sisters, hand in hand,"
+I,III,33,ALL,1533-0.txt,344,"Posters of the sea and land,"
+I,III,34,ALL,1533-0.txt,345,"Thus do go about, about:"
+I,III,35,ALL,1533-0.txt,346,"Thrice to thine, and thrice to mine,"
+I,III,36,ALL,1533-0.txt,347,"And thrice again, to make up nine."
+I,III,37,ALL,1533-0.txt,348,Peace!— the charm’s wound up.
+I,III,37,---,1533-0.txt,350,Enter Macbeth and Banquo.
+I,III,38,MACBETH,1533-0.txt,353,So foul and fair a day I have not seen.
+I,III,39,BANQUO,1533-0.txt,356,"How far is’t call’d to Forres?— What are these,"
+I,III,40,BANQUO,1533-0.txt,357,"So wither’d, and so wild in their attire,"
+I,III,41,BANQUO,1533-0.txt,358,"That look not like the inhabitants o’ th’ earth,"
+I,III,42,BANQUO,1533-0.txt,359,And yet are on’t?— Live you? or are you aught
+I,III,43,BANQUO,1533-0.txt,360,"That man may question? You seem to understand me,"
+I,III,44,BANQUO,1533-0.txt,361,By each at once her choppy finger laying
+I,III,45,BANQUO,1533-0.txt,362,"Upon her skinny lips. You should be women,"
+I,III,46,BANQUO,1533-0.txt,363,And yet your beards forbid me to interpret
+I,III,47,BANQUO,1533-0.txt,364,That you are so.
+I,III,48,MACBETH,1533-0.txt,367,"Speak, if you can;— what are you?"
+I,III,49,FIRST WITCH,1533-0.txt,370,"All hail, Macbeth! hail to thee, Thane of Glamis!"
+I,III,50,SECOND WITCH,1533-0.txt,373,"All hail, Macbeth! hail to thee, Thane of Cawdor!"
+I,III,51,THIRD WITCH,1533-0.txt,376,"All hail, Macbeth! that shalt be king hereafter!"
+I,III,52,BANQUO,1533-0.txt,379,"Good sir, why do you start and seem to fear"
+I,III,53,BANQUO,1533-0.txt,380,"Things that do sound so fair?— I’ th’ name of truth,"
+I,III,54,BANQUO,1533-0.txt,381,"Are ye fantastical, or that indeed"
+I,III,55,BANQUO,1533-0.txt,382,Which outwardly ye show? My noble partner
+I,III,56,BANQUO,1533-0.txt,383,You greet with present grace and great prediction
+I,III,57,BANQUO,1533-0.txt,384,"Of noble having and of royal hope,"
+I,III,58,BANQUO,1533-0.txt,385,That he seems rapt withal. To me you speak not.
+I,III,59,BANQUO,1533-0.txt,386,"If you can look into the seeds of time,"
+I,III,60,BANQUO,1533-0.txt,387,"And say which grain will grow, and which will not,"
+I,III,61,BANQUO,1533-0.txt,388,"Speak then to me, who neither beg nor fear"
+I,III,62,BANQUO,1533-0.txt,389,Your favours nor your hate.
+I,III,63,FIRST WITCH,1533-0.txt,392,Hail!
+I,III,64,SECOND WITCH,1533-0.txt,395,Hail!
+I,III,65,THIRD WITCH,1533-0.txt,398,Hail!
+I,III,66,FIRST WITCH,1533-0.txt,401,"Lesser than Macbeth, and greater."
+I,III,67,SECOND WITCH,1533-0.txt,404,"Not so happy, yet much happier."
+I,III,68,THIRD WITCH,1533-0.txt,407,"Thou shalt get kings, though thou be none:"
+I,III,69,THIRD WITCH,1533-0.txt,408,"So all hail, Macbeth and Banquo!"
+I,III,70,FIRST WITCH,1533-0.txt,411,"Banquo and Macbeth, all hail!"
+I,III,71,MACBETH,1533-0.txt,414,"Stay, you imperfect speakers, tell me more."
+I,III,72,MACBETH,1533-0.txt,415,By Sinel’s death I know I am Thane of Glamis;
+I,III,73,MACBETH,1533-0.txt,416,"But how of Cawdor? The Thane of Cawdor lives,"
+I,III,74,MACBETH,1533-0.txt,417,A prosperous gentleman; and to be king
+I,III,75,MACBETH,1533-0.txt,418,"Stands not within the prospect of belief,"
+I,III,76,MACBETH,1533-0.txt,419,No more than to be Cawdor. Say from whence
+I,III,77,MACBETH,1533-0.txt,420,You owe this strange intelligence? or why
+I,III,78,MACBETH,1533-0.txt,421,Upon this blasted heath you stop our way
+I,III,79,MACBETH,1533-0.txt,422,"With such prophetic greeting?— Speak, I charge you."
+I,III,79,---,1533-0.txt,424,[Witches vanish.]
+I,III,80,BANQUO,1533-0.txt,427,"The earth hath bubbles, as the water has,"
+I,III,81,BANQUO,1533-0.txt,428,And these are of them. Whither are they vanish’d?
+I,III,82,MACBETH,1533-0.txt,431,"Into the air; and what seem’d corporal,"
+I,III,83,MACBETH,1533-0.txt,432,Melted as breath into the wind.
+I,III,84,MACBETH,1533-0.txt,433,Would they had stay’d!
+I,III,85,BANQUO,1533-0.txt,436,Were such things here as we do speak about?
+I,III,86,BANQUO,1533-0.txt,437,Or have we eaten on the insane root
+I,III,87,BANQUO,1533-0.txt,438,That takes the reason prisoner?
+I,III,88,MACBETH,1533-0.txt,441,Your children shall be kings.
+I,III,89,BANQUO,1533-0.txt,444,You shall be king.
+I,III,90,MACBETH,1533-0.txt,447,And Thane of Cawdor too; went it not so?
+I,III,91,BANQUO,1533-0.txt,450,To the selfsame tune and words. Who’s here?
+I,III,91,---,1533-0.txt,452,Enter Ross and Angus.
+I,III,92,ROSS,1533-0.txt,455,"The King hath happily receiv’d, Macbeth,"
+I,III,93,ROSS,1533-0.txt,456,"The news of thy success, and when he reads"
+I,III,94,ROSS,1533-0.txt,457,"Thy personal venture in the rebels’ fight,"
+I,III,95,ROSS,1533-0.txt,458,His wonders and his praises do contend
+I,III,96,ROSS,1533-0.txt,459,"Which should be thine or his: silenc’d with that,"
+I,III,97,ROSS,1533-0.txt,460,"In viewing o’er the rest o’ th’ selfsame day,"
+I,III,98,ROSS,1533-0.txt,461,"He finds thee in the stout Norweyan ranks,"
+I,III,99,ROSS,1533-0.txt,462,"Nothing afeard of what thyself didst make,"
+I,III,100,ROSS,1533-0.txt,463,Strange images of death. As thick as tale
+I,III,101,ROSS,1533-0.txt,464,Came post with post; and everyone did bear
+I,III,102,ROSS,1533-0.txt,465,"Thy praises in his kingdom’s great defence,"
+I,III,103,ROSS,1533-0.txt,466,And pour’d them down before him.
+I,III,104,ANGUS,1533-0.txt,469,We are sent
+I,III,105,ANGUS,1533-0.txt,470,To give thee from our royal master thanks;
+I,III,106,ANGUS,1533-0.txt,471,"Only to herald thee into his sight,"
+I,III,107,ANGUS,1533-0.txt,472,Not pay thee.
+I,III,108,ROSS,1533-0.txt,475,"And, for an earnest of a greater honour,"
+I,III,109,ROSS,1533-0.txt,476,"He bade me, from him, call thee Thane of Cawdor:"
+I,III,110,ROSS,1533-0.txt,477,"In which addition, hail, most worthy thane,"
+I,III,111,ROSS,1533-0.txt,478,For it is thine.
+I,III,112,BANQUO,1533-0.txt,481,"What, can the devil speak true?"
+I,III,113,MACBETH,1533-0.txt,484,The Thane of Cawdor lives: why do you dress me
+I,III,114,MACBETH,1533-0.txt,485,In borrow’d robes?
+I,III,115,ANGUS,1533-0.txt,488,"Who was the Thane lives yet,"
+I,III,116,ANGUS,1533-0.txt,489,But under heavy judgement bears that life
+I,III,117,ANGUS,1533-0.txt,490,Which he deserves to lose. Whether he was combin’d
+I,III,118,ANGUS,1533-0.txt,491,"With those of Norway, or did line the rebel"
+I,III,119,ANGUS,1533-0.txt,492,"With hidden help and vantage, or that with both"
+I,III,120,ANGUS,1533-0.txt,493,"He labour’d in his country’s wrack, I know not;"
+I,III,121,ANGUS,1533-0.txt,494,"But treasons capital, confess’d and prov’d,"
+I,III,122,ANGUS,1533-0.txt,495,Have overthrown him.
+I,III,123,MACBETH,1533-0.txt,498,"[Aside.] Glamis, and Thane of Cawdor:"
+I,III,124,MACBETH,1533-0.txt,499,The greatest is behind. [To Ross and Angus.] Thanks for your pains.
+I,III,125,MACBETH,1533-0.txt,500,"[To Banquo.] Do you not hope your children shall be kings,"
+I,III,126,MACBETH,1533-0.txt,501,When those that gave the Thane of Cawdor to me
+I,III,127,MACBETH,1533-0.txt,502,Promis’d no less to them?
+I,III,128,BANQUO,1533-0.txt,505,"That, trusted home,"
+I,III,129,BANQUO,1533-0.txt,506,"Might yet enkindle you unto the crown,"
+I,III,130,BANQUO,1533-0.txt,507,Besides the Thane of Cawdor. But ’tis strange:
+I,III,131,BANQUO,1533-0.txt,508,"And oftentimes to win us to our harm,"
+I,III,132,BANQUO,1533-0.txt,509,The instruments of darkness tell us truths;
+I,III,133,BANQUO,1533-0.txt,510,"Win us with honest trifles, to betray’s"
+I,III,134,BANQUO,1533-0.txt,511,In deepest consequence.— 
+I,III,135,BANQUO,1533-0.txt,512,"Cousins, a word, I pray you."
+I,III,136,MACBETH,1533-0.txt,515,"[Aside.] Two truths are told,"
+I,III,137,MACBETH,1533-0.txt,516,As happy prologues to the swelling act
+I,III,138,MACBETH,1533-0.txt,517,"Of the imperial theme.— I thank you, gentlemen.— "
+I,III,139,MACBETH,1533-0.txt,518,[Aside.] This supernatural soliciting
+I,III,140,MACBETH,1533-0.txt,519,"Cannot be ill; cannot be good. If ill,"
+I,III,141,MACBETH,1533-0.txt,520,"Why hath it given me earnest of success,"
+I,III,142,MACBETH,1533-0.txt,521,Commencing in a truth? I am Thane of Cawdor:
+I,III,143,MACBETH,1533-0.txt,522,"If good, why do I yield to that suggestion"
+I,III,144,MACBETH,1533-0.txt,523,"Whose horrid image doth unfix my hair,"
+I,III,145,MACBETH,1533-0.txt,524,"And make my seated heart knock at my ribs,"
+I,III,146,MACBETH,1533-0.txt,525,Against the use of nature? Present fears
+I,III,147,MACBETH,1533-0.txt,526,Are less than horrible imaginings.
+I,III,148,MACBETH,1533-0.txt,527,"My thought, whose murder yet is but fantastical,"
+I,III,149,MACBETH,1533-0.txt,528,Shakes so my single state of man
+I,III,150,MACBETH,1533-0.txt,529,"That function is smother’d in surmise,"
+I,III,151,MACBETH,1533-0.txt,530,And nothing is but what is not.
+I,III,152,BANQUO,1533-0.txt,533,"Look, how our partner’s rapt."
+I,III,153,MACBETH,1533-0.txt,536,"[Aside.] If chance will have me king, why, chance may crown me"
+I,III,154,MACBETH,1533-0.txt,537,Without my stir.
+I,III,155,BANQUO,1533-0.txt,540,"New honours come upon him,"
+I,III,156,BANQUO,1533-0.txt,541,"Like our strange garments, cleave not to their mould"
+I,III,157,BANQUO,1533-0.txt,542,But with the aid of use.
+I,III,158,MACBETH,1533-0.txt,545,"[Aside.] Come what come may,"
+I,III,159,MACBETH,1533-0.txt,546,Time and the hour runs through the roughest day.
+I,III,160,BANQUO,1533-0.txt,549,"Worthy Macbeth, we stay upon your leisure."
+I,III,161,MACBETH,1533-0.txt,552,Give me your favour. My dull brain was wrought
+I,III,162,MACBETH,1533-0.txt,553,"With things forgotten. Kind gentlemen, your pains"
+I,III,163,MACBETH,1533-0.txt,554,Are register’d where every day I turn
+I,III,164,MACBETH,1533-0.txt,555,The leaf to read them.— Let us toward the King.— 
+I,III,165,MACBETH,1533-0.txt,556,"Think upon what hath chanc’d; and at more time,"
+I,III,166,MACBETH,1533-0.txt,557,"The interim having weigh’d it, let us speak"
+I,III,167,MACBETH,1533-0.txt,558,Our free hearts each to other.
+I,III,168,BANQUO,1533-0.txt,561,Very gladly.
+I,III,169,MACBETH,1533-0.txt,564,"Till then, enough.— Come, friends."
+I,III,169,---,1533-0.txt,566,[Exeunt.]
+I,IV,0,---,1533-0.txt,570,"Flourish. Enter Duncan, Malcolm, Donalbain, Lennox and Attendants."
+I,IV,1,DUNCAN,1533-0.txt,573,Is execution done on Cawdor? Are not
+I,IV,2,DUNCAN,1533-0.txt,574,Those in commission yet return’d?
+I,IV,3,MALCOLM,1533-0.txt,577,"My liege,"
+I,IV,4,MALCOLM,1533-0.txt,578,They are not yet come back. But I have spoke
+I,IV,5,MALCOLM,1533-0.txt,579,"With one that saw him die, who did report,"
+I,IV,6,MALCOLM,1533-0.txt,580,"That very frankly he confess’d his treasons,"
+I,IV,7,MALCOLM,1533-0.txt,581,"Implor’d your Highness’ pardon, and set forth"
+I,IV,8,MALCOLM,1533-0.txt,582,A deep repentance. Nothing in his life
+I,IV,9,MALCOLM,1533-0.txt,583,Became him like the leaving it; he died
+I,IV,10,MALCOLM,1533-0.txt,584,"As one that had been studied in his death,"
+I,IV,11,MALCOLM,1533-0.txt,585,To throw away the dearest thing he ow’d
+I,IV,12,MALCOLM,1533-0.txt,586,As ’twere a careless trifle.
+I,IV,13,DUNCAN,1533-0.txt,589,There’s no art
+I,IV,14,DUNCAN,1533-0.txt,590,To find the mind’s construction in the face:
+I,IV,15,DUNCAN,1533-0.txt,591,He was a gentleman on whom I built
+I,IV,16,DUNCAN,1533-0.txt,592,An absolute trust.
+I,IV,16,---,1533-0.txt,594,"Enter Macbeth, Banquo, Ross and Angus."
+I,IV,17,DUNCAN,1533-0.txt,596,O worthiest cousin!
+I,IV,18,DUNCAN,1533-0.txt,597,The sin of my ingratitude even now
+I,IV,19,DUNCAN,1533-0.txt,598,"Was heavy on me. Thou art so far before,"
+I,IV,20,DUNCAN,1533-0.txt,599,That swiftest wing of recompense is slow
+I,IV,21,DUNCAN,1533-0.txt,600,To overtake thee. Would thou hadst less deserv’d;
+I,IV,22,DUNCAN,1533-0.txt,601,That the proportion both of thanks and payment
+I,IV,23,DUNCAN,1533-0.txt,602,"Might have been mine! only I have left to say,"
+I,IV,24,DUNCAN,1533-0.txt,603,More is thy due than more than all can pay.
+I,IV,25,MACBETH,1533-0.txt,606,"The service and the loyalty I owe,"
+I,IV,26,MACBETH,1533-0.txt,607,"In doing it, pays itself. Your Highness’ part"
+I,IV,27,MACBETH,1533-0.txt,608,Is to receive our duties: and our duties
+I,IV,28,MACBETH,1533-0.txt,609,"Are to your throne and state, children and servants;"
+I,IV,29,MACBETH,1533-0.txt,610,"Which do but what they should, by doing everything"
+I,IV,30,MACBETH,1533-0.txt,611,Safe toward your love and honour.
+I,IV,31,DUNCAN,1533-0.txt,614,Welcome hither:
+I,IV,32,DUNCAN,1533-0.txt,615,"I have begun to plant thee, and will labour"
+I,IV,33,DUNCAN,1533-0.txt,616,"To make thee full of growing.— Noble Banquo,"
+I,IV,34,DUNCAN,1533-0.txt,617,"That hast no less deserv’d, nor must be known"
+I,IV,35,DUNCAN,1533-0.txt,618,"No less to have done so, let me infold thee"
+I,IV,36,DUNCAN,1533-0.txt,619,And hold thee to my heart.
+I,IV,37,BANQUO,1533-0.txt,622,"There if I grow,"
+I,IV,38,BANQUO,1533-0.txt,623,The harvest is your own.
+I,IV,39,DUNCAN,1533-0.txt,626,"My plenteous joys,"
+I,IV,40,DUNCAN,1533-0.txt,627,"Wanton in fulness, seek to hide themselves"
+I,IV,41,DUNCAN,1533-0.txt,628,"In drops of sorrow.— Sons, kinsmen, thanes,"
+I,IV,42,DUNCAN,1533-0.txt,629,"And you whose places are the nearest, know,"
+I,IV,43,DUNCAN,1533-0.txt,630,We will establish our estate upon
+I,IV,44,DUNCAN,1533-0.txt,631,"Our eldest, Malcolm; whom we name hereafter"
+I,IV,45,DUNCAN,1533-0.txt,632,The Prince of Cumberland: which honour must
+I,IV,46,DUNCAN,1533-0.txt,633,"Not unaccompanied invest him only,"
+I,IV,47,DUNCAN,1533-0.txt,634,"But signs of nobleness, like stars, shall shine"
+I,IV,48,DUNCAN,1533-0.txt,635,"On all deservers.— From hence to Inverness,"
+I,IV,49,DUNCAN,1533-0.txt,636,And bind us further to you.
+I,IV,50,MACBETH,1533-0.txt,639,"The rest is labour, which is not us’d for you:"
+I,IV,51,MACBETH,1533-0.txt,640,"I’ll be myself the harbinger, and make joyful"
+I,IV,52,MACBETH,1533-0.txt,641,The hearing of my wife with your approach;
+I,IV,53,MACBETH,1533-0.txt,642,"So, humbly take my leave."
+I,IV,54,DUNCAN,1533-0.txt,645,My worthy Cawdor!
+I,IV,55,MACBETH,1533-0.txt,648,[Aside.] The Prince of Cumberland!— That is a step
+I,IV,56,MACBETH,1533-0.txt,649,"On which I must fall down, or else o’erleap,"
+I,IV,57,MACBETH,1533-0.txt,650,"For in my way it lies. Stars, hide your fires!"
+I,IV,58,MACBETH,1533-0.txt,651,Let not light see my black and deep desires.
+I,IV,59,MACBETH,1533-0.txt,652,"The eye wink at the hand, yet let that be,"
+I,IV,60,MACBETH,1533-0.txt,653,"Which the eye fears, when it is done, to see."
+I,IV,60,---,1533-0.txt,655,[Exit.]
+I,IV,61,DUNCAN,1533-0.txt,658,"True, worthy Banquo! He is full so valiant;"
+I,IV,62,DUNCAN,1533-0.txt,659,And in his commendations I am fed.
+I,IV,63,DUNCAN,1533-0.txt,660,"It is a banquet to me. Let’s after him,"
+I,IV,64,DUNCAN,1533-0.txt,661,Whose care is gone before to bid us welcome:
+I,IV,65,DUNCAN,1533-0.txt,662,It is a peerless kinsman.
+I,IV,65,---,1533-0.txt,664,[Flourish. Exeunt.]
+I,V,0,---,1533-0.txt,668,"Enter Lady Macbeth, reading a letter."
+I,V,1,LADY MACBETH,1533-0.txt,671,“They met me in the day of success; and I have learned by the
+I,V,2,LADY MACBETH,1533-0.txt,672,perfect’st report they have more in them than mortal knowledge. When I
+I,V,3,LADY MACBETH,1533-0.txt,673,"burned in desire to question them further, they made themselves air,"
+I,V,4,LADY MACBETH,1533-0.txt,674,"into which they vanished. Whiles I stood rapt in the wonder of it, came"
+I,V,5,LADY MACBETH,1533-0.txt,675,"missives from the King, who all-hailed me, ‘Thane of Cawdor’; by which"
+I,V,6,LADY MACBETH,1533-0.txt,676,"title, before, these Weird Sisters saluted me, and referred me to the"
+I,V,7,LADY MACBETH,1533-0.txt,677,"coming on of time, with ‘Hail, king that shalt be!’ This have I thought"
+I,V,8,LADY MACBETH,1533-0.txt,678,good to deliver thee (my dearest partner of greatness) that thou
+I,V,9,LADY MACBETH,1533-0.txt,679,"might’st not lose the dues of rejoicing, by being ignorant of what"
+I,V,10,LADY MACBETH,1533-0.txt,680,"greatness is promis’d thee. Lay it to thy heart, and farewell.”"
+I,V,11,LADY MACBETH,1533-0.txt,682,"Glamis thou art, and Cawdor; and shalt be"
+I,V,12,LADY MACBETH,1533-0.txt,683,What thou art promis’d. Yet do I fear thy nature;
+I,V,13,LADY MACBETH,1533-0.txt,684,It is too full o’ th’ milk of human kindness
+I,V,14,LADY MACBETH,1533-0.txt,685,To catch the nearest way. Thou wouldst be great;
+I,V,15,LADY MACBETH,1533-0.txt,686,"Art not without ambition, but without"
+I,V,16,LADY MACBETH,1533-0.txt,687,"The illness should attend it. What thou wouldst highly,"
+I,V,17,LADY MACBETH,1533-0.txt,688,"That wouldst thou holily; wouldst not play false,"
+I,V,18,LADY MACBETH,1533-0.txt,689,"And yet wouldst wrongly win. Thou’dst have, great Glamis,"
+I,V,19,LADY MACBETH,1533-0.txt,690,"That which cries, “Thus thou must do,” if thou have it;"
+I,V,20,LADY MACBETH,1533-0.txt,691,"And that which rather thou dost fear to do,"
+I,V,21,LADY MACBETH,1533-0.txt,692,"Than wishest should be undone. Hie thee hither,"
+I,V,22,LADY MACBETH,1533-0.txt,693,"That I may pour my spirits in thine ear,"
+I,V,23,LADY MACBETH,1533-0.txt,694,And chastise with the valour of my tongue
+I,V,24,LADY MACBETH,1533-0.txt,695,"All that impedes thee from the golden round,"
+I,V,25,LADY MACBETH,1533-0.txt,696,Which fate and metaphysical aid doth seem
+I,V,26,LADY MACBETH,1533-0.txt,697,To have thee crown’d withal.
+I,V,26,---,1533-0.txt,699,Enter a Messenger.
+I,V,27,LADY MACBETH,1533-0.txt,701,What is your tidings?
+I,V,28,MESSENGER,1533-0.txt,704,The King comes here tonight.
+I,V,29,LADY MACBETH,1533-0.txt,707,Thou’rt mad to say it.
+I,V,30,LADY MACBETH,1533-0.txt,708,"Is not thy master with him? who, were’t so,"
+I,V,31,LADY MACBETH,1533-0.txt,709,Would have inform’d for preparation.
+I,V,32,MESSENGER,1533-0.txt,712,"So please you, it is true. Our thane is coming."
+I,V,33,MESSENGER,1533-0.txt,713,"One of my fellows had the speed of him,"
+I,V,34,MESSENGER,1533-0.txt,714,"Who, almost dead for breath, had scarcely more"
+I,V,35,MESSENGER,1533-0.txt,715,Than would make up his message.
+I,V,36,LADY MACBETH,1533-0.txt,718,Give him tending.
+I,V,37,LADY MACBETH,1533-0.txt,719,He brings great news.
+I,V,37,---,1533-0.txt,721,[Exit Messenger.]
+I,V,38,LADY MACBETH,1533-0.txt,723,The raven himself is hoarse
+I,V,39,LADY MACBETH,1533-0.txt,724,That croaks the fatal entrance of Duncan
+I,V,40,LADY MACBETH,1533-0.txt,725,"Under my battlements. Come, you spirits"
+I,V,41,LADY MACBETH,1533-0.txt,726,"That tend on mortal thoughts, unsex me here,"
+I,V,42,LADY MACBETH,1533-0.txt,727,"And fill me, from the crown to the toe, top-full"
+I,V,43,LADY MACBETH,1533-0.txt,728,"Of direst cruelty! make thick my blood,"
+I,V,44,LADY MACBETH,1533-0.txt,729,"Stop up th’ access and passage to remorse,"
+I,V,45,LADY MACBETH,1533-0.txt,730,That no compunctious visitings of nature
+I,V,46,LADY MACBETH,1533-0.txt,731,"Shake my fell purpose, nor keep peace between"
+I,V,47,LADY MACBETH,1533-0.txt,732,"Th’ effect and it! Come to my woman’s breasts,"
+I,V,48,LADY MACBETH,1533-0.txt,733,"And take my milk for gall, your murd’ring ministers,"
+I,V,49,LADY MACBETH,1533-0.txt,734,Wherever in your sightless substances
+I,V,50,LADY MACBETH,1533-0.txt,735,"You wait on nature’s mischief! Come, thick night,"
+I,V,51,LADY MACBETH,1533-0.txt,736,And pall thee in the dunnest smoke of hell
+I,V,52,LADY MACBETH,1533-0.txt,737,"That my keen knife see not the wound it makes,"
+I,V,53,LADY MACBETH,1533-0.txt,738,Nor heaven peep through the blanket of the dark
+I,V,54,LADY MACBETH,1533-0.txt,739,"To cry, “Hold, hold!”"
+I,V,54,---,1533-0.txt,741,Enter Macbeth.
+I,V,55,LADY MACBETH,1533-0.txt,743,"Great Glamis, worthy Cawdor!"
+I,V,56,LADY MACBETH,1533-0.txt,744,"Greater than both, by the all-hail hereafter!"
+I,V,57,LADY MACBETH,1533-0.txt,745,Thy letters have transported me beyond
+I,V,58,LADY MACBETH,1533-0.txt,746,"This ignorant present, and I feel now"
+I,V,59,LADY MACBETH,1533-0.txt,747,The future in the instant.
+I,V,60,MACBETH,1533-0.txt,750,"My dearest love,"
+I,V,61,MACBETH,1533-0.txt,751,Duncan comes here tonight.
+I,V,62,LADY MACBETH,1533-0.txt,754,And when goes hence?
+I,V,63,MACBETH,1533-0.txt,757,"Tomorrow, as he purposes."
+I,V,64,LADY MACBETH,1533-0.txt,760,"O, never"
+I,V,65,LADY MACBETH,1533-0.txt,761,Shall sun that morrow see!
+I,V,66,LADY MACBETH,1533-0.txt,762,"Your face, my thane, is as a book where men"
+I,V,67,LADY MACBETH,1533-0.txt,763,"May read strange matters. To beguile the time,"
+I,V,68,LADY MACBETH,1533-0.txt,764,"Look like the time; bear welcome in your eye,"
+I,V,69,LADY MACBETH,1533-0.txt,765,"Your hand, your tongue: look like the innocent flower,"
+I,V,70,LADY MACBETH,1533-0.txt,766,But be the serpent under’t. He that’s coming
+I,V,71,LADY MACBETH,1533-0.txt,767,Must be provided for; and you shall put
+I,V,72,LADY MACBETH,1533-0.txt,768,This night’s great business into my dispatch;
+I,V,73,LADY MACBETH,1533-0.txt,769,Which shall to all our nights and days to come
+I,V,74,LADY MACBETH,1533-0.txt,770,Give solely sovereign sway and masterdom.
+I,V,75,MACBETH,1533-0.txt,773,We will speak further.
+I,V,76,LADY MACBETH,1533-0.txt,776,Only look up clear;
+I,V,77,LADY MACBETH,1533-0.txt,777,To alter favour ever is to fear.
+I,V,78,LADY MACBETH,1533-0.txt,778,Leave all the rest to me.
+I,V,78,---,1533-0.txt,780,[Exeunt.]
+I,VI,0,---,1533-0.txt,784,Hautboys. Servants of Macbeth attending.
+I,VI,0,---,1533-0.txt,786,"Enter Duncan, Malcolm, Donalbain, Banquo, Lennox, Macduff, Ross, Angus and Attendants."
+I,VI,1,DUNCAN,1533-0.txt,790,This castle hath a pleasant seat. The air
+I,VI,2,DUNCAN,1533-0.txt,791,Nimbly and sweetly recommends itself
+I,VI,3,DUNCAN,1533-0.txt,792,Unto our gentle senses.
+I,VI,4,BANQUO,1533-0.txt,795,"This guest of summer,"
+I,VI,5,BANQUO,1533-0.txt,796,"The temple-haunting martlet, does approve,"
+I,VI,6,BANQUO,1533-0.txt,797,"By his loved mansionry, that the heaven’s breath"
+I,VI,7,BANQUO,1533-0.txt,798,"Smells wooingly here: no jutty, frieze,"
+I,VI,8,BANQUO,1533-0.txt,799,"Buttress, nor coign of vantage, but this bird"
+I,VI,9,BANQUO,1533-0.txt,800,hath made his pendant bed and procreant cradle.
+I,VI,10,BANQUO,1533-0.txt,801,"Where they most breed and haunt, I have observ’d"
+I,VI,11,BANQUO,1533-0.txt,802,The air is delicate.
+I,VI,11,---,1533-0.txt,804,Enter Lady Macbeth.
+I,VI,12,DUNCAN,1533-0.txt,807,"See, see, our honour’d hostess!— "
+I,VI,13,DUNCAN,1533-0.txt,808,"The love that follows us sometime is our trouble,"
+I,VI,14,DUNCAN,1533-0.txt,809,Which still we thank as love. Herein I teach you
+I,VI,15,DUNCAN,1533-0.txt,810,"How you shall bid God ’ild us for your pains,"
+I,VI,16,DUNCAN,1533-0.txt,811,And thank us for your trouble.
+I,VI,17,LADY MACBETH,1533-0.txt,814,"All our service,"
+I,VI,18,LADY MACBETH,1533-0.txt,815,"In every point twice done, and then done double,"
+I,VI,19,LADY MACBETH,1533-0.txt,816,Were poor and single business to contend
+I,VI,20,LADY MACBETH,1533-0.txt,817,Against those honours deep and broad wherewith
+I,VI,21,LADY MACBETH,1533-0.txt,818,"Your Majesty loads our house: for those of old,"
+I,VI,22,LADY MACBETH,1533-0.txt,819,"And the late dignities heap’d up to them,"
+I,VI,23,LADY MACBETH,1533-0.txt,820,We rest your hermits.
+I,VI,24,DUNCAN,1533-0.txt,823,Where’s the Thane of Cawdor?
+I,VI,25,DUNCAN,1533-0.txt,824,"We cours’d him at the heels, and had a purpose"
+I,VI,26,DUNCAN,1533-0.txt,825,To be his purveyor: but he rides well;
+I,VI,27,DUNCAN,1533-0.txt,826,"And his great love, sharp as his spur, hath holp him"
+I,VI,28,DUNCAN,1533-0.txt,827,"To his home before us. Fair and noble hostess,"
+I,VI,29,DUNCAN,1533-0.txt,828,We are your guest tonight.
+I,VI,30,LADY MACBETH,1533-0.txt,831,Your servants ever
+I,VI,31,LADY MACBETH,1533-0.txt,832,"Have theirs, themselves, and what is theirs, in compt,"
+I,VI,32,LADY MACBETH,1533-0.txt,833,"To make their audit at your Highness’ pleasure,"
+I,VI,33,LADY MACBETH,1533-0.txt,834,Still to return your own.
+I,VI,34,DUNCAN,1533-0.txt,837,Give me your hand;
+I,VI,35,DUNCAN,1533-0.txt,838,"Conduct me to mine host: we love him highly,"
+I,VI,36,DUNCAN,1533-0.txt,839,And shall continue our graces towards him.
+I,VI,37,DUNCAN,1533-0.txt,840,"By your leave, hostess."
+I,VI,37,---,1533-0.txt,842,[Exeunt.]
+I,VII,0,---,1533-0.txt,846,"Hautboys and torches. Enter, and pass over, a Sewer and divers Servants with dishes and service. Then enter Macbeth."
+I,VII,1,MACBETH,1533-0.txt,850,"If it were done when ’tis done, then ’twere well"
+I,VII,2,MACBETH,1533-0.txt,851,It were done quickly. If th’ assassination
+I,VII,3,MACBETH,1533-0.txt,852,"Could trammel up the consequence, and catch"
+I,VII,4,MACBETH,1533-0.txt,853,With his surcease success; that but this blow
+I,VII,5,MACBETH,1533-0.txt,854,"Might be the be-all and the end-all— here,"
+I,VII,6,MACBETH,1533-0.txt,855,"But here, upon this bank and shoal of time,"
+I,VII,7,MACBETH,1533-0.txt,856,We’d jump the life to come. But in these cases
+I,VII,8,MACBETH,1533-0.txt,857,We still have judgement here; that we but teach
+I,VII,9,MACBETH,1533-0.txt,858,"Bloody instructions, which being taught, return"
+I,VII,10,MACBETH,1533-0.txt,859,To plague th’ inventor. This even-handed justice
+I,VII,11,MACBETH,1533-0.txt,860,Commends th’ ingredience of our poison’d chalice
+I,VII,12,MACBETH,1533-0.txt,861,To our own lips. He’s here in double trust:
+I,VII,13,MACBETH,1533-0.txt,862,"First, as I am his kinsman and his subject,"
+I,VII,14,MACBETH,1533-0.txt,863,"Strong both against the deed; then, as his host,"
+I,VII,15,MACBETH,1533-0.txt,864,"Who should against his murderer shut the door,"
+I,VII,16,MACBETH,1533-0.txt,865,"Not bear the knife myself. Besides, this Duncan"
+I,VII,17,MACBETH,1533-0.txt,866,"Hath borne his faculties so meek, hath been"
+I,VII,18,MACBETH,1533-0.txt,867,"So clear in his great office, that his virtues"
+I,VII,19,MACBETH,1533-0.txt,868,"Will plead like angels, trumpet-tongued, against"
+I,VII,20,MACBETH,1533-0.txt,869,The deep damnation of his taking-off;
+I,VII,21,MACBETH,1533-0.txt,870,"And pity, like a naked new-born babe,"
+I,VII,22,MACBETH,1533-0.txt,871,"Striding the blast, or heaven’s cherubin, hors’d"
+I,VII,23,MACBETH,1533-0.txt,872,"Upon the sightless couriers of the air,"
+I,VII,24,MACBETH,1533-0.txt,873,"Shall blow the horrid deed in every eye,"
+I,VII,25,MACBETH,1533-0.txt,874,That tears shall drown the wind.— I have no spur
+I,VII,26,MACBETH,1533-0.txt,875,"To prick the sides of my intent, but only"
+I,VII,27,MACBETH,1533-0.txt,876,"Vaulting ambition, which o’erleaps itself"
+I,VII,28,MACBETH,1533-0.txt,877,And falls on th’ other— 
+I,VII,28,---,1533-0.txt,879,Enter Lady Macbeth.
+I,VII,29,MACBETH,1533-0.txt,881,How now! what news?
+I,VII,30,LADY MACBETH,1533-0.txt,884,He has almost supp’d. Why have you left the chamber?
+I,VII,31,MACBETH,1533-0.txt,887,Hath he ask’d for me?
+I,VII,32,LADY MACBETH,1533-0.txt,890,Know you not he has?
+I,VII,33,MACBETH,1533-0.txt,893,We will proceed no further in this business:
+I,VII,34,MACBETH,1533-0.txt,894,He hath honour’d me of late; and I have bought
+I,VII,35,MACBETH,1533-0.txt,895,"Golden opinions from all sorts of people,"
+I,VII,36,MACBETH,1533-0.txt,896,"Which would be worn now in their newest gloss,"
+I,VII,37,MACBETH,1533-0.txt,897,Not cast aside so soon.
+I,VII,38,LADY MACBETH,1533-0.txt,900,Was the hope drunk
+I,VII,39,LADY MACBETH,1533-0.txt,901,Wherein you dress’d yourself? Hath it slept since?
+I,VII,40,LADY MACBETH,1533-0.txt,902,"And wakes it now, to look so green and pale"
+I,VII,41,LADY MACBETH,1533-0.txt,903,At what it did so freely? From this time
+I,VII,42,LADY MACBETH,1533-0.txt,904,Such I account thy love. Art thou afeard
+I,VII,43,LADY MACBETH,1533-0.txt,905,To be the same in thine own act and valour
+I,VII,44,LADY MACBETH,1533-0.txt,906,As thou art in desire? Wouldst thou have that
+I,VII,45,LADY MACBETH,1533-0.txt,907,"Which thou esteem’st the ornament of life,"
+I,VII,46,LADY MACBETH,1533-0.txt,908,"And live a coward in thine own esteem,"
+I,VII,47,LADY MACBETH,1533-0.txt,909,"Letting “I dare not” wait upon “I would,”"
+I,VII,48,LADY MACBETH,1533-0.txt,910,Like the poor cat i’ th’ adage?
+I,VII,49,MACBETH,1533-0.txt,913,"Pr’ythee, peace!"
+I,VII,50,MACBETH,1533-0.txt,914,I dare do all that may become a man;
+I,VII,51,MACBETH,1533-0.txt,915,Who dares do more is none.
+I,VII,52,LADY MACBETH,1533-0.txt,918,"What beast was’t, then,"
+I,VII,53,LADY MACBETH,1533-0.txt,919,That made you break this enterprise to me?
+I,VII,54,LADY MACBETH,1533-0.txt,920,"When you durst do it, then you were a man;"
+I,VII,55,LADY MACBETH,1533-0.txt,921,"And, to be more than what you were, you would"
+I,VII,56,LADY MACBETH,1533-0.txt,922,Be so much more the man. Nor time nor place
+I,VII,57,LADY MACBETH,1533-0.txt,923,"Did then adhere, and yet you would make both:"
+I,VII,58,LADY MACBETH,1533-0.txt,924,"They have made themselves, and that their fitness now"
+I,VII,59,LADY MACBETH,1533-0.txt,925,"Does unmake you. I have given suck, and know"
+I,VII,60,LADY MACBETH,1533-0.txt,926,How tender ’tis to love the babe that milks me:
+I,VII,61,LADY MACBETH,1533-0.txt,927,"I would, while it was smiling in my face,"
+I,VII,62,LADY MACBETH,1533-0.txt,928,Have pluck’d my nipple from his boneless gums
+I,VII,63,LADY MACBETH,1533-0.txt,929,"And dash’d the brains out, had I so sworn as you"
+I,VII,64,LADY MACBETH,1533-0.txt,930,Have done to this.
+I,VII,65,MACBETH,1533-0.txt,933,If we should fail?
+I,VII,66,LADY MACBETH,1533-0.txt,936,We fail?
+I,VII,67,LADY MACBETH,1533-0.txt,937,"But screw your courage to the sticking-place,"
+I,VII,68,LADY MACBETH,1533-0.txt,938,And we’ll not fail. When Duncan is asleep
+I,VII,69,LADY MACBETH,1533-0.txt,939,(Whereto the rather shall his day’s hard journey
+I,VII,70,LADY MACBETH,1533-0.txt,940,"Soundly invite him), his two chamberlains"
+I,VII,71,LADY MACBETH,1533-0.txt,941,Will I with wine and wassail so convince
+I,VII,72,LADY MACBETH,1533-0.txt,942,"That memory, the warder of the brain,"
+I,VII,73,LADY MACBETH,1533-0.txt,943,"Shall be a fume, and the receipt of reason"
+I,VII,74,LADY MACBETH,1533-0.txt,944,A limbeck only: when in swinish sleep
+I,VII,75,LADY MACBETH,1533-0.txt,945,"Their drenched natures lie as in a death,"
+I,VII,76,LADY MACBETH,1533-0.txt,946,What cannot you and I perform upon
+I,VII,77,LADY MACBETH,1533-0.txt,947,Th’ unguarded Duncan? what not put upon
+I,VII,78,LADY MACBETH,1533-0.txt,948,His spongy officers; who shall bear the guilt
+I,VII,79,LADY MACBETH,1533-0.txt,949,Of our great quell?
+I,VII,80,MACBETH,1533-0.txt,952,Bring forth men-children only;
+I,VII,81,MACBETH,1533-0.txt,953,For thy undaunted mettle should compose
+I,VII,82,MACBETH,1533-0.txt,954,"Nothing but males. Will it not be receiv’d,"
+I,VII,83,MACBETH,1533-0.txt,955,When we have mark’d with blood those sleepy two
+I,VII,84,MACBETH,1533-0.txt,956,"Of his own chamber, and us’d their very daggers,"
+I,VII,85,MACBETH,1533-0.txt,957,That they have done’t?
+I,VII,86,LADY MACBETH,1533-0.txt,960,"Who dares receive it other,"
+I,VII,87,LADY MACBETH,1533-0.txt,961,As we shall make our griefs and clamour roar
+I,VII,88,LADY MACBETH,1533-0.txt,962,Upon his death?
+I,VII,89,MACBETH,1533-0.txt,965,"I am settled, and bend up"
+I,VII,90,MACBETH,1533-0.txt,966,Each corporal agent to this terrible feat.
+I,VII,91,MACBETH,1533-0.txt,967,"Away, and mock the time with fairest show:"
+I,VII,92,MACBETH,1533-0.txt,968,False face must hide what the false heart doth know.
+I,VII,92,---,1533-0.txt,970,[Exeunt.]
+II,I,0,---,1533-0.txt,977,Enter Banquo and Fleance with a torch before him.
+II,I,1,BANQUO,1533-0.txt,980,"How goes the night, boy?"
+II,I,2,FLEANCE,1533-0.txt,983,The moon is down; I have not heard the clock.
+II,I,3,BANQUO,1533-0.txt,986,And she goes down at twelve.
+II,I,4,FLEANCE,1533-0.txt,989,"I take’t, ’tis later, sir."
+II,I,5,BANQUO,1533-0.txt,992,"Hold, take my sword.— There’s husbandry in heaven;"
+II,I,6,BANQUO,1533-0.txt,993,Their candles are all out. Take thee that too.
+II,I,7,BANQUO,1533-0.txt,994,"A heavy summons lies like lead upon me,"
+II,I,8,BANQUO,1533-0.txt,995,"And yet I would not sleep. Merciful powers,"
+II,I,9,BANQUO,1533-0.txt,996,Restrain in me the cursed thoughts that nature
+II,I,10,BANQUO,1533-0.txt,997,Gives way to in repose!
+II,I,10,---,1533-0.txt,999,Enter Macbeth and a Servant with a torch.
+II,I,11,BANQUO,1533-0.txt,1001,Give me my sword.— Who’s there?
+II,I,12,MACBETH,1533-0.txt,1004,A friend.
+II,I,13,BANQUO,1533-0.txt,1007,"What, sir, not yet at rest? The King’s abed:"
+II,I,14,BANQUO,1533-0.txt,1008,He hath been in unusual pleasure and
+II,I,15,BANQUO,1533-0.txt,1009,Sent forth great largess to your offices.
+II,I,16,BANQUO,1533-0.txt,1010,"This diamond he greets your wife withal,"
+II,I,17,BANQUO,1533-0.txt,1011,"By the name of most kind hostess, and shut up"
+II,I,18,BANQUO,1533-0.txt,1012,In measureless content.
+II,I,19,MACBETH,1533-0.txt,1015,"Being unprepar’d,"
+II,I,20,MACBETH,1533-0.txt,1016,"Our will became the servant to defect,"
+II,I,21,MACBETH,1533-0.txt,1017,Which else should free have wrought.
+II,I,22,BANQUO,1533-0.txt,1020,All’s well.
+II,I,23,BANQUO,1533-0.txt,1021,I dreamt last night of the three Weird Sisters:
+II,I,24,BANQUO,1533-0.txt,1022,To you they have show’d some truth.
+II,I,25,MACBETH,1533-0.txt,1025,I think not of them:
+II,I,26,MACBETH,1533-0.txt,1026,"Yet, when we can entreat an hour to serve,"
+II,I,27,MACBETH,1533-0.txt,1027,"We would spend it in some words upon that business,"
+II,I,28,MACBETH,1533-0.txt,1028,If you would grant the time.
+II,I,29,BANQUO,1533-0.txt,1031,At your kind’st leisure.
+II,I,30,MACBETH,1533-0.txt,1034,"If you shall cleave to my consent, when ’tis,"
+II,I,31,MACBETH,1533-0.txt,1035,It shall make honour for you.
+II,I,32,BANQUO,1533-0.txt,1038,So I lose none
+II,I,33,BANQUO,1533-0.txt,1039,"In seeking to augment it, but still keep"
+II,I,34,BANQUO,1533-0.txt,1040,"My bosom franchis’d, and allegiance clear,"
+II,I,35,BANQUO,1533-0.txt,1041,I shall be counsell’d.
+II,I,36,MACBETH,1533-0.txt,1044,Good repose the while!
+II,I,37,BANQUO,1533-0.txt,1047,"Thanks, sir: the like to you."
+II,I,37,---,1533-0.txt,1049,[Exeunt Banquo and Fleance.]
+II,I,38,MACBETH,1533-0.txt,1052,"Go bid thy mistress, when my drink is ready,"
+II,I,39,MACBETH,1533-0.txt,1053,She strike upon the bell. Get thee to bed.
+II,I,39,---,1533-0.txt,1055,[Exit Servant.]
+II,I,40,MACBETH,1533-0.txt,1057,"Is this a dagger which I see before me,"
+II,I,41,MACBETH,1533-0.txt,1058,"The handle toward my hand? Come, let me clutch thee:— "
+II,I,42,MACBETH,1533-0.txt,1059,"I have thee not, and yet I see thee still."
+II,I,43,MACBETH,1533-0.txt,1060,"Art thou not, fatal vision, sensible"
+II,I,44,MACBETH,1533-0.txt,1061,To feeling as to sight? or art thou but
+II,I,45,MACBETH,1533-0.txt,1062,"A dagger of the mind, a false creation,"
+II,I,46,MACBETH,1533-0.txt,1063,Proceeding from the heat-oppressed brain?
+II,I,47,MACBETH,1533-0.txt,1064,"I see thee yet, in form as palpable"
+II,I,48,MACBETH,1533-0.txt,1065,As this which now I draw.
+II,I,49,MACBETH,1533-0.txt,1066,Thou marshall’st me the way that I was going;
+II,I,50,MACBETH,1533-0.txt,1067,And such an instrument I was to use.
+II,I,51,MACBETH,1533-0.txt,1068,"Mine eyes are made the fools o’ the other senses,"
+II,I,52,MACBETH,1533-0.txt,1069,Or else worth all the rest: I see thee still;
+II,I,53,MACBETH,1533-0.txt,1070,"And on thy blade and dudgeon, gouts of blood,"
+II,I,54,MACBETH,1533-0.txt,1071,Which was not so before.— There’s no such thing.
+II,I,55,MACBETH,1533-0.txt,1072,It is the bloody business which informs
+II,I,56,MACBETH,1533-0.txt,1073,Thus to mine eyes.— Now o’er the one half-world
+II,I,57,MACBETH,1533-0.txt,1074,"Nature seems dead, and wicked dreams abuse"
+II,I,58,MACBETH,1533-0.txt,1075,The curtain’d sleep. Witchcraft celebrates
+II,I,59,MACBETH,1533-0.txt,1076,"Pale Hecate’s off’rings; and wither’d murder,"
+II,I,60,MACBETH,1533-0.txt,1077,"Alarum’d by his sentinel, the wolf,"
+II,I,61,MACBETH,1533-0.txt,1078,"Whose howl’s his watch, thus with his stealthy pace,"
+II,I,62,MACBETH,1533-0.txt,1079,"With Tarquin’s ravishing strides, towards his design"
+II,I,63,MACBETH,1533-0.txt,1080,"Moves like a ghost.— Thou sure and firm-set earth,"
+II,I,64,MACBETH,1533-0.txt,1081,"Hear not my steps, which way they walk, for fear"
+II,I,65,MACBETH,1533-0.txt,1082,"Thy very stones prate of my whereabout,"
+II,I,66,MACBETH,1533-0.txt,1083,"And take the present horror from the time,"
+II,I,67,MACBETH,1533-0.txt,1084,"Which now suits with it.— Whiles I threat, he lives."
+II,I,68,MACBETH,1533-0.txt,1085,Words to the heat of deeds too cold breath gives.
+II,I,68,---,1533-0.txt,1087,[A bell rings.]
+II,I,69,MACBETH,1533-0.txt,1089,"I go, and it is done. The bell invites me."
+II,I,70,MACBETH,1533-0.txt,1090,"Hear it not, Duncan, for it is a knell"
+II,I,71,MACBETH,1533-0.txt,1091,That summons thee to heaven or to hell.
+II,I,71,---,1533-0.txt,1093,[Exit.]
+II,II,0,---,1533-0.txt,1097,Enter Lady Macbeth.
+II,II,1,LADY MACBETH,1533-0.txt,1100,That which hath made them drunk hath made me bold:
+II,II,2,LADY MACBETH,1533-0.txt,1101,What hath quench’d them hath given me fire.— Hark!— Peace!
+II,II,3,LADY MACBETH,1533-0.txt,1102,"It was the owl that shriek’d, the fatal bellman,"
+II,II,4,LADY MACBETH,1533-0.txt,1103,Which gives the stern’st good night. He is about it.
+II,II,5,LADY MACBETH,1533-0.txt,1104,The doors are open; and the surfeited grooms
+II,II,6,LADY MACBETH,1533-0.txt,1105,"Do mock their charge with snores: I have drugg’d their possets,"
+II,II,7,LADY MACBETH,1533-0.txt,1106,"That death and nature do contend about them,"
+II,II,8,LADY MACBETH,1533-0.txt,1107,Whether they live or die.
+II,II,9,MACBETH,1533-0.txt,1110,"[Within.] Who’s there?— what, ho!"
+II,II,10,LADY MACBETH,1533-0.txt,1113,"Alack! I am afraid they have awak’d,"
+II,II,11,LADY MACBETH,1533-0.txt,1114,And ’tis not done. Th’ attempt and not the deed
+II,II,12,LADY MACBETH,1533-0.txt,1115,Confounds us.— Hark!— I laid their daggers ready;
+II,II,13,LADY MACBETH,1533-0.txt,1116,He could not miss ’em.— Had he not resembled
+II,II,14,LADY MACBETH,1533-0.txt,1117,"My father as he slept, I had done’t.— My husband!"
+II,II,14,---,1533-0.txt,1119,Enter Macbeth.
+II,II,15,MACBETH,1533-0.txt,1122,I have done the deed.— Didst thou not hear a noise?
+II,II,16,LADY MACBETH,1533-0.txt,1125,I heard the owl scream and the crickets cry.
+II,II,17,LADY MACBETH,1533-0.txt,1126,Did not you speak?
+II,II,18,MACBETH,1533-0.txt,1129,When?
+II,II,19,LADY MACBETH,1533-0.txt,1132,Now.
+II,II,20,MACBETH,1533-0.txt,1135,As I descended?
+II,II,21,LADY MACBETH,1533-0.txt,1138,Ay.
+II,II,22,MACBETH,1533-0.txt,1141,Hark!— Who lies i’ th’ second chamber?
+II,II,23,LADY MACBETH,1533-0.txt,1144,Donalbain.
+II,II,24,MACBETH,1533-0.txt,1147,This is a sorry sight.
+II,II,24,---,1533-0.txt,1149,[Looking on his hands.]
+II,II,25,LADY MACBETH,1533-0.txt,1152,"A foolish thought, to say a sorry sight."
+II,II,26,MACBETH,1533-0.txt,1155,"There’s one did laugh in’s sleep, and one cried, “Murder!”"
+II,II,27,MACBETH,1533-0.txt,1156,That they did wake each other: I stood and heard them.
+II,II,28,MACBETH,1533-0.txt,1157,"But they did say their prayers, and address’d them"
+II,II,29,MACBETH,1533-0.txt,1158,Again to sleep.
+II,II,30,LADY MACBETH,1533-0.txt,1161,There are two lodg’d together.
+II,II,31,MACBETH,1533-0.txt,1164,"One cried, “God bless us!” and, “Amen,” the other,"
+II,II,32,MACBETH,1533-0.txt,1165,As they had seen me with these hangman’s hands.
+II,II,33,MACBETH,1533-0.txt,1166,"List’ning their fear, I could not say “Amen,”"
+II,II,34,MACBETH,1533-0.txt,1167,"When they did say, “God bless us.”"
+II,II,35,LADY MACBETH,1533-0.txt,1170,Consider it not so deeply.
+II,II,36,MACBETH,1533-0.txt,1173,But wherefore could not I pronounce “Amen”?
+II,II,37,MACBETH,1533-0.txt,1174,"I had most need of blessing, and “Amen”"
+II,II,38,MACBETH,1533-0.txt,1175,Stuck in my throat.
+II,II,39,LADY MACBETH,1533-0.txt,1178,These deeds must not be thought
+II,II,40,LADY MACBETH,1533-0.txt,1179,"After these ways; so, it will make us mad."
+II,II,41,MACBETH,1533-0.txt,1182,"Methought I heard a voice cry, “Sleep no more!"
+II,II,42,MACBETH,1533-0.txt,1183,"Macbeth does murder sleep,”— the innocent sleep;"
+II,II,43,MACBETH,1533-0.txt,1184,"Sleep that knits up the ravell’d sleave of care,"
+II,II,44,MACBETH,1533-0.txt,1185,"The death of each day’s life, sore labour’s bath,"
+II,II,45,MACBETH,1533-0.txt,1186,"Balm of hurt minds, great nature’s second course,"
+II,II,46,MACBETH,1533-0.txt,1187,Chief nourisher in life’s feast.
+II,II,47,LADY MACBETH,1533-0.txt,1190,What do you mean?
+II,II,48,MACBETH,1533-0.txt,1193,"Still it cried, “Sleep no more!” to all the house:"
+II,II,49,MACBETH,1533-0.txt,1194,"“Glamis hath murder’d sleep, and therefore Cawdor"
+II,II,50,MACBETH,1533-0.txt,1195,Shall sleep no more. Macbeth shall sleep no more!”
+II,II,51,LADY MACBETH,1533-0.txt,1198,"Who was it that thus cried? Why, worthy thane,"
+II,II,52,LADY MACBETH,1533-0.txt,1199,You do unbend your noble strength to think
+II,II,53,LADY MACBETH,1533-0.txt,1200,"So brainsickly of things. Go get some water,"
+II,II,54,LADY MACBETH,1533-0.txt,1201,And wash this filthy witness from your hand.— 
+II,II,55,LADY MACBETH,1533-0.txt,1202,Why did you bring these daggers from the place?
+II,II,56,LADY MACBETH,1533-0.txt,1203,"They must lie there: go carry them, and smear"
+II,II,57,LADY MACBETH,1533-0.txt,1204,The sleepy grooms with blood.
+II,II,58,MACBETH,1533-0.txt,1207,I’ll go no more:
+II,II,59,MACBETH,1533-0.txt,1208,I am afraid to think what I have done;
+II,II,60,MACBETH,1533-0.txt,1209,Look on’t again I dare not.
+II,II,61,LADY MACBETH,1533-0.txt,1212,Infirm of purpose!
+II,II,62,LADY MACBETH,1533-0.txt,1213,Give me the daggers. The sleeping and the dead
+II,II,63,LADY MACBETH,1533-0.txt,1214,Are but as pictures. ’Tis the eye of childhood
+II,II,64,LADY MACBETH,1533-0.txt,1215,"That fears a painted devil. If he do bleed,"
+II,II,65,LADY MACBETH,1533-0.txt,1216,"I’ll gild the faces of the grooms withal,"
+II,II,66,LADY MACBETH,1533-0.txt,1217,For it must seem their guilt.
+II,II,66,---,1533-0.txt,1219,[Exit. Knocking within.]
+II,II,67,MACBETH,1533-0.txt,1222,Whence is that knocking?
+II,II,68,MACBETH,1533-0.txt,1223,"How is’t with me, when every noise appals me?"
+II,II,69,MACBETH,1533-0.txt,1224,"What hands are here? Ha, they pluck out mine eyes!"
+II,II,70,MACBETH,1533-0.txt,1225,Will all great Neptune’s ocean wash this blood
+II,II,71,MACBETH,1533-0.txt,1226,"Clean from my hand? No, this my hand will rather"
+II,II,72,MACBETH,1533-0.txt,1227,"The multitudinous seas incarnadine,"
+II,II,73,MACBETH,1533-0.txt,1228,Making the green one red.
+II,II,73,---,1533-0.txt,1230,Enter Lady Macbeth.
+II,II,74,LADY MACBETH,1533-0.txt,1233,"My hands are of your color, but I shame"
+II,II,75,LADY MACBETH,1533-0.txt,1234,To wear a heart so white. [Knocking within.] I hear knocking
+II,II,76,LADY MACBETH,1533-0.txt,1235,At the south entry:— retire we to our chamber.
+II,II,77,LADY MACBETH,1533-0.txt,1236,A little water clears us of this deed:
+II,II,78,LADY MACBETH,1533-0.txt,1237,How easy is it then! Your constancy
+II,II,79,LADY MACBETH,1533-0.txt,1238,"Hath left you unattended.— [Knocking within.] Hark, more knocking."
+II,II,80,LADY MACBETH,1533-0.txt,1239,"Get on your nightgown, lest occasion call us"
+II,II,81,LADY MACBETH,1533-0.txt,1240,And show us to be watchers. Be not lost
+II,II,82,LADY MACBETH,1533-0.txt,1241,So poorly in your thoughts.
+II,II,83,MACBETH,1533-0.txt,1244,"To know my deed, ’twere best not know myself. [Knocking within.]"
+II,II,84,MACBETH,1533-0.txt,1245,Wake Duncan with thy knocking! I would thou couldst!
+II,II,84,---,1533-0.txt,1247,[Exeunt.]
+II,III,0,---,1533-0.txt,1251,Enter a Porter. Knocking within.
+II,III,1,PORTER,1533-0.txt,1254,"Here’s a knocking indeed! If a man were porter of hell gate, he should"
+II,III,2,PORTER,1533-0.txt,1255,"have old turning the key. [Knocking.] Knock, knock, knock. Who’s"
+II,III,3,PORTER,1533-0.txt,1256,"there, i’ th’ name of Belzebub? Here’s a farmer that hanged himself on"
+II,III,4,PORTER,1533-0.txt,1257,the expectation of plenty: come in time; have napkins enow about you;
+II,III,5,PORTER,1533-0.txt,1258,"here you’ll sweat for’t. [Knocking.] Knock, knock! Who’s there, i’"
+II,III,6,PORTER,1533-0.txt,1259,"th’ other devil’s name? Faith, here’s an equivocator, that could swear"
+II,III,7,PORTER,1533-0.txt,1260,"in both the scales against either scale, who committed treason enough"
+II,III,8,PORTER,1533-0.txt,1261,"for God’s sake, yet could not equivocate to heaven: O, come in,"
+II,III,9,PORTER,1533-0.txt,1262,"equivocator. [Knocking.] Knock, knock, knock! Who’s there? Faith,"
+II,III,10,PORTER,1533-0.txt,1263,"here’s an English tailor come hither, for stealing out of a French"
+II,III,11,PORTER,1533-0.txt,1264,"hose: come in, tailor; here you may roast your goose. [Knocking.]"
+II,III,12,PORTER,1533-0.txt,1265,"Knock, knock. Never at quiet! What are you?— But this place is too cold"
+II,III,13,PORTER,1533-0.txt,1266,for hell. I’ll devil-porter it no further: I had thought to have let in
+II,III,14,PORTER,1533-0.txt,1267,"some of all professions, that go the primrose way to th’ everlasting"
+II,III,15,PORTER,1533-0.txt,1268,"bonfire. [Knocking.] Anon, anon! I pray you, remember the porter."
+II,III,15,---,1533-0.txt,1270,[Opens the gate.]
+II,III,15,---,1533-0.txt,1272,Enter Macduff and Lennox.
+II,III,16,MACDUFF,1533-0.txt,1275,"Was it so late, friend, ere you went to bed,"
+II,III,17,MACDUFF,1533-0.txt,1276,That you do lie so late?
+II,III,18,PORTER,1533-0.txt,1279,"Faith, sir, we were carousing till the second cock; and drink, sir, is"
+II,III,19,PORTER,1533-0.txt,1280,a great provoker of three things.
+II,III,20,MACDUFF,1533-0.txt,1283,What three things does drink especially provoke?
+II,III,21,PORTER,1533-0.txt,1286,"Marry, sir, nose-painting, sleep, and urine. Lechery, sir, it provokes"
+II,III,22,PORTER,1533-0.txt,1287,"and unprovokes; it provokes the desire, but it takes away the"
+II,III,23,PORTER,1533-0.txt,1288,performance. Therefore much drink may be said to be an equivocator with
+II,III,24,PORTER,1533-0.txt,1289,"lechery: it makes him, and it mars him; it sets him on, and it takes"
+II,III,25,PORTER,1533-0.txt,1290,"him off; it persuades him, and disheartens him; makes him stand to, and"
+II,III,26,PORTER,1533-0.txt,1291,"not stand to; in conclusion, equivocates him in a sleep, and giving him"
+II,III,27,PORTER,1533-0.txt,1292,"the lie, leaves him."
+II,III,28,MACDUFF,1533-0.txt,1295,I believe drink gave thee the lie last night.
+II,III,29,PORTER,1533-0.txt,1298,"That it did, sir, i’ the very throat on me; but I requited him for his"
+II,III,30,PORTER,1533-0.txt,1299,"lie; and (I think) being too strong for him, though he took up my legs"
+II,III,31,PORTER,1533-0.txt,1300,"sometime, yet I made a shift to cast him."
+II,III,32,MACDUFF,1533-0.txt,1303,Is thy master stirring?
+II,III,32,---,1533-0.txt,1305,Enter Macbeth.
+II,III,33,MACDUFF,1533-0.txt,1307,Our knocking has awak’d him; here he comes.
+II,III,34,LENNOX,1533-0.txt,1310,"Good morrow, noble sir!"
+II,III,35,MACBETH,1533-0.txt,1313,"Good morrow, both!"
+II,III,36,MACDUFF,1533-0.txt,1316,"Is the King stirring, worthy thane?"
+II,III,37,MACBETH,1533-0.txt,1319,Not yet.
+II,III,38,MACDUFF,1533-0.txt,1322,He did command me to call timely on him.
+II,III,39,MACDUFF,1533-0.txt,1323,I have almost slipp’d the hour.
+II,III,40,MACBETH,1533-0.txt,1326,I’ll bring you to him.
+II,III,41,MACDUFF,1533-0.txt,1329,I know this is a joyful trouble to you;
+II,III,42,MACDUFF,1533-0.txt,1330,But yet ’tis one.
+II,III,43,MACBETH,1533-0.txt,1333,The labour we delight in physics pain.
+II,III,44,MACBETH,1533-0.txt,1334,This is the door.
+II,III,45,MACDUFF,1533-0.txt,1337,I’ll make so bold to call.
+II,III,46,MACDUFF,1533-0.txt,1338,For ’tis my limited service.
+II,III,46,---,1533-0.txt,1340,[Exit Macduff.]
+II,III,47,LENNOX,1533-0.txt,1343,Goes the King hence today?
+II,III,48,MACBETH,1533-0.txt,1346,He does. He did appoint so.
+II,III,49,LENNOX,1533-0.txt,1349,"The night has been unruly: where we lay,"
+II,III,50,LENNOX,1533-0.txt,1350,"Our chimneys were blown down and, as they say,"
+II,III,51,LENNOX,1533-0.txt,1351,"Lamentings heard i’ th’ air, strange screams of death,"
+II,III,52,LENNOX,1533-0.txt,1352,"And prophesying, with accents terrible,"
+II,III,53,LENNOX,1533-0.txt,1353,"Of dire combustion and confus’d events,"
+II,III,54,LENNOX,1533-0.txt,1354,New hatch’d to the woeful time. The obscure bird
+II,III,55,LENNOX,1533-0.txt,1355,Clamour’d the live-long night. Some say the earth
+II,III,56,LENNOX,1533-0.txt,1356,"Was feverous, and did shake."
+II,III,57,MACBETH,1533-0.txt,1359,’Twas a rough night.
+II,III,58,LENNOX,1533-0.txt,1362,My young remembrance cannot parallel
+II,III,59,LENNOX,1533-0.txt,1363,A fellow to it.
+II,III,59,---,1533-0.txt,1365,Enter Macduff.
+II,III,60,MACDUFF,1533-0.txt,1368,"O horror, horror, horror!"
+II,III,61,MACDUFF,1533-0.txt,1369,Tongue nor heart cannot conceive nor name thee!
+II,III,62,MACDUFF,1533-0.txt,1371,"MACBETH, LENNOX."
+II,III,63,MACDUFF,1533-0.txt,1372,What’s the matter?
+II,III,64,MACDUFF,1533-0.txt,1375,Confusion now hath made his masterpiece!
+II,III,65,MACDUFF,1533-0.txt,1376,Most sacrilegious murder hath broke ope
+II,III,66,MACDUFF,1533-0.txt,1377,"The Lord’s anointed temple, and stole thence"
+II,III,67,MACDUFF,1533-0.txt,1378,The life o’ th’ building.
+II,III,68,MACBETH,1533-0.txt,1381,What is’t you say? the life?
+II,III,69,LENNOX,1533-0.txt,1384,Mean you his majesty?
+II,III,70,MACDUFF,1533-0.txt,1387,"Approach the chamber, and destroy your sight"
+II,III,71,MACDUFF,1533-0.txt,1388,With a new Gorgon. Do not bid me speak.
+II,III,72,MACDUFF,1533-0.txt,1389,"See, and then speak yourselves."
+II,III,72,---,1533-0.txt,1391,[Exeunt Macbeth and Lennox.]
+II,III,73,MACDUFF,1533-0.txt,1393,"Awake, awake!— "
+II,III,74,MACDUFF,1533-0.txt,1394,Ring the alarum bell.— Murder and treason!
+II,III,75,MACDUFF,1533-0.txt,1395,Banquo and Donalbain! Malcolm! awake!
+II,III,76,MACDUFF,1533-0.txt,1396,"Shake off this downy sleep, death’s counterfeit,"
+II,III,77,MACDUFF,1533-0.txt,1397,"And look on death itself! Up, up, and see"
+II,III,78,MACDUFF,1533-0.txt,1398,The great doom’s image. Malcolm! Banquo!
+II,III,79,MACDUFF,1533-0.txt,1399,"As from your graves rise up, and walk like sprites"
+II,III,80,MACDUFF,1533-0.txt,1400,To countenance this horror!
+II,III,80,---,1533-0.txt,1402,[Alarum-bell rings.]
+II,III,80,---,1533-0.txt,1404,Enter Lady Macbeth.
+II,III,81,LADY MACBETH,1533-0.txt,1407,"What’s the business,"
+II,III,82,LADY MACBETH,1533-0.txt,1408,That such a hideous trumpet calls to parley
+II,III,83,LADY MACBETH,1533-0.txt,1409,"The sleepers of the house? Speak, speak!"
+II,III,84,MACDUFF,1533-0.txt,1412,"O gentle lady,"
+II,III,85,MACDUFF,1533-0.txt,1413,’Tis not for you to hear what I can speak:
+II,III,86,MACDUFF,1533-0.txt,1414,"The repetition, in a woman’s ear,"
+II,III,87,MACDUFF,1533-0.txt,1415,Would murder as it fell.
+II,III,87,---,1533-0.txt,1417,Enter Banquo.
+II,III,88,MACDUFF,1533-0.txt,1419,"O Banquo, Banquo!"
+II,III,89,MACDUFF,1533-0.txt,1420,Our royal master’s murder’d!
+II,III,90,LADY MACBETH,1533-0.txt,1423,"Woe, alas!"
+II,III,91,LADY MACBETH,1533-0.txt,1424,"What, in our house?"
+II,III,92,BANQUO,1533-0.txt,1427,Too cruel anywhere.— 
+II,III,93,BANQUO,1533-0.txt,1428,"Dear Duff, I pr’ythee, contradict thyself,"
+II,III,94,BANQUO,1533-0.txt,1429,And say it is not so.
+II,III,94,---,1533-0.txt,1431,Enter Macbeth and Lennox with Ross.
+II,III,95,MACBETH,1533-0.txt,1434,"Had I but died an hour before this chance,"
+II,III,96,MACBETH,1533-0.txt,1435,"I had liv’d a blessed time; for, from this instant"
+II,III,97,MACBETH,1533-0.txt,1436,There’s nothing serious in mortality.
+II,III,98,MACBETH,1533-0.txt,1437,All is but toys: renown and grace is dead;
+II,III,99,MACBETH,1533-0.txt,1438,"The wine of life is drawn, and the mere lees"
+II,III,100,MACBETH,1533-0.txt,1439,Is left this vault to brag of.
+II,III,100,---,1533-0.txt,1441,Enter Malcolm and Donalbain.
+II,III,101,DONALBAIN,1533-0.txt,1444,What is amiss?
+II,III,102,MACBETH,1533-0.txt,1447,"You are, and do not know’t:"
+II,III,103,MACBETH,1533-0.txt,1448,"The spring, the head, the fountain of your blood"
+II,III,104,MACBETH,1533-0.txt,1449,Is stopp’d; the very source of it is stopp’d.
+II,III,105,MACDUFF,1533-0.txt,1452,Your royal father’s murder’d.
+II,III,106,MALCOLM,1533-0.txt,1455,"O, by whom?"
+II,III,107,LENNOX,1533-0.txt,1458,"Those of his chamber, as it seem’d, had done’t:"
+II,III,108,LENNOX,1533-0.txt,1459,Their hands and faces were all badg’d with blood;
+II,III,109,LENNOX,1533-0.txt,1460,"So were their daggers, which, unwip’d, we found"
+II,III,110,LENNOX,1533-0.txt,1461,"Upon their pillows. They star’d, and were distracted;"
+II,III,111,LENNOX,1533-0.txt,1462,No man’s life was to be trusted with them.
+II,III,112,MACBETH,1533-0.txt,1465,"O, yet I do repent me of my fury,"
+II,III,113,MACBETH,1533-0.txt,1466,That I did kill them.
+II,III,114,MACDUFF,1533-0.txt,1469,Wherefore did you so?
+II,III,115,MACBETH,1533-0.txt,1472,"Who can be wise, amaz’d, temperate, and furious,"
+II,III,116,MACBETH,1533-0.txt,1473,"Loyal and neutral, in a moment? No man:"
+II,III,117,MACBETH,1533-0.txt,1474,Th’ expedition of my violent love
+II,III,118,MACBETH,1533-0.txt,1475,"Outrun the pauser, reason. Here lay Duncan,"
+II,III,119,MACBETH,1533-0.txt,1476,His silver skin lac’d with his golden blood;
+II,III,120,MACBETH,1533-0.txt,1477,And his gash’d stabs look’d like a breach in nature
+II,III,121,MACBETH,1533-0.txt,1478,"For ruin’s wasteful entrance: there, the murderers,"
+II,III,122,MACBETH,1533-0.txt,1479,"Steep’d in the colours of their trade, their daggers"
+II,III,123,MACBETH,1533-0.txt,1480,"Unmannerly breech’d with gore. Who could refrain,"
+II,III,124,MACBETH,1533-0.txt,1481,"That had a heart to love, and in that heart"
+II,III,125,MACBETH,1533-0.txt,1482,Courage to make’s love known?
+II,III,126,LADY MACBETH,1533-0.txt,1485,"Help me hence, ho!"
+II,III,127,MACDUFF,1533-0.txt,1488,Look to the lady.
+II,III,128,MALCOLM,1533-0.txt,1491,"Why do we hold our tongues,"
+II,III,129,MALCOLM,1533-0.txt,1492,That most may claim this argument for ours?
+II,III,130,DONALBAIN,1533-0.txt,1495,"What should be spoken here, where our fate,"
+II,III,131,DONALBAIN,1533-0.txt,1496,"Hid in an auger hole, may rush, and seize us?"
+II,III,132,DONALBAIN,1533-0.txt,1497,Let’s away. Our tears are not yet brew’d.
+II,III,133,MALCOLM,1533-0.txt,1500,Nor our strong sorrow
+II,III,134,MALCOLM,1533-0.txt,1501,Upon the foot of motion.
+II,III,135,BANQUO,1533-0.txt,1504,Look to the lady:— 
+II,III,135,---,1533-0.txt,1506,[Lady Macbeth is carried out.]
+II,III,136,BANQUO,1533-0.txt,1508,"And when we have our naked frailties hid,"
+II,III,137,BANQUO,1533-0.txt,1509,"That suffer in exposure, let us meet,"
+II,III,138,BANQUO,1533-0.txt,1510,And question this most bloody piece of work
+II,III,139,BANQUO,1533-0.txt,1511,To know it further. Fears and scruples shake us:
+II,III,140,BANQUO,1533-0.txt,1512,In the great hand of God I stand; and thence
+II,III,141,BANQUO,1533-0.txt,1513,Against the undivulg’d pretence I fight
+II,III,142,BANQUO,1533-0.txt,1514,Of treasonous malice.
+II,III,143,MACDUFF,1533-0.txt,1517,And so do I.
+II,III,144,ALL,1533-0.txt,1520,So all.
+II,III,145,MACBETH,1533-0.txt,1523,"Let’s briefly put on manly readiness,"
+II,III,146,MACBETH,1533-0.txt,1524,And meet i’ th’ hall together.
+II,III,147,ALL,1533-0.txt,1527,Well contented.
+II,III,147,---,1533-0.txt,1529,[Exeunt all but Malcolm and Donalbain.]
+II,III,148,MALCOLM,1533-0.txt,1532,What will you do? Let’s not consort with them:
+II,III,149,MALCOLM,1533-0.txt,1533,To show an unfelt sorrow is an office
+II,III,150,MALCOLM,1533-0.txt,1534,Which the false man does easy. I’ll to England.
+II,III,151,DONALBAIN,1533-0.txt,1537,"To Ireland, I. Our separated fortune"
+II,III,152,DONALBAIN,1533-0.txt,1538,"Shall keep us both the safer. Where we are,"
+II,III,153,DONALBAIN,1533-0.txt,1539,"There’s daggers in men’s smiles: the near in blood,"
+II,III,154,DONALBAIN,1533-0.txt,1540,The nearer bloody.
+II,III,155,MALCOLM,1533-0.txt,1543,This murderous shaft that’s shot
+II,III,156,MALCOLM,1533-0.txt,1544,Hath not yet lighted; and our safest way
+II,III,157,MALCOLM,1533-0.txt,1545,Is to avoid the aim. Therefore to horse;
+II,III,158,MALCOLM,1533-0.txt,1546,"And let us not be dainty of leave-taking,"
+II,III,159,MALCOLM,1533-0.txt,1547,But shift away. There’s warrant in that theft
+II,III,160,MALCOLM,1533-0.txt,1548,"Which steals itself, when there’s no mercy left."
+II,III,160,---,1533-0.txt,1550,[Exeunt.]
+II,IV,0,---,1533-0.txt,1554,Enter Ross and an Old Man.
+II,IV,1,OLD MAN,1533-0.txt,1557,"Threescore and ten I can remember well,"
+II,IV,2,OLD MAN,1533-0.txt,1558,Within the volume of which time I have seen
+II,IV,3,OLD MAN,1533-0.txt,1559,"Hours dreadful and things strange, but this sore night"
+II,IV,4,OLD MAN,1533-0.txt,1560,Hath trifled former knowings.
+II,IV,5,ROSS,1533-0.txt,1563,"Ha, good father,"
+II,IV,6,ROSS,1533-0.txt,1564,"Thou seest the heavens, as troubled with man’s act,"
+II,IV,7,ROSS,1533-0.txt,1565,"Threatens his bloody stage: by the clock ’tis day,"
+II,IV,8,ROSS,1533-0.txt,1566,And yet dark night strangles the travelling lamp.
+II,IV,9,ROSS,1533-0.txt,1567,"Is’t night’s predominance, or the day’s shame,"
+II,IV,10,ROSS,1533-0.txt,1568,"That darkness does the face of earth entomb,"
+II,IV,11,ROSS,1533-0.txt,1569,When living light should kiss it?
+II,IV,12,OLD MAN,1533-0.txt,1572,"’Tis unnatural,"
+II,IV,13,OLD MAN,1533-0.txt,1573,"Even like the deed that’s done. On Tuesday last,"
+II,IV,14,OLD MAN,1533-0.txt,1574,"A falcon, towering in her pride of place,"
+II,IV,15,OLD MAN,1533-0.txt,1575,Was by a mousing owl hawk’d at and kill’d.
+II,IV,16,ROSS,1533-0.txt,1578,And Duncan’s horses (a thing most strange and certain)
+II,IV,17,ROSS,1533-0.txt,1579,"Beauteous and swift, the minions of their race,"
+II,IV,18,ROSS,1533-0.txt,1580,"Turn’d wild in nature, broke their stalls, flung out,"
+II,IV,19,ROSS,1533-0.txt,1581,"Contending ’gainst obedience, as they would make"
+II,IV,20,ROSS,1533-0.txt,1582,War with mankind.
+II,IV,21,OLD MAN,1533-0.txt,1585,’Tis said they eat each other.
+II,IV,22,ROSS,1533-0.txt,1588,"They did so; to the amazement of mine eyes,"
+II,IV,23,ROSS,1533-0.txt,1589,That look’d upon’t.
+II,IV,24,ROSS,1533-0.txt,1590,Here comes the good Macduff.
+II,IV,24,---,1533-0.txt,1592,Enter Macduff.
+II,IV,25,ROSS,1533-0.txt,1594,"How goes the world, sir, now?"
+II,IV,26,MACDUFF,1533-0.txt,1597,"Why, see you not?"
+II,IV,27,ROSS,1533-0.txt,1600,Is’t known who did this more than bloody deed?
+II,IV,28,MACDUFF,1533-0.txt,1603,Those that Macbeth hath slain.
+II,IV,29,ROSS,1533-0.txt,1606,"Alas, the day!"
+II,IV,30,ROSS,1533-0.txt,1607,What good could they pretend?
+II,IV,31,MACDUFF,1533-0.txt,1610,They were suborn’d.
+II,IV,32,MACDUFF,1533-0.txt,1611,"Malcolm and Donalbain, the King’s two sons,"
+II,IV,33,MACDUFF,1533-0.txt,1612,Are stol’n away and fled; which puts upon them
+II,IV,34,MACDUFF,1533-0.txt,1613,Suspicion of the deed.
+II,IV,35,ROSS,1533-0.txt,1616,’Gainst nature still:
+II,IV,36,ROSS,1533-0.txt,1617,"Thriftless ambition, that will ravin up"
+II,IV,37,ROSS,1533-0.txt,1618,Thine own life’s means!— Then ’tis most like
+II,IV,38,ROSS,1533-0.txt,1619,The sovereignty will fall upon Macbeth.
+II,IV,39,MACDUFF,1533-0.txt,1622,He is already nam’d; and gone to Scone
+II,IV,40,MACDUFF,1533-0.txt,1623,To be invested.
+II,IV,41,ROSS,1533-0.txt,1626,Where is Duncan’s body?
+II,IV,42,MACDUFF,1533-0.txt,1629,"Carried to Colmekill,"
+II,IV,43,MACDUFF,1533-0.txt,1630,"The sacred storehouse of his predecessors,"
+II,IV,44,MACDUFF,1533-0.txt,1631,And guardian of their bones.
+II,IV,45,ROSS,1533-0.txt,1634,Will you to Scone?
+II,IV,46,MACDUFF,1533-0.txt,1637,"No, cousin, I’ll to Fife."
+II,IV,47,ROSS,1533-0.txt,1640,"Well, I will thither."
+II,IV,48,MACDUFF,1533-0.txt,1643,"Well, may you see things well done there. Adieu!"
+II,IV,49,MACDUFF,1533-0.txt,1644,Lest our old robes sit easier than our new!
+II,IV,50,ROSS,1533-0.txt,1647,"Farewell, father."
+II,IV,51,OLD MAN,1533-0.txt,1650,God’s benison go with you; and with those
+II,IV,52,OLD MAN,1533-0.txt,1651,"That would make good of bad, and friends of foes!"
+II,IV,52,---,1533-0.txt,1653,[Exeunt.]
+III,I,0,---,1533-0.txt,1660,Enter Banquo.
+III,I,1,BANQUO,1533-0.txt,1663,"Thou hast it now, King, Cawdor, Glamis, all,"
+III,I,2,BANQUO,1533-0.txt,1664,"As the Weird Women promis’d; and, I fear,"
+III,I,3,BANQUO,1533-0.txt,1665,Thou play’dst most foully for’t; yet it was said
+III,I,4,BANQUO,1533-0.txt,1666,It should not stand in thy posterity;
+III,I,5,BANQUO,1533-0.txt,1667,But that myself should be the root and father
+III,I,6,BANQUO,1533-0.txt,1668,Of many kings. If there come truth from them
+III,I,7,BANQUO,1533-0.txt,1669,"(As upon thee, Macbeth, their speeches shine)"
+III,I,8,BANQUO,1533-0.txt,1670,"Why, by the verities on thee made good,"
+III,I,9,BANQUO,1533-0.txt,1671,"May they not be my oracles as well,"
+III,I,10,BANQUO,1533-0.txt,1672,And set me up in hope? But hush; no more.
+III,I,10,---,1533-0.txt,1674,"Sennet sounded. Enter Macbeth as King, Lady Macbeth as Queen; Lennox, Ross, Lords, and Attendants."
+III,I,11,MACBETH,1533-0.txt,1678,Here’s our chief guest.
+III,I,12,LADY MACBETH,1533-0.txt,1681,"If he had been forgotten,"
+III,I,13,LADY MACBETH,1533-0.txt,1682,"It had been as a gap in our great feast,"
+III,I,14,LADY MACBETH,1533-0.txt,1683,And all-thing unbecoming.
+III,I,15,MACBETH,1533-0.txt,1686,"Tonight we hold a solemn supper, sir,"
+III,I,16,MACBETH,1533-0.txt,1687,And I’ll request your presence.
+III,I,17,BANQUO,1533-0.txt,1690,Let your Highness
+III,I,18,BANQUO,1533-0.txt,1691,"Command upon me, to the which my duties"
+III,I,19,BANQUO,1533-0.txt,1692,Are with a most indissoluble tie
+III,I,20,BANQUO,1533-0.txt,1693,For ever knit.
+III,I,21,MACBETH,1533-0.txt,1696,Ride you this afternoon?
+III,I,22,BANQUO,1533-0.txt,1699,"Ay, my good lord."
+III,I,23,MACBETH,1533-0.txt,1702,We should have else desir’d your good advice
+III,I,24,MACBETH,1533-0.txt,1703,(Which still hath been both grave and prosperous)
+III,I,25,MACBETH,1533-0.txt,1704,In this day’s council; but we’ll take tomorrow.
+III,I,26,MACBETH,1533-0.txt,1705,Is’t far you ride?
+III,I,27,BANQUO,1533-0.txt,1708,"As far, my lord, as will fill up the time"
+III,I,28,BANQUO,1533-0.txt,1709,"’Twixt this and supper: go not my horse the better,"
+III,I,29,BANQUO,1533-0.txt,1710,"I must become a borrower of the night,"
+III,I,30,BANQUO,1533-0.txt,1711,For a dark hour or twain.
+III,I,31,MACBETH,1533-0.txt,1714,Fail not our feast.
+III,I,32,BANQUO,1533-0.txt,1717,"My lord, I will not."
+III,I,33,MACBETH,1533-0.txt,1720,We hear our bloody cousins are bestow’d
+III,I,34,MACBETH,1533-0.txt,1721,In England and in Ireland; not confessing
+III,I,35,MACBETH,1533-0.txt,1722,"Their cruel parricide, filling their hearers"
+III,I,36,MACBETH,1533-0.txt,1723,"With strange invention. But of that tomorrow,"
+III,I,37,MACBETH,1533-0.txt,1724,When therewithal we shall have cause of state
+III,I,38,MACBETH,1533-0.txt,1725,"Craving us jointly. Hie you to horse: adieu,"
+III,I,39,MACBETH,1533-0.txt,1726,Till you return at night. Goes Fleance with you?
+III,I,40,BANQUO,1533-0.txt,1729,"Ay, my good lord: our time does call upon’s."
+III,I,41,MACBETH,1533-0.txt,1732,I wish your horses swift and sure of foot;
+III,I,42,MACBETH,1533-0.txt,1733,And so I do commend you to their backs.
+III,I,43,MACBETH,1533-0.txt,1734,Farewell.— 
+III,I,43,---,1533-0.txt,1736,[Exit Banquo.]
+III,I,44,MACBETH,1533-0.txt,1738,Let every man be master of his time
+III,I,45,MACBETH,1533-0.txt,1739,Till seven at night; to make society
+III,I,46,MACBETH,1533-0.txt,1740,"The sweeter welcome, we will keep ourself"
+III,I,47,MACBETH,1533-0.txt,1741,"Till supper time alone: while then, God be with you."
+III,I,47,---,1533-0.txt,1743,"[Exeunt Lady Macbeth, Lords, &c.]"
+III,I,48,MACBETH,1533-0.txt,1745,"Sirrah, a word with you. Attend those men"
+III,I,49,MACBETH,1533-0.txt,1746,Our pleasure?
+III,I,50,SERVANT,1533-0.txt,1749,"They are, my lord, without the palace gate."
+III,I,51,MACBETH,1533-0.txt,1752,Bring them before us.
+III,I,51,---,1533-0.txt,1754,[Exit Servant.]
+III,I,52,MACBETH,1533-0.txt,1756,"To be thus is nothing,"
+III,I,53,MACBETH,1533-0.txt,1757,But to be safely thus. Our fears in Banquo
+III,I,54,MACBETH,1533-0.txt,1758,"Stick deep, and in his royalty of nature"
+III,I,55,MACBETH,1533-0.txt,1759,Reigns that which would be fear’d: ’tis much he dares;
+III,I,56,MACBETH,1533-0.txt,1760,"And, to that dauntless temper of his mind,"
+III,I,57,MACBETH,1533-0.txt,1761,He hath a wisdom that doth guide his valour
+III,I,58,MACBETH,1533-0.txt,1762,To act in safety. There is none but he
+III,I,59,MACBETH,1533-0.txt,1763,Whose being I do fear: and under him
+III,I,60,MACBETH,1533-0.txt,1764,"My genius is rebuk’d; as, it is said,"
+III,I,61,MACBETH,1533-0.txt,1765,Mark Antony’s was by Caesar. He chid the sisters
+III,I,62,MACBETH,1533-0.txt,1766,"When first they put the name of king upon me,"
+III,I,63,MACBETH,1533-0.txt,1767,"And bade them speak to him; then, prophet-like,"
+III,I,64,MACBETH,1533-0.txt,1768,They hail’d him father to a line of kings:
+III,I,65,MACBETH,1533-0.txt,1769,"Upon my head they plac’d a fruitless crown,"
+III,I,66,MACBETH,1533-0.txt,1770,"And put a barren sceptre in my gripe,"
+III,I,67,MACBETH,1533-0.txt,1771,"Thence to be wrench’d with an unlineal hand,"
+III,I,68,MACBETH,1533-0.txt,1772,"No son of mine succeeding. If’t be so,"
+III,I,69,MACBETH,1533-0.txt,1773,For Banquo’s issue have I fil’d my mind;
+III,I,70,MACBETH,1533-0.txt,1774,For them the gracious Duncan have I murder’d;
+III,I,71,MACBETH,1533-0.txt,1775,Put rancours in the vessel of my peace
+III,I,72,MACBETH,1533-0.txt,1776,Only for them; and mine eternal jewel
+III,I,73,MACBETH,1533-0.txt,1777,"Given to the common enemy of man,"
+III,I,74,MACBETH,1533-0.txt,1778,"To make them kings, the seed of Banquo kings!"
+III,I,75,MACBETH,1533-0.txt,1779,"Rather than so, come, fate, into the list,"
+III,I,76,MACBETH,1533-0.txt,1780,And champion me to th’ utterance!— Who’s there?— 
+III,I,76,---,1533-0.txt,1782,Enter Servant with two Murderers.
+III,I,77,MACBETH,1533-0.txt,1784,"Now go to the door, and stay there till we call."
+III,I,77,---,1533-0.txt,1786,[Exit Servant.]
+III,I,78,MACBETH,1533-0.txt,1788,Was it not yesterday we spoke together?
+III,I,79,FIRST MURDERER,1533-0.txt,1791,"It was, so please your Highness."
+III,I,80,MACBETH,1533-0.txt,1794,"Well then, now"
+III,I,81,MACBETH,1533-0.txt,1795,Have you consider’d of my speeches? Know
+III,I,82,MACBETH,1533-0.txt,1796,"That it was he, in the times past, which held you"
+III,I,83,MACBETH,1533-0.txt,1797,"So under fortune, which you thought had been"
+III,I,84,MACBETH,1533-0.txt,1798,Our innocent self? This I made good to you
+III,I,85,MACBETH,1533-0.txt,1799,"In our last conference, pass’d in probation with you"
+III,I,86,MACBETH,1533-0.txt,1800,"How you were borne in hand, how cross’d, the instruments,"
+III,I,87,MACBETH,1533-0.txt,1801,"Who wrought with them, and all things else that might"
+III,I,88,MACBETH,1533-0.txt,1802,To half a soul and to a notion craz’d
+III,I,89,MACBETH,1533-0.txt,1803,"Say, “Thus did Banquo.”"
+III,I,90,FIRST MURDERER,1533-0.txt,1806,You made it known to us.
+III,I,91,MACBETH,1533-0.txt,1809,"I did so; and went further, which is now"
+III,I,92,MACBETH,1533-0.txt,1810,Our point of second meeting. Do you find
+III,I,93,MACBETH,1533-0.txt,1811,"Your patience so predominant in your nature,"
+III,I,94,MACBETH,1533-0.txt,1812,"That you can let this go? Are you so gospell’d,"
+III,I,95,MACBETH,1533-0.txt,1813,"To pray for this good man and for his issue,"
+III,I,96,MACBETH,1533-0.txt,1814,"Whose heavy hand hath bow’d you to the grave,"
+III,I,97,MACBETH,1533-0.txt,1815,And beggar’d yours forever?
+III,I,98,FIRST MURDERER,1533-0.txt,1818,"We are men, my liege."
+III,I,99,MACBETH,1533-0.txt,1821,"Ay, in the catalogue ye go for men;"
+III,I,100,MACBETH,1533-0.txt,1822,"As hounds, and greyhounds, mongrels, spaniels, curs,"
+III,I,101,MACBETH,1533-0.txt,1823,"Shoughs, water-rugs, and demi-wolves are clept"
+III,I,102,MACBETH,1533-0.txt,1824,All by the name of dogs: the valu’d file
+III,I,103,MACBETH,1533-0.txt,1825,"Distinguishes the swift, the slow, the subtle,"
+III,I,104,MACBETH,1533-0.txt,1826,"The housekeeper, the hunter, every one"
+III,I,105,MACBETH,1533-0.txt,1827,According to the gift which bounteous nature
+III,I,106,MACBETH,1533-0.txt,1828,Hath in him clos’d; whereby he does receive
+III,I,107,MACBETH,1533-0.txt,1829,"Particular addition, from the bill"
+III,I,108,MACBETH,1533-0.txt,1830,That writes them all alike: and so of men.
+III,I,109,MACBETH,1533-0.txt,1831,"Now, if you have a station in the file,"
+III,I,110,MACBETH,1533-0.txt,1832,"Not i’ th’ worst rank of manhood, say’t;"
+III,I,111,MACBETH,1533-0.txt,1833,"And I will put that business in your bosoms,"
+III,I,112,MACBETH,1533-0.txt,1834,"Whose execution takes your enemy off,"
+III,I,113,MACBETH,1533-0.txt,1835,"Grapples you to the heart and love of us,"
+III,I,114,MACBETH,1533-0.txt,1836,"Who wear our health but sickly in his life,"
+III,I,115,MACBETH,1533-0.txt,1837,Which in his death were perfect.
+III,I,116,SECOND MURDERER,1533-0.txt,1840,"I am one, my liege,"
+III,I,117,SECOND MURDERER,1533-0.txt,1841,Whom the vile blows and buffets of the world
+III,I,118,SECOND MURDERER,1533-0.txt,1842,Hath so incens’d that I am reckless what
+III,I,119,SECOND MURDERER,1533-0.txt,1843,I do to spite the world.
+III,I,120,FIRST MURDERER,1533-0.txt,1846,"And I another,"
+III,I,121,FIRST MURDERER,1533-0.txt,1847,"So weary with disasters, tugg’d with fortune,"
+III,I,122,FIRST MURDERER,1533-0.txt,1848,"That I would set my life on any chance,"
+III,I,123,FIRST MURDERER,1533-0.txt,1849,To mend it or be rid on’t.
+III,I,124,MACBETH,1533-0.txt,1852,Both of you
+III,I,125,MACBETH,1533-0.txt,1853,Know Banquo was your enemy.
+III,I,126,BOTH MURDERERS,1533-0.txt,1856,"True, my lord."
+III,I,127,MACBETH,1533-0.txt,1859,"So is he mine; and in such bloody distance,"
+III,I,128,MACBETH,1533-0.txt,1860,That every minute of his being thrusts
+III,I,129,MACBETH,1533-0.txt,1861,Against my near’st of life; and though I could
+III,I,130,MACBETH,1533-0.txt,1862,"With barefac’d power sweep him from my sight,"
+III,I,131,MACBETH,1533-0.txt,1863,"And bid my will avouch it, yet I must not,"
+III,I,132,MACBETH,1533-0.txt,1864,"For certain friends that are both his and mine,"
+III,I,133,MACBETH,1533-0.txt,1865,"Whose loves I may not drop, but wail his fall"
+III,I,134,MACBETH,1533-0.txt,1866,Who I myself struck down: and thence it is
+III,I,135,MACBETH,1533-0.txt,1867,"That I to your assistance do make love,"
+III,I,136,MACBETH,1533-0.txt,1868,Masking the business from the common eye
+III,I,137,MACBETH,1533-0.txt,1869,For sundry weighty reasons.
+III,I,138,SECOND MURDERER,1533-0.txt,1872,"We shall, my lord,"
+III,I,139,SECOND MURDERER,1533-0.txt,1873,Perform what you command us.
+III,I,140,FIRST MURDERER,1533-0.txt,1876,Though our lives— 
+III,I,141,MACBETH,1533-0.txt,1879,"Your spirits shine through you. Within this hour at most,"
+III,I,142,MACBETH,1533-0.txt,1880,"I will advise you where to plant yourselves,"
+III,I,143,MACBETH,1533-0.txt,1881,"Acquaint you with the perfect spy o’ th’ time,"
+III,I,144,MACBETH,1533-0.txt,1882,The moment on’t; for’t must be done tonight
+III,I,145,MACBETH,1533-0.txt,1883,And something from the palace; always thought
+III,I,146,MACBETH,1533-0.txt,1884,That I require a clearness. And with him
+III,I,147,MACBETH,1533-0.txt,1885,(To leave no rubs nor botches in the work)
+III,I,148,MACBETH,1533-0.txt,1886,"Fleance his son, that keeps him company,"
+III,I,149,MACBETH,1533-0.txt,1887,Whose absence is no less material to me
+III,I,150,MACBETH,1533-0.txt,1888,"Than is his father’s, must embrace the fate"
+III,I,151,MACBETH,1533-0.txt,1889,Of that dark hour. Resolve yourselves apart.
+III,I,152,MACBETH,1533-0.txt,1890,I’ll come to you anon.
+III,I,153,BOTH MURDERERS,1533-0.txt,1893,"We are resolv’d, my lord."
+III,I,154,MACBETH,1533-0.txt,1896,I’ll call upon you straight: abide within.
+III,I,154,---,1533-0.txt,1898,[Exeunt Murderers.]
+III,I,155,MACBETH,1533-0.txt,1900,"It is concluded. Banquo, thy soul’s flight,"
+III,I,156,MACBETH,1533-0.txt,1901,"If it find heaven, must find it out tonight."
+III,I,156,---,1533-0.txt,1903,[Exit.]
+III,II,0,---,1533-0.txt,1907,Enter Lady Macbeth and a Servant.
+III,II,1,LADY MACBETH,1533-0.txt,1910,Is Banquo gone from court?
+III,II,2,SERVANT,1533-0.txt,1913,"Ay, madam, but returns again tonight."
+III,II,3,LADY MACBETH,1533-0.txt,1916,"Say to the King, I would attend his leisure"
+III,II,4,LADY MACBETH,1533-0.txt,1917,For a few words.
+III,II,5,SERVANT,1533-0.txt,1920,"Madam, I will."
+III,II,5,---,1533-0.txt,1922,[Exit.]
+III,II,6,LADY MACBETH,1533-0.txt,1925,"Naught’s had, all’s spent,"
+III,II,7,LADY MACBETH,1533-0.txt,1926,Where our desire is got without content:
+III,II,8,LADY MACBETH,1533-0.txt,1927,"’Tis safer to be that which we destroy,"
+III,II,9,LADY MACBETH,1533-0.txt,1928,Than by destruction dwell in doubtful joy.
+III,II,9,---,1533-0.txt,1930,Enter Macbeth.
+III,II,10,LADY MACBETH,1533-0.txt,1932,"How now, my lord, why do you keep alone,"
+III,II,11,LADY MACBETH,1533-0.txt,1933,"Of sorriest fancies your companions making,"
+III,II,12,LADY MACBETH,1533-0.txt,1934,Using those thoughts which should indeed have died
+III,II,13,LADY MACBETH,1533-0.txt,1935,With them they think on? Things without all remedy
+III,II,14,LADY MACBETH,1533-0.txt,1936,Should be without regard: what’s done is done.
+III,II,15,MACBETH,1533-0.txt,1939,"We have scorch’d the snake, not kill’d it."
+III,II,16,MACBETH,1533-0.txt,1940,"She’ll close, and be herself; whilst our poor malice"
+III,II,17,MACBETH,1533-0.txt,1941,Remains in danger of her former tooth.
+III,II,18,MACBETH,1533-0.txt,1942,"But let the frame of things disjoint,"
+III,II,19,MACBETH,1533-0.txt,1943,"Both the worlds suffer,"
+III,II,20,MACBETH,1533-0.txt,1944,"Ere we will eat our meal in fear, and sleep"
+III,II,21,MACBETH,1533-0.txt,1945,In the affliction of these terrible dreams
+III,II,22,MACBETH,1533-0.txt,1946,"That shake us nightly. Better be with the dead,"
+III,II,23,MACBETH,1533-0.txt,1947,"Whom we, to gain our peace, have sent to peace,"
+III,II,24,MACBETH,1533-0.txt,1948,Than on the torture of the mind to lie
+III,II,25,MACBETH,1533-0.txt,1949,In restless ecstasy. Duncan is in his grave;
+III,II,26,MACBETH,1533-0.txt,1950,After life’s fitful fever he sleeps well;
+III,II,27,MACBETH,1533-0.txt,1951,"Treason has done his worst: nor steel, nor poison,"
+III,II,28,MACBETH,1533-0.txt,1952,"Malice domestic, foreign levy, nothing"
+III,II,29,MACBETH,1533-0.txt,1953,Can touch him further.
+III,II,30,LADY MACBETH,1533-0.txt,1956,"Come on,"
+III,II,31,LADY MACBETH,1533-0.txt,1957,"Gently my lord, sleek o’er your rugged looks;"
+III,II,32,LADY MACBETH,1533-0.txt,1958,Be bright and jovial among your guests tonight.
+III,II,33,MACBETH,1533-0.txt,1961,"So shall I, love; and so, I pray, be you."
+III,II,34,MACBETH,1533-0.txt,1962,Let your remembrance apply to Banquo;
+III,II,35,MACBETH,1533-0.txt,1963,"Present him eminence, both with eye and tongue:"
+III,II,36,MACBETH,1533-0.txt,1964,"Unsafe the while, that we"
+III,II,37,MACBETH,1533-0.txt,1965,"Must lave our honours in these flattering streams,"
+III,II,38,MACBETH,1533-0.txt,1966,"And make our faces vizards to our hearts,"
+III,II,39,MACBETH,1533-0.txt,1967,Disguising what they are.
+III,II,40,LADY MACBETH,1533-0.txt,1970,You must leave this.
+III,II,41,MACBETH,1533-0.txt,1973,"O, full of scorpions is my mind, dear wife!"
+III,II,42,MACBETH,1533-0.txt,1974,"Thou know’st that Banquo, and his Fleance, lives."
+III,II,43,LADY MACBETH,1533-0.txt,1977,But in them nature’s copy’s not eterne.
+III,II,44,MACBETH,1533-0.txt,1980,There’s comfort yet; they are assailable.
+III,II,45,MACBETH,1533-0.txt,1981,Then be thou jocund. Ere the bat hath flown
+III,II,46,MACBETH,1533-0.txt,1982,"His cloister’d flight, ere to black Hecate’s summons"
+III,II,47,MACBETH,1533-0.txt,1983,"The shard-born beetle, with his drowsy hums,"
+III,II,48,MACBETH,1533-0.txt,1984,"Hath rung night’s yawning peal, there shall be done"
+III,II,49,MACBETH,1533-0.txt,1985,A deed of dreadful note.
+III,II,50,LADY MACBETH,1533-0.txt,1988,What’s to be done?
+III,II,51,MACBETH,1533-0.txt,1991,"Be innocent of the knowledge, dearest chuck,"
+III,II,52,MACBETH,1533-0.txt,1992,"Till thou applaud the deed. Come, seeling night,"
+III,II,53,MACBETH,1533-0.txt,1993,"Scarf up the tender eye of pitiful day,"
+III,II,54,MACBETH,1533-0.txt,1994,And with thy bloody and invisible hand
+III,II,55,MACBETH,1533-0.txt,1995,Cancel and tear to pieces that great bond
+III,II,56,MACBETH,1533-0.txt,1996,Which keeps me pale!— Light thickens; and the crow
+III,II,57,MACBETH,1533-0.txt,1997,Makes wing to th’ rooky wood.
+III,II,58,MACBETH,1533-0.txt,1998,"Good things of day begin to droop and drowse,"
+III,II,59,MACBETH,1533-0.txt,1999,Whiles night’s black agents to their preys do rouse.
+III,II,60,MACBETH,1533-0.txt,2000,Thou marvell’st at my words: but hold thee still;
+III,II,61,MACBETH,1533-0.txt,2001,Things bad begun make strong themselves by ill.
+III,II,62,MACBETH,1533-0.txt,2002,"So, pr’ythee, go with me."
+III,II,62,---,1533-0.txt,2004,[Exeunt.]
+III,III,0,---,1533-0.txt,2008,Enter three Murderers.
+III,III,1,FIRST MURDERER,1533-0.txt,2011,But who did bid thee join with us?
+III,III,2,THIRD MURDERER,1533-0.txt,2014,Macbeth.
+III,III,3,SECOND MURDERER,1533-0.txt,2017,He needs not our mistrust; since he delivers
+III,III,4,SECOND MURDERER,1533-0.txt,2018,Our offices and what we have to do
+III,III,5,SECOND MURDERER,1533-0.txt,2019,To the direction just.
+III,III,6,FIRST MURDERER,1533-0.txt,2022,Then stand with us.
+III,III,7,FIRST MURDERER,1533-0.txt,2023,The west yet glimmers with some streaks of day.
+III,III,8,FIRST MURDERER,1533-0.txt,2024,"Now spurs the lated traveller apace,"
+III,III,9,FIRST MURDERER,1533-0.txt,2025,To gain the timely inn; and near approaches
+III,III,10,FIRST MURDERER,1533-0.txt,2026,The subject of our watch.
+III,III,11,THIRD MURDERER,1533-0.txt,2029,Hark! I hear horses.
+III,III,12,BANQUO,1533-0.txt,2032,"[Within.] Give us a light there, ho!"
+III,III,13,SECOND MURDERER,1533-0.txt,2035,Then ’tis he; the rest
+III,III,14,SECOND MURDERER,1533-0.txt,2036,That are within the note of expectation
+III,III,15,SECOND MURDERER,1533-0.txt,2037,Already are i’ th’ court.
+III,III,16,FIRST MURDERER,1533-0.txt,2040,His horses go about.
+III,III,17,THIRD MURDERER,1533-0.txt,2043,"Almost a mile; but he does usually,"
+III,III,18,THIRD MURDERER,1533-0.txt,2044,"So all men do, from hence to the palace gate"
+III,III,19,THIRD MURDERER,1533-0.txt,2045,Make it their walk.
+III,III,19,---,1533-0.txt,2047,Enter Banquo and Fleance with a torch.
+III,III,20,SECOND MURDERER,1533-0.txt,2050,"A light, a light!"
+III,III,21,THIRD MURDERER,1533-0.txt,2053,’Tis he.
+III,III,22,FIRST MURDERER,1533-0.txt,2056,Stand to’t.
+III,III,23,BANQUO,1533-0.txt,2059,It will be rain tonight.
+III,III,24,FIRST MURDERER,1533-0.txt,2062,Let it come down.
+III,III,24,---,1533-0.txt,2064,[Assaults Banquo.]
+III,III,25,BANQUO,1533-0.txt,2067,"O, treachery! Fly, good Fleance, fly, fly, fly!"
+III,III,26,BANQUO,1533-0.txt,2068,Thou mayst revenge— O slave!
+III,III,26,---,1533-0.txt,2070,[Dies. Fleance escapes.]
+III,III,27,THIRD MURDERER,1533-0.txt,2073,Who did strike out the light?
+III,III,28,FIRST MURDERER,1533-0.txt,2076,Was’t not the way?
+III,III,29,THIRD MURDERER,1533-0.txt,2079,There’s but one down: the son is fled.
+III,III,30,SECOND MURDERER,1533-0.txt,2082,We have lost best half of our affair.
+III,III,31,FIRST MURDERER,1533-0.txt,2085,"Well, let’s away, and say how much is done."
+III,III,31,---,1533-0.txt,2087,[Exeunt.]
+III,IV,0,---,1533-0.txt,2091,"A banquet prepared. Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords and Attendants."
+III,IV,1,MACBETH,1533-0.txt,2095,"You know your own degrees, sit down. At first"
+III,IV,2,MACBETH,1533-0.txt,2096,And last the hearty welcome.
+III,IV,3,LORDS,1533-0.txt,2099,Thanks to your Majesty.
+III,IV,4,MACBETH,1533-0.txt,2102,"Ourself will mingle with society,"
+III,IV,5,MACBETH,1533-0.txt,2103,And play the humble host.
+III,IV,6,MACBETH,1533-0.txt,2104,"Our hostess keeps her state; but, in best time,"
+III,IV,7,MACBETH,1533-0.txt,2105,We will require her welcome.
+III,IV,8,LADY MACBETH,1533-0.txt,2108,"Pronounce it for me, sir, to all our friends;"
+III,IV,9,LADY MACBETH,1533-0.txt,2109,For my heart speaks they are welcome.
+III,IV,9,---,1533-0.txt,2111,Enter first Murderer to the door.
+III,IV,10,MACBETH,1533-0.txt,2114,"See, they encounter thee with their hearts’ thanks."
+III,IV,11,MACBETH,1533-0.txt,2115,Both sides are even: here I’ll sit i’ th’ midst.
+III,IV,12,MACBETH,1533-0.txt,2117,Be large in mirth; anon we’ll drink a measure
+III,IV,13,MACBETH,1533-0.txt,2118,The table round. There’s blood upon thy face.
+III,IV,14,MURDERER,1533-0.txt,2121,’Tis Banquo’s then.
+III,IV,15,MACBETH,1533-0.txt,2124,’Tis better thee without than he within.
+III,IV,16,MACBETH,1533-0.txt,2125,Is he dispatch’d?
+III,IV,17,MURDERER,1533-0.txt,2128,"My lord, his throat is cut. That I did for him."
+III,IV,18,MACBETH,1533-0.txt,2131,Thou art the best o’ th’ cut-throats;
+III,IV,19,MACBETH,1533-0.txt,2132,Yet he’s good that did the like for Fleance:
+III,IV,20,MACBETH,1533-0.txt,2133,"If thou didst it, thou art the nonpareil."
+III,IV,21,MURDERER,1533-0.txt,2136,"Most royal sir,"
+III,IV,22,MURDERER,1533-0.txt,2137,Fleance is ’scap’d.
+III,IV,23,MACBETH,1533-0.txt,2140,Then comes my fit again: I had else been perfect;
+III,IV,24,MACBETH,1533-0.txt,2141,"Whole as the marble, founded as the rock,"
+III,IV,25,MACBETH,1533-0.txt,2142,As broad and general as the casing air:
+III,IV,26,MACBETH,1533-0.txt,2143,"But now I am cabin’d, cribb’d, confin’d, bound in"
+III,IV,27,MACBETH,1533-0.txt,2144,To saucy doubts and fears. But Banquo’s safe?
+III,IV,28,MURDERER,1533-0.txt,2147,"Ay, my good lord. Safe in a ditch he bides,"
+III,IV,29,MURDERER,1533-0.txt,2148,With twenty trenched gashes on his head;
+III,IV,30,MURDERER,1533-0.txt,2149,The least a death to nature.
+III,IV,31,MACBETH,1533-0.txt,2152,Thanks for that.
+III,IV,32,MACBETH,1533-0.txt,2153,There the grown serpent lies; the worm that’s fled
+III,IV,33,MACBETH,1533-0.txt,2154,"Hath nature that in time will venom breed,"
+III,IV,34,MACBETH,1533-0.txt,2155,No teeth for th’ present.— Get thee gone; tomorrow
+III,IV,35,MACBETH,1533-0.txt,2156,"We’ll hear, ourselves, again."
+III,IV,35,---,1533-0.txt,2158,[Exit Murderer.]
+III,IV,36,LADY MACBETH,1533-0.txt,2161,"My royal lord,"
+III,IV,37,LADY MACBETH,1533-0.txt,2162,You do not give the cheer: the feast is sold
+III,IV,38,LADY MACBETH,1533-0.txt,2163,"That is not often vouch’d, while ’tis a-making,"
+III,IV,39,LADY MACBETH,1533-0.txt,2164,’Tis given with welcome. To feed were best at home;
+III,IV,40,LADY MACBETH,1533-0.txt,2165,From thence the sauce to meat is ceremony;
+III,IV,41,LADY MACBETH,1533-0.txt,2166,Meeting were bare without it.
+III,IV,41,---,1533-0.txt,2168,"The Ghost of Banquo rises, and sits in Macbeth’s place."
+III,IV,42,MACBETH,1533-0.txt,2171,Sweet remembrancer!— 
+III,IV,43,MACBETH,1533-0.txt,2172,"Now, good digestion wait on appetite,"
+III,IV,44,MACBETH,1533-0.txt,2173,And health on both!
+III,IV,45,LENNOX,1533-0.txt,2176,May’t please your Highness sit.
+III,IV,46,MACBETH,1533-0.txt,2179,"Here had we now our country’s honour roof’d,"
+III,IV,47,MACBETH,1533-0.txt,2180,Were the grac’d person of our Banquo present;
+III,IV,48,MACBETH,1533-0.txt,2181,Who may I rather challenge for unkindness
+III,IV,49,MACBETH,1533-0.txt,2182,Than pity for mischance!
+III,IV,50,ROSS,1533-0.txt,2185,"His absence, sir,"
+III,IV,51,ROSS,1533-0.txt,2186,Lays blame upon his promise. Please’t your Highness
+III,IV,52,ROSS,1533-0.txt,2187,To grace us with your royal company?
+III,IV,53,MACBETH,1533-0.txt,2190,The table’s full.
+III,IV,54,LENNOX,1533-0.txt,2193,"Here is a place reserv’d, sir."
+III,IV,55,MACBETH,1533-0.txt,2196,Where?
+III,IV,56,LENNOX,1533-0.txt,2199,"Here, my good lord. What is’t that moves your Highness?"
+III,IV,57,MACBETH,1533-0.txt,2202,Which of you have done this?
+III,IV,58,LORDS,1533-0.txt,2205,"What, my good lord?"
+III,IV,59,MACBETH,1533-0.txt,2208,Thou canst not say I did it. Never shake
+III,IV,60,MACBETH,1533-0.txt,2209,Thy gory locks at me.
+III,IV,61,ROSS,1533-0.txt,2212,"Gentlemen, rise; his Highness is not well."
+III,IV,62,LADY MACBETH,1533-0.txt,2215,"Sit, worthy friends. My lord is often thus,"
+III,IV,63,LADY MACBETH,1533-0.txt,2216,"And hath been from his youth: pray you, keep seat;"
+III,IV,64,LADY MACBETH,1533-0.txt,2217,The fit is momentary; upon a thought
+III,IV,65,LADY MACBETH,1533-0.txt,2218,"He will again be well. If much you note him,"
+III,IV,66,LADY MACBETH,1533-0.txt,2219,"You shall offend him, and extend his passion."
+III,IV,67,LADY MACBETH,1533-0.txt,2220,"Feed, and regard him not.— Are you a man?"
+III,IV,68,MACBETH,1533-0.txt,2223,"Ay, and a bold one, that dare look on that"
+III,IV,69,MACBETH,1533-0.txt,2224,Which might appal the devil.
+III,IV,70,LADY MACBETH,1533-0.txt,2227,O proper stuff!
+III,IV,71,LADY MACBETH,1533-0.txt,2228,This is the very painting of your fear:
+III,IV,72,LADY MACBETH,1533-0.txt,2229,"This is the air-drawn dagger which you said,"
+III,IV,73,LADY MACBETH,1533-0.txt,2230,"Led you to Duncan. O, these flaws, and starts"
+III,IV,74,LADY MACBETH,1533-0.txt,2231,"(Impostors to true fear), would well become"
+III,IV,75,LADY MACBETH,1533-0.txt,2232,"A woman’s story at a winter’s fire,"
+III,IV,76,LADY MACBETH,1533-0.txt,2233,Authoris’d by her grandam. Shame itself!
+III,IV,77,LADY MACBETH,1533-0.txt,2234,"Why do you make such faces? When all’s done,"
+III,IV,78,LADY MACBETH,1533-0.txt,2235,You look but on a stool.
+III,IV,79,MACBETH,1533-0.txt,2238,"Pr’ythee, see there!"
+III,IV,80,MACBETH,1533-0.txt,2239,Behold! look! lo! how say you?
+III,IV,81,MACBETH,1533-0.txt,2240,"Why, what care I? If thou canst nod, speak too.— "
+III,IV,82,MACBETH,1533-0.txt,2241,If charnel houses and our graves must send
+III,IV,83,MACBETH,1533-0.txt,2242,"Those that we bury back, our monuments"
+III,IV,84,MACBETH,1533-0.txt,2243,Shall be the maws of kites.
+III,IV,84,---,1533-0.txt,2245,[Ghost disappears.]
+III,IV,85,LADY MACBETH,1533-0.txt,2248,"What, quite unmann’d in folly?"
+III,IV,86,MACBETH,1533-0.txt,2251,"If I stand here, I saw him."
+III,IV,87,LADY MACBETH,1533-0.txt,2254,"Fie, for shame!"
+III,IV,88,MACBETH,1533-0.txt,2257,"Blood hath been shed ere now, i’ th’ olden time,"
+III,IV,89,MACBETH,1533-0.txt,2258,Ere humane statute purg’d the gentle weal;
+III,IV,90,MACBETH,1533-0.txt,2259,"Ay, and since too, murders have been perform’d"
+III,IV,91,MACBETH,1533-0.txt,2260,"Too terrible for the ear: the time has been,"
+III,IV,92,MACBETH,1533-0.txt,2261,"That, when the brains were out, the man would die,"
+III,IV,93,MACBETH,1533-0.txt,2262,"And there an end; but now they rise again,"
+III,IV,94,MACBETH,1533-0.txt,2263,"With twenty mortal murders on their crowns,"
+III,IV,95,MACBETH,1533-0.txt,2264,And push us from our stools. This is more strange
+III,IV,96,MACBETH,1533-0.txt,2265,Than such a murder is.
+III,IV,97,LADY MACBETH,1533-0.txt,2268,"My worthy lord,"
+III,IV,98,LADY MACBETH,1533-0.txt,2269,Your noble friends do lack you.
+III,IV,99,MACBETH,1533-0.txt,2272,I do forget.— 
+III,IV,100,MACBETH,1533-0.txt,2273,"Do not muse at me, my most worthy friends."
+III,IV,101,MACBETH,1533-0.txt,2274,"I have a strange infirmity, which is nothing"
+III,IV,102,MACBETH,1533-0.txt,2275,"To those that know me. Come, love and health to all;"
+III,IV,103,MACBETH,1533-0.txt,2276,"Then I’ll sit down.— Give me some wine, fill full.— "
+III,IV,104,MACBETH,1533-0.txt,2277,"I drink to the general joy o’ th’ whole table,"
+III,IV,105,MACBETH,1533-0.txt,2278,"And to our dear friend Banquo, whom we miss:"
+III,IV,106,MACBETH,1533-0.txt,2279,Would he were here.
+III,IV,106,---,1533-0.txt,2281,Ghost rises again.
+III,IV,107,MACBETH,1533-0.txt,2283,"To all, and him, we thirst,"
+III,IV,108,MACBETH,1533-0.txt,2284,And all to all.
+III,IV,109,LORDS,1533-0.txt,2287,"Our duties, and the pledge."
+III,IV,110,MACBETH,1533-0.txt,2290,Avaunt! and quit my sight! let the earth hide thee!
+III,IV,111,MACBETH,1533-0.txt,2291,"Thy bones are marrowless, thy blood is cold;"
+III,IV,112,MACBETH,1533-0.txt,2292,Thou hast no speculation in those eyes
+III,IV,113,MACBETH,1533-0.txt,2293,Which thou dost glare with!
+III,IV,114,LADY MACBETH,1533-0.txt,2296,"Think of this, good peers,"
+III,IV,115,LADY MACBETH,1533-0.txt,2297,"But as a thing of custom: ’tis no other,"
+III,IV,116,LADY MACBETH,1533-0.txt,2298,Only it spoils the pleasure of the time.
+III,IV,117,MACBETH,1533-0.txt,2301,"What man dare, I dare:"
+III,IV,118,MACBETH,1533-0.txt,2302,"Approach thou like the rugged Russian bear,"
+III,IV,119,MACBETH,1533-0.txt,2303,"The arm’d rhinoceros, or th’ Hyrcan tiger;"
+III,IV,120,MACBETH,1533-0.txt,2304,"Take any shape but that, and my firm nerves"
+III,IV,121,MACBETH,1533-0.txt,2305,"Shall never tremble: or be alive again,"
+III,IV,122,MACBETH,1533-0.txt,2306,And dare me to the desert with thy sword;
+III,IV,123,MACBETH,1533-0.txt,2307,"If trembling I inhabit then, protest me"
+III,IV,124,MACBETH,1533-0.txt,2308,"The baby of a girl. Hence, horrible shadow!"
+III,IV,125,MACBETH,1533-0.txt,2309,"Unreal mock’ry, hence!"
+III,IV,125,---,1533-0.txt,2311,[Ghost disappears.]
+III,IV,126,MACBETH,1533-0.txt,2313,"Why, so;— being gone,"
+III,IV,127,MACBETH,1533-0.txt,2314,"I am a man again.— Pray you, sit still."
+III,IV,128,LADY MACBETH,1533-0.txt,2317,"You have displaced the mirth, broke the good meeting"
+III,IV,129,LADY MACBETH,1533-0.txt,2318,With most admir’d disorder.
+III,IV,130,MACBETH,1533-0.txt,2321,"Can such things be,"
+III,IV,131,MACBETH,1533-0.txt,2322,"And overcome us like a summer’s cloud,"
+III,IV,132,MACBETH,1533-0.txt,2323,Without our special wonder? You make me strange
+III,IV,133,MACBETH,1533-0.txt,2324,"Even to the disposition that I owe,"
+III,IV,134,MACBETH,1533-0.txt,2325,"When now I think you can behold such sights,"
+III,IV,135,MACBETH,1533-0.txt,2326,"And keep the natural ruby of your cheeks,"
+III,IV,136,MACBETH,1533-0.txt,2327,When mine are blanch’d with fear.
+III,IV,137,ROSS,1533-0.txt,2330,"What sights, my lord?"
+III,IV,138,LADY MACBETH,1533-0.txt,2333,"I pray you, speak not; he grows worse and worse;"
+III,IV,139,LADY MACBETH,1533-0.txt,2334,"Question enrages him. At once, good night:— "
+III,IV,140,LADY MACBETH,1533-0.txt,2335,"Stand not upon the order of your going,"
+III,IV,141,LADY MACBETH,1533-0.txt,2336,But go at once.
+III,IV,142,LENNOX,1533-0.txt,2339,Good night; and better health
+III,IV,143,LENNOX,1533-0.txt,2340,Attend his Majesty!
+III,IV,144,LADY MACBETH,1533-0.txt,2343,A kind good night to all!
+III,IV,144,---,1533-0.txt,2345,[Exeunt all Lords and Atendants.]
+III,IV,145,MACBETH,1533-0.txt,2348,"It will have blood, they say, blood will have blood."
+III,IV,146,MACBETH,1533-0.txt,2349,"Stones have been known to move, and trees to speak;"
+III,IV,147,MACBETH,1533-0.txt,2350,"Augurs, and understood relations, have"
+III,IV,148,MACBETH,1533-0.txt,2351,"By magot-pies, and choughs, and rooks, brought forth"
+III,IV,149,MACBETH,1533-0.txt,2352,The secret’st man of blood.— What is the night?
+III,IV,150,LADY MACBETH,1533-0.txt,2355,"Almost at odds with morning, which is which."
+III,IV,151,MACBETH,1533-0.txt,2358,"How say’st thou, that Macduff denies his person"
+III,IV,152,MACBETH,1533-0.txt,2359,At our great bidding?
+III,IV,153,LADY MACBETH,1533-0.txt,2362,"Did you send to him, sir?"
+III,IV,154,MACBETH,1533-0.txt,2365,I hear it by the way; but I will send.
+III,IV,155,MACBETH,1533-0.txt,2366,There’s not a one of them but in his house
+III,IV,156,MACBETH,1533-0.txt,2367,I keep a servant fee’d. I will tomorrow
+III,IV,157,MACBETH,1533-0.txt,2368,(And betimes I will) to the Weird Sisters:
+III,IV,158,MACBETH,1533-0.txt,2369,"More shall they speak; for now I am bent to know,"
+III,IV,159,MACBETH,1533-0.txt,2370,"By the worst means, the worst. For mine own good,"
+III,IV,160,MACBETH,1533-0.txt,2371,All causes shall give way: I am in blood
+III,IV,161,MACBETH,1533-0.txt,2372,"Stepp’d in so far that, should I wade no more,"
+III,IV,162,MACBETH,1533-0.txt,2373,Returning were as tedious as go o’er.
+III,IV,163,MACBETH,1533-0.txt,2374,"Strange things I have in head, that will to hand,"
+III,IV,164,MACBETH,1533-0.txt,2375,Which must be acted ere they may be scann’d.
+III,IV,165,LADY MACBETH,1533-0.txt,2378,"You lack the season of all natures, sleep."
+III,IV,166,MACBETH,1533-0.txt,2381,"Come, we’ll to sleep. My strange and self-abuse"
+III,IV,167,MACBETH,1533-0.txt,2382,Is the initiate fear that wants hard use.
+III,IV,168,MACBETH,1533-0.txt,2383,We are yet but young in deed.
+III,IV,168,---,1533-0.txt,2385,[Exeunt.]
+III,V,0,---,1533-0.txt,2389,Thunder. Enter the three Witches meeting Hecate.
+III,V,1,FIRST WITCH,1533-0.txt,2392,"Why, how now, Hecate? you look angerly."
+III,V,2,HECATE,1533-0.txt,2395,"Have I not reason, beldams as you are,"
+III,V,3,HECATE,1533-0.txt,2396,Saucy and overbold? How did you dare
+III,V,4,HECATE,1533-0.txt,2397,To trade and traffic with Macbeth
+III,V,5,HECATE,1533-0.txt,2398,In riddles and affairs of death;
+III,V,6,HECATE,1533-0.txt,2399,"And I, the mistress of your charms,"
+III,V,7,HECATE,1533-0.txt,2400,"The close contriver of all harms,"
+III,V,8,HECATE,1533-0.txt,2401,"Was never call’d to bear my part,"
+III,V,9,HECATE,1533-0.txt,2402,Or show the glory of our art?
+III,V,10,HECATE,1533-0.txt,2403,"And, which is worse, all you have done"
+III,V,11,HECATE,1533-0.txt,2404,"Hath been but for a wayward son,"
+III,V,12,HECATE,1533-0.txt,2405,"Spiteful and wrathful; who, as others do,"
+III,V,13,HECATE,1533-0.txt,2406,"Loves for his own ends, not for you."
+III,V,14,HECATE,1533-0.txt,2407,"But make amends now: get you gone,"
+III,V,15,HECATE,1533-0.txt,2408,And at the pit of Acheron
+III,V,16,HECATE,1533-0.txt,2409,Meet me i’ th’ morning: thither he
+III,V,17,HECATE,1533-0.txt,2410,Will come to know his destiny.
+III,V,18,HECATE,1533-0.txt,2411,"Your vessels and your spells provide,"
+III,V,19,HECATE,1533-0.txt,2412,"Your charms, and everything beside."
+III,V,20,HECATE,1533-0.txt,2413,I am for th’ air; this night I’ll spend
+III,V,21,HECATE,1533-0.txt,2414,Unto a dismal and a fatal end.
+III,V,22,HECATE,1533-0.txt,2415,Great business must be wrought ere noon.
+III,V,23,HECATE,1533-0.txt,2416,Upon the corner of the moon
+III,V,24,HECATE,1533-0.txt,2417,There hangs a vap’rous drop profound;
+III,V,25,HECATE,1533-0.txt,2418,I’ll catch it ere it come to ground:
+III,V,26,HECATE,1533-0.txt,2419,"And that, distill’d by magic sleights,"
+III,V,27,HECATE,1533-0.txt,2420,"Shall raise such artificial sprites,"
+III,V,28,HECATE,1533-0.txt,2421,"As, by the strength of their illusion,"
+III,V,29,HECATE,1533-0.txt,2422,Shall draw him on to his confusion.
+III,V,30,HECATE,1533-0.txt,2423,"He shall spurn fate, scorn death, and bear"
+III,V,31,HECATE,1533-0.txt,2424,"His hopes ’bove wisdom, grace, and fear."
+III,V,32,HECATE,1533-0.txt,2425,"And you all know, security"
+III,V,33,HECATE,1533-0.txt,2426,Is mortals’ chiefest enemy.
+III,V,33,---,1533-0.txt,2428,"[Music and song within, “Come away, come away” &c.]"
+III,V,34,HECATE,1533-0.txt,2430,"Hark! I am call’d; my little spirit, see,"
+III,V,35,HECATE,1533-0.txt,2431,Sits in a foggy cloud and stays for me.
+III,V,35,---,1533-0.txt,2433,[Exit.]
+III,V,36,FIRST WITCH,1533-0.txt,2436,"Come, let’s make haste; she’ll soon be back again."
+III,V,36,---,1533-0.txt,2438,[Exeunt.]
+III,VI,0,---,1533-0.txt,2442,Enter Lennox and another Lord.
+III,VI,1,LENNOX,1533-0.txt,2445,"My former speeches have but hit your thoughts,"
+III,VI,2,LENNOX,1533-0.txt,2446,"Which can interpret farther: only, I say,"
+III,VI,3,LENNOX,1533-0.txt,2447,Thing’s have been strangely borne. The gracious Duncan
+III,VI,4,LENNOX,1533-0.txt,2448,"Was pitied of Macbeth:— marry, he was dead:— "
+III,VI,5,LENNOX,1533-0.txt,2449,And the right valiant Banquo walk’d too late;
+III,VI,6,LENNOX,1533-0.txt,2450,"Whom, you may say, if’t please you, Fleance kill’d,"
+III,VI,7,LENNOX,1533-0.txt,2451,For Fleance fled. Men must not walk too late.
+III,VI,8,LENNOX,1533-0.txt,2452,"Who cannot want the thought, how monstrous"
+III,VI,9,LENNOX,1533-0.txt,2453,It was for Malcolm and for Donalbain
+III,VI,10,LENNOX,1533-0.txt,2454,To kill their gracious father? damned fact!
+III,VI,11,LENNOX,1533-0.txt,2455,"How it did grieve Macbeth! did he not straight,"
+III,VI,12,LENNOX,1533-0.txt,2456,"In pious rage, the two delinquents tear"
+III,VI,13,LENNOX,1533-0.txt,2457,That were the slaves of drink and thralls of sleep?
+III,VI,14,LENNOX,1533-0.txt,2458,"Was not that nobly done? Ay, and wisely too;"
+III,VI,15,LENNOX,1533-0.txt,2459,"For ’twould have anger’d any heart alive,"
+III,VI,16,LENNOX,1533-0.txt,2460,"To hear the men deny’t. So that, I say,"
+III,VI,17,LENNOX,1533-0.txt,2461,"He has borne all things well: and I do think,"
+III,VI,18,LENNOX,1533-0.txt,2462,That had he Duncan’s sons under his key
+III,VI,19,LENNOX,1533-0.txt,2463,"(As, and’t please heaven, he shall not) they should find"
+III,VI,20,LENNOX,1533-0.txt,2464,What ’twere to kill a father; so should Fleance.
+III,VI,21,LENNOX,1533-0.txt,2465,"But, peace!— for from broad words, and ’cause he fail’d"
+III,VI,22,LENNOX,1533-0.txt,2466,"His presence at the tyrant’s feast, I hear,"
+III,VI,23,LENNOX,1533-0.txt,2467,"Macduff lives in disgrace. Sir, can you tell"
+III,VI,24,LENNOX,1533-0.txt,2468,Where he bestows himself?
+III,VI,25,LORD,1533-0.txt,2471,"The son of Duncan,"
+III,VI,26,LORD,1533-0.txt,2472,"From whom this tyrant holds the due of birth,"
+III,VI,27,LORD,1533-0.txt,2473,Lives in the English court and is receiv’d
+III,VI,28,LORD,1533-0.txt,2474,Of the most pious Edward with such grace
+III,VI,29,LORD,1533-0.txt,2475,That the malevolence of fortune nothing
+III,VI,30,LORD,1533-0.txt,2476,Takes from his high respect. Thither Macduff
+III,VI,31,LORD,1533-0.txt,2477,"Is gone to pray the holy king, upon his aid"
+III,VI,32,LORD,1533-0.txt,2478,"To wake Northumberland, and warlike Siward"
+III,VI,33,LORD,1533-0.txt,2479,"That, by the help of these (with Him above"
+III,VI,34,LORD,1533-0.txt,2480,"To ratify the work), we may again"
+III,VI,35,LORD,1533-0.txt,2481,"Give to our tables meat, sleep to our nights;"
+III,VI,36,LORD,1533-0.txt,2482,"Free from our feasts and banquets bloody knives,"
+III,VI,37,LORD,1533-0.txt,2483,"Do faithful homage, and receive free honours,"
+III,VI,38,LORD,1533-0.txt,2484,All which we pine for now. And this report
+III,VI,39,LORD,1533-0.txt,2485,Hath so exasperate the King that he
+III,VI,40,LORD,1533-0.txt,2486,Prepares for some attempt of war.
+III,VI,41,LENNOX,1533-0.txt,2489,Sent he to Macduff?
+III,VI,42,LORD,1533-0.txt,2492,"He did: and with an absolute “Sir, not I,”"
+III,VI,43,LORD,1533-0.txt,2493,"The cloudy messenger turns me his back,"
+III,VI,44,LORD,1533-0.txt,2494,"And hums, as who should say, “You’ll rue the time"
+III,VI,45,LORD,1533-0.txt,2495,That clogs me with this answer.”
+III,VI,46,LENNOX,1533-0.txt,2498,And that well might
+III,VI,47,LENNOX,1533-0.txt,2499,"Advise him to a caution, t’ hold what distance"
+III,VI,48,LENNOX,1533-0.txt,2500,His wisdom can provide. Some holy angel
+III,VI,49,LENNOX,1533-0.txt,2501,"Fly to the court of England, and unfold"
+III,VI,50,LENNOX,1533-0.txt,2502,"His message ere he come, that a swift blessing"
+III,VI,51,LENNOX,1533-0.txt,2503,May soon return to this our suffering country
+III,VI,52,LENNOX,1533-0.txt,2504,Under a hand accurs’d!
+III,VI,53,LORD,1533-0.txt,2507,I’ll send my prayers with him.
+III,VI,53,---,1533-0.txt,2509,[Exeunt.]
+IV,I,0,---,1533-0.txt,2516,Thunder. Enter the three Witches.
+IV,I,1,FIRST WITCH,1533-0.txt,2519,Thrice the brinded cat hath mew’d.
+IV,I,2,SECOND WITCH,1533-0.txt,2522,"Thrice, and once the hedge-pig whin’d."
+IV,I,3,THIRD WITCH,1533-0.txt,2525,"Harpier cries:— ’Tis time, ’tis time."
+IV,I,4,FIRST WITCH,1533-0.txt,2528,Round about the cauldron go;
+IV,I,5,FIRST WITCH,1533-0.txt,2529,In the poison’d entrails throw.— 
+IV,I,6,FIRST WITCH,1533-0.txt,2530,"Toad, that under cold stone"
+IV,I,7,FIRST WITCH,1533-0.txt,2531,Days and nights has thirty-one
+IV,I,8,FIRST WITCH,1533-0.txt,2532,"Swelter’d venom sleeping got,"
+IV,I,9,FIRST WITCH,1533-0.txt,2533,Boil thou first i’ th’ charmed pot!
+IV,I,10,ALL,1533-0.txt,2536,"Double, double, toil and trouble;"
+IV,I,11,ALL,1533-0.txt,2537,"Fire, burn; and cauldron, bubble."
+IV,I,12,SECOND WITCH,1533-0.txt,2540,"Fillet of a fenny snake,"
+IV,I,13,SECOND WITCH,1533-0.txt,2541,In the cauldron boil and bake;
+IV,I,14,SECOND WITCH,1533-0.txt,2542,"Eye of newt, and toe of frog,"
+IV,I,15,SECOND WITCH,1533-0.txt,2543,"Wool of bat, and tongue of dog,"
+IV,I,16,SECOND WITCH,1533-0.txt,2544,"Adder’s fork, and blind-worm’s sting,"
+IV,I,17,SECOND WITCH,1533-0.txt,2545,"Lizard’s leg, and howlet’s wing,"
+IV,I,18,SECOND WITCH,1533-0.txt,2546,"For a charm of powerful trouble,"
+IV,I,19,SECOND WITCH,1533-0.txt,2547,Like a hell-broth boil and bubble.
+IV,I,20,ALL,1533-0.txt,2550,"Double, double, toil and trouble;"
+IV,I,21,ALL,1533-0.txt,2551,"Fire, burn; and cauldron, bubble."
+IV,I,22,THIRD WITCH,1533-0.txt,2554,"Scale of dragon, tooth of wolf,"
+IV,I,23,THIRD WITCH,1533-0.txt,2555,"Witch’s mummy, maw and gulf"
+IV,I,24,THIRD WITCH,1533-0.txt,2556,"Of the ravin’d salt-sea shark,"
+IV,I,25,THIRD WITCH,1533-0.txt,2557,"Root of hemlock digg’d i’ th’ dark,"
+IV,I,26,THIRD WITCH,1533-0.txt,2558,"Liver of blaspheming Jew,"
+IV,I,27,THIRD WITCH,1533-0.txt,2559,"Gall of goat, and slips of yew"
+IV,I,28,THIRD WITCH,1533-0.txt,2560,"Sliver’d in the moon’s eclipse,"
+IV,I,29,THIRD WITCH,1533-0.txt,2561,"Nose of Turk, and Tartar’s lips,"
+IV,I,30,THIRD WITCH,1533-0.txt,2562,Finger of birth-strangled babe
+IV,I,31,THIRD WITCH,1533-0.txt,2563,"Ditch-deliver’d by a drab,"
+IV,I,32,THIRD WITCH,1533-0.txt,2564,Make the gruel thick and slab:
+IV,I,33,THIRD WITCH,1533-0.txt,2565,"Add thereto a tiger’s chaudron,"
+IV,I,34,THIRD WITCH,1533-0.txt,2566,For th’ ingredients of our cauldron.
+IV,I,35,ALL,1533-0.txt,2569,"Double, double, toil and trouble;"
+IV,I,36,ALL,1533-0.txt,2570,"Fire, burn; and cauldron, bubble."
+IV,I,37,SECOND WITCH,1533-0.txt,2573,Cool it with a baboon’s blood.
+IV,I,38,SECOND WITCH,1533-0.txt,2574,Then the charm is firm and good.
+IV,I,38,---,1533-0.txt,2576,Enter Hecate.
+IV,I,39,HECATE,1533-0.txt,2579,"O, well done! I commend your pains,"
+IV,I,40,HECATE,1533-0.txt,2580,And everyone shall share i’ th’ gains.
+IV,I,41,HECATE,1533-0.txt,2581,"And now about the cauldron sing,"
+IV,I,42,HECATE,1533-0.txt,2582,"Like elves and fairies in a ring,"
+IV,I,43,HECATE,1533-0.txt,2583,Enchanting all that you put in.
+IV,I,43,---,1533-0.txt,2585,"[Music and a song: “Black Spirits,” &c.]"
+IV,I,43,---,1533-0.txt,2587,[Exit Hecate.]
+IV,I,44,SECOND WITCH,1533-0.txt,2590,"By the pricking of my thumbs,"
+IV,I,45,SECOND WITCH,1533-0.txt,2591,Something wicked this way comes.
+IV,I,46,SECOND WITCH,1533-0.txt,2592,"Open, locks,"
+IV,I,47,SECOND WITCH,1533-0.txt,2593,Whoever knocks!
+IV,I,47,---,1533-0.txt,2595,Enter Macbeth.
+IV,I,48,MACBETH,1533-0.txt,2598,"How now, you secret, black, and midnight hags!"
+IV,I,49,MACBETH,1533-0.txt,2599,What is’t you do?
+IV,I,50,ALL,1533-0.txt,2602,A deed without a name.
+IV,I,51,MACBETH,1533-0.txt,2605,"I conjure you, by that which you profess,"
+IV,I,52,MACBETH,1533-0.txt,2606,(Howe’er you come to know it) answer me:
+IV,I,53,MACBETH,1533-0.txt,2607,"Though you untie the winds, and let them fight"
+IV,I,54,MACBETH,1533-0.txt,2608,Against the churches; though the yesty waves
+IV,I,55,MACBETH,1533-0.txt,2609,Confound and swallow navigation up;
+IV,I,56,MACBETH,1533-0.txt,2610,"Though bladed corn be lodg’d, and trees blown down;"
+IV,I,57,MACBETH,1533-0.txt,2611,Though castles topple on their warders’ heads;
+IV,I,58,MACBETH,1533-0.txt,2612,Though palaces and pyramids do slope
+IV,I,59,MACBETH,1533-0.txt,2613,Their heads to their foundations; though the treasure
+IV,I,60,MACBETH,1533-0.txt,2614,"Of nature’s germens tumble all together,"
+IV,I,61,MACBETH,1533-0.txt,2615,"Even till destruction sicken, answer me"
+IV,I,62,MACBETH,1533-0.txt,2616,To what I ask you.
+IV,I,63,FIRST WITCH,1533-0.txt,2619,Speak.
+IV,I,64,SECOND WITCH,1533-0.txt,2622,Demand.
+IV,I,65,THIRD WITCH,1533-0.txt,2625,We’ll answer.
+IV,I,66,FIRST WITCH,1533-0.txt,2628,"Say, if thou’dst rather hear it from our mouths,"
+IV,I,67,FIRST WITCH,1533-0.txt,2629,Or from our masters?
+IV,I,68,MACBETH,1533-0.txt,2632,"Call ’em, let me see ’em."
+IV,I,69,FIRST WITCH,1533-0.txt,2635,"Pour in sow’s blood, that hath eaten"
+IV,I,70,FIRST WITCH,1533-0.txt,2636,Her nine farrow; grease that’s sweaten
+IV,I,71,FIRST WITCH,1533-0.txt,2637,From the murderer’s gibbet throw
+IV,I,72,FIRST WITCH,1533-0.txt,2638,Into the flame.
+IV,I,73,ALL,1533-0.txt,2641,"Come, high or low;"
+IV,I,74,ALL,1533-0.txt,2642,Thyself and office deftly show!
+IV,I,74,---,1533-0.txt,2644,[Thunder. An Apparition of an armed Head rises.]
+IV,I,75,MACBETH,1533-0.txt,2647,"Tell me, thou unknown power,— "
+IV,I,76,FIRST WITCH,1533-0.txt,2650,He knows thy thought:
+IV,I,77,FIRST WITCH,1533-0.txt,2651,"Hear his speech, but say thou naught."
+IV,I,78,APPARITION,1533-0.txt,2654,Macbeth! Macbeth! Macbeth! Beware Macduff;
+IV,I,79,APPARITION,1533-0.txt,2655,Beware the Thane of Fife.— Dismiss me.— Enough.
+IV,I,79,---,1533-0.txt,2657,[Descends.]
+IV,I,80,MACBETH,1533-0.txt,2660,"Whate’er thou art, for thy good caution, thanks;"
+IV,I,81,MACBETH,1533-0.txt,2661,Thou hast harp’d my fear aright.— But one word more.
+IV,I,82,FIRST WITCH,1533-0.txt,2664,"He will not be commanded. Here’s another,"
+IV,I,83,FIRST WITCH,1533-0.txt,2665,More potent than the first.
+IV,I,83,---,1533-0.txt,2667,[Thunder. An Apparition of a bloody Child rises.]
+IV,I,84,APPARITION,1533-0.txt,2670,Macbeth! Macbeth! Macbeth!
+IV,I,85,MACBETH,1533-0.txt,2673,"Had I three ears, I’d hear thee."
+IV,I,86,APPARITION,1533-0.txt,2676,"Be bloody, bold, and resolute. Laugh to scorn"
+IV,I,87,APPARITION,1533-0.txt,2677,"The power of man, for none of woman born"
+IV,I,88,APPARITION,1533-0.txt,2678,Shall harm Macbeth.
+IV,I,88,---,1533-0.txt,2680,[Descends.]
+IV,I,89,MACBETH,1533-0.txt,2683,"Then live, Macduff: what need I fear of thee?"
+IV,I,90,MACBETH,1533-0.txt,2684,"But yet I’ll make assurance double sure,"
+IV,I,91,MACBETH,1533-0.txt,2685,And take a bond of fate. Thou shalt not live;
+IV,I,92,MACBETH,1533-0.txt,2686,"That I may tell pale-hearted fear it lies,"
+IV,I,93,MACBETH,1533-0.txt,2687,And sleep in spite of thunder.
+IV,I,93,---,1533-0.txt,2689,"[Thunder. An Apparition of a Child crowned, with a tree in his hand, rises.]"
+IV,I,94,MACBETH,1533-0.txt,2692,"What is this,"
+IV,I,95,MACBETH,1533-0.txt,2693,"That rises like the issue of a king,"
+IV,I,96,MACBETH,1533-0.txt,2694,And wears upon his baby brow the round
+IV,I,97,MACBETH,1533-0.txt,2695,And top of sovereignty?
+IV,I,98,ALL,1533-0.txt,2698,"Listen, but speak not to’t."
+IV,I,99,APPARITION,1533-0.txt,2701,"Be lion-mettled, proud, and take no care"
+IV,I,100,APPARITION,1533-0.txt,2702,"Who chafes, who frets, or where conspirers are:"
+IV,I,101,APPARITION,1533-0.txt,2703,"Macbeth shall never vanquish’d be, until"
+IV,I,102,APPARITION,1533-0.txt,2704,Great Birnam wood to high Dunsinane hill
+IV,I,103,APPARITION,1533-0.txt,2705,Shall come against him.
+IV,I,103,---,1533-0.txt,2707,[Descends.]
+IV,I,104,MACBETH,1533-0.txt,2710,That will never be:
+IV,I,105,MACBETH,1533-0.txt,2711,Who can impress the forest; bid the tree
+IV,I,106,MACBETH,1533-0.txt,2712,"Unfix his earth-bound root? Sweet bodements, good!"
+IV,I,107,MACBETH,1533-0.txt,2713,"Rebellious head, rise never till the wood"
+IV,I,108,MACBETH,1533-0.txt,2714,"Of Birnam rise, and our high-plac’d Macbeth"
+IV,I,109,MACBETH,1533-0.txt,2715,"Shall live the lease of nature, pay his breath"
+IV,I,110,MACBETH,1533-0.txt,2716,To time and mortal custom.— Yet my heart
+IV,I,111,MACBETH,1533-0.txt,2717,"Throbs to know one thing: tell me, if your art"
+IV,I,112,MACBETH,1533-0.txt,2718,"Can tell so much, shall Banquo’s issue ever"
+IV,I,113,MACBETH,1533-0.txt,2719,Reign in this kingdom?
+IV,I,114,ALL,1533-0.txt,2722,Seek to know no more.
+IV,I,115,MACBETH,1533-0.txt,2725,"I will be satisfied: deny me this,"
+IV,I,116,MACBETH,1533-0.txt,2726,And an eternal curse fall on you! Let me know.
+IV,I,117,MACBETH,1533-0.txt,2727,Why sinks that cauldron? and what noise is this?
+IV,I,117,---,1533-0.txt,2729,[Hautboys.]
+IV,I,118,FIRST WITCH,1533-0.txt,2732,Show!
+IV,I,119,SECOND WITCH,1533-0.txt,2735,Show!
+IV,I,120,THIRD WITCH,1533-0.txt,2738,Show!
+IV,I,121,ALL,1533-0.txt,2741,"Show his eyes, and grieve his heart;"
+IV,I,122,ALL,1533-0.txt,2742,"Come like shadows, so depart!"
+IV,I,122,---,1533-0.txt,2744,"[A show of eight kings appear, and pass over in order, the last with a glass in his hand; Banquo following.]"
+IV,I,123,MACBETH,1533-0.txt,2748,Thou are too like the spirit of Banquo. Down!
+IV,I,124,MACBETH,1533-0.txt,2749,"Thy crown does sear mine eyeballs:— and thy hair,"
+IV,I,125,MACBETH,1533-0.txt,2750,"Thou other gold-bound brow, is like the first."
+IV,I,126,MACBETH,1533-0.txt,2751,A third is like the former.— Filthy hags!
+IV,I,127,MACBETH,1533-0.txt,2752,"Why do you show me this?— A fourth!— Start, eyes!"
+IV,I,128,MACBETH,1533-0.txt,2753,"What, will the line stretch out to th’ crack of doom?"
+IV,I,129,MACBETH,1533-0.txt,2754,Another yet!— A seventh!— I’ll see no more:— 
+IV,I,130,MACBETH,1533-0.txt,2755,"And yet the eighth appears, who bears a glass"
+IV,I,131,MACBETH,1533-0.txt,2756,Which shows me many more; and some I see
+IV,I,132,MACBETH,1533-0.txt,2757,That twofold balls and treble sceptres carry.
+IV,I,133,MACBETH,1533-0.txt,2758,Horrible sight!— Now I see ’tis true;
+IV,I,134,MACBETH,1533-0.txt,2759,"For the blood-bolter’d Banquo smiles upon me,"
+IV,I,135,MACBETH,1533-0.txt,2760,And points at them for his.— What! is this so?
+IV,I,136,FIRST WITCH,1533-0.txt,2763,"Ay, sir, all this is so:— but why"
+IV,I,137,FIRST WITCH,1533-0.txt,2764,Stands Macbeth thus amazedly?— 
+IV,I,138,FIRST WITCH,1533-0.txt,2765,"Come, sisters, cheer we up his sprites,"
+IV,I,139,FIRST WITCH,1533-0.txt,2766,And show the best of our delights.
+IV,I,140,FIRST WITCH,1533-0.txt,2767,"I’ll charm the air to give a sound,"
+IV,I,141,FIRST WITCH,1533-0.txt,2768,While you perform your antic round;
+IV,I,142,FIRST WITCH,1533-0.txt,2769,"That this great king may kindly say,"
+IV,I,143,FIRST WITCH,1533-0.txt,2770,Our duties did his welcome pay.
+IV,I,143,---,1533-0.txt,2772,"[Music. The Witches dance, and vanish.]"
+IV,I,144,MACBETH,1533-0.txt,2775,Where are they? Gone?— Let this pernicious hour
+IV,I,145,MACBETH,1533-0.txt,2776,Stand aye accursed in the calendar!— 
+IV,I,146,MACBETH,1533-0.txt,2777,"Come in, without there!"
+IV,I,146,---,1533-0.txt,2779,Enter Lennox.
+IV,I,147,LENNOX,1533-0.txt,2782,What’s your Grace’s will?
+IV,I,148,MACBETH,1533-0.txt,2785,Saw you the Weird Sisters?
+IV,I,149,LENNOX,1533-0.txt,2788,"No, my lord."
+IV,I,150,MACBETH,1533-0.txt,2791,Came they not by you?
+IV,I,151,LENNOX,1533-0.txt,2794,"No, indeed, my lord."
+IV,I,152,MACBETH,1533-0.txt,2797,Infected be the air whereon they ride;
+IV,I,153,MACBETH,1533-0.txt,2798,And damn’d all those that trust them!— I did hear
+IV,I,154,MACBETH,1533-0.txt,2799,The galloping of horse: who was’t came by?
+IV,I,155,LENNOX,1533-0.txt,2802,"’Tis two or three, my lord, that bring you word"
+IV,I,156,LENNOX,1533-0.txt,2803,Macduff is fled to England.
+IV,I,157,MACBETH,1533-0.txt,2806,Fled to England!
+IV,I,158,LENNOX,1533-0.txt,2809,"Ay, my good lord."
+IV,I,159,MACBETH,1533-0.txt,2812,"Time, thou anticipat’st my dread exploits:"
+IV,I,160,MACBETH,1533-0.txt,2813,The flighty purpose never is o’ertook
+IV,I,161,MACBETH,1533-0.txt,2814,Unless the deed go with it. From this moment
+IV,I,162,MACBETH,1533-0.txt,2815,The very firstlings of my heart shall be
+IV,I,163,MACBETH,1533-0.txt,2816,"The firstlings of my hand. And even now,"
+IV,I,164,MACBETH,1533-0.txt,2817,"To crown my thoughts with acts, be it thought and done:"
+IV,I,165,MACBETH,1533-0.txt,2818,The castle of Macduff I will surprise;
+IV,I,166,MACBETH,1533-0.txt,2819,Seize upon Fife; give to th’ edge o’ th’ sword
+IV,I,167,MACBETH,1533-0.txt,2820,"His wife, his babes, and all unfortunate souls"
+IV,I,168,MACBETH,1533-0.txt,2821,That trace him in his line. No boasting like a fool;
+IV,I,169,MACBETH,1533-0.txt,2822,This deed I’ll do before this purpose cool:
+IV,I,170,MACBETH,1533-0.txt,2823,But no more sights!— Where are these gentlemen?
+IV,I,171,MACBETH,1533-0.txt,2824,"Come, bring me where they are."
+IV,I,171,---,1533-0.txt,2826,[Exeunt.]
+IV,II,0,---,1533-0.txt,2830,Enter Lady Macduff her Son and Ross.
+IV,II,1,LADY MACDUFF,1533-0.txt,2833,"What had he done, to make him fly the land?"
+IV,II,2,ROSS,1533-0.txt,2836,"You must have patience, madam."
+IV,II,3,LADY MACDUFF,1533-0.txt,2839,He had none:
+IV,II,4,LADY MACDUFF,1533-0.txt,2840,"His flight was madness: when our actions do not,"
+IV,II,5,LADY MACDUFF,1533-0.txt,2841,Our fears do make us traitors.
+IV,II,6,ROSS,1533-0.txt,2844,You know not
+IV,II,7,ROSS,1533-0.txt,2845,Whether it was his wisdom or his fear.
+IV,II,8,LADY MACDUFF,1533-0.txt,2848,"Wisdom! to leave his wife, to leave his babes,"
+IV,II,9,LADY MACDUFF,1533-0.txt,2849,"His mansion, and his titles, in a place"
+IV,II,10,LADY MACDUFF,1533-0.txt,2850,From whence himself does fly? He loves us not:
+IV,II,11,LADY MACDUFF,1533-0.txt,2851,"He wants the natural touch; for the poor wren,"
+IV,II,12,LADY MACDUFF,1533-0.txt,2852,"The most diminutive of birds, will fight,"
+IV,II,13,LADY MACDUFF,1533-0.txt,2853,"Her young ones in her nest, against the owl."
+IV,II,14,LADY MACDUFF,1533-0.txt,2854,"All is the fear, and nothing is the love;"
+IV,II,15,LADY MACDUFF,1533-0.txt,2855,"As little is the wisdom, where the flight"
+IV,II,16,LADY MACDUFF,1533-0.txt,2856,So runs against all reason.
+IV,II,17,ROSS,1533-0.txt,2859,"My dearest coz,"
+IV,II,18,ROSS,1533-0.txt,2860,"I pray you, school yourself: but, for your husband,"
+IV,II,19,ROSS,1533-0.txt,2861,"He is noble, wise, judicious, and best knows"
+IV,II,20,ROSS,1533-0.txt,2862,The fits o’ th’ season. I dare not speak much further:
+IV,II,21,ROSS,1533-0.txt,2863,"But cruel are the times, when we are traitors,"
+IV,II,22,ROSS,1533-0.txt,2864,And do not know ourselves; when we hold rumour
+IV,II,23,ROSS,1533-0.txt,2865,"From what we fear, yet know not what we fear,"
+IV,II,24,ROSS,1533-0.txt,2866,But float upon a wild and violent sea
+IV,II,25,ROSS,1533-0.txt,2867,Each way and move— I take my leave of you:
+IV,II,26,ROSS,1533-0.txt,2868,Shall not be long but I’ll be here again.
+IV,II,27,ROSS,1533-0.txt,2869,"Things at the worst will cease, or else climb upward"
+IV,II,28,ROSS,1533-0.txt,2870,"To what they were before.— My pretty cousin,"
+IV,II,29,ROSS,1533-0.txt,2871,Blessing upon you!
+IV,II,30,LADY MACDUFF,1533-0.txt,2874,"Father’d he is, and yet he’s fatherless."
+IV,II,31,ROSS,1533-0.txt,2877,"I am so much a fool, should I stay longer,"
+IV,II,32,ROSS,1533-0.txt,2878,It would be my disgrace and your discomfort:
+IV,II,33,ROSS,1533-0.txt,2879,I take my leave at once.
+IV,II,33,---,1533-0.txt,2881,[Exit.]
+IV,II,34,LADY MACDUFF,1533-0.txt,2884,"Sirrah, your father’s dead."
+IV,II,35,LADY MACDUFF,1533-0.txt,2885,And what will you do now? How will you live?
+IV,II,36,SON,1533-0.txt,2888,"As birds do, mother."
+IV,II,37,LADY MACDUFF,1533-0.txt,2891,"What, with worms and flies?"
+IV,II,38,SON,1533-0.txt,2894,"With what I get, I mean; and so do they."
+IV,II,39,LADY MACDUFF,1533-0.txt,2897,"Poor bird! thou’dst never fear the net nor lime,"
+IV,II,40,LADY MACDUFF,1533-0.txt,2898,The pit-fall nor the gin.
+IV,II,41,SON,1533-0.txt,2901,"Why should I, mother? Poor birds they are not set for."
+IV,II,42,SON,1533-0.txt,2902,"My father is not dead, for all your saying."
+IV,II,43,LADY MACDUFF,1533-0.txt,2905,"Yes, he is dead: how wilt thou do for a father?"
+IV,II,44,SON,1533-0.txt,2908,"Nay, how will you do for a husband?"
+IV,II,45,LADY MACDUFF,1533-0.txt,2911,"Why, I can buy me twenty at any market."
+IV,II,46,SON,1533-0.txt,2914,Then you’ll buy ’em to sell again.
+IV,II,47,LADY MACDUFF,1533-0.txt,2917,Thou speak’st with all thy wit;
+IV,II,48,LADY MACDUFF,1533-0.txt,2918,"And yet, i’ faith, with wit enough for thee."
+IV,II,49,SON,1533-0.txt,2921,"Was my father a traitor, mother?"
+IV,II,50,LADY MACDUFF,1533-0.txt,2924,"Ay, that he was."
+IV,II,51,SON,1533-0.txt,2927,What is a traitor?
+IV,II,52,LADY MACDUFF,1533-0.txt,2930,"Why, one that swears and lies."
+IV,II,53,SON,1533-0.txt,2933,And be all traitors that do so?
+IV,II,54,LADY MACDUFF,1533-0.txt,2936,"Every one that does so is a traitor, and must be hanged."
+IV,II,55,SON,1533-0.txt,2939,And must they all be hanged that swear and lie?
+IV,II,56,LADY MACDUFF,1533-0.txt,2942,Every one.
+IV,II,57,SON,1533-0.txt,2945,Who must hang them?
+IV,II,58,LADY MACDUFF,1533-0.txt,2948,"Why, the honest men."
+IV,II,59,SON,1533-0.txt,2951,Then the liars and swearers are fools: for there are liars and swearers
+IV,II,60,SON,1533-0.txt,2952,enow to beat the honest men and hang up them.
+IV,II,61,LADY MACDUFF,1533-0.txt,2955,"Now, God help thee, poor monkey! But how wilt thou do for a father?"
+IV,II,62,SON,1533-0.txt,2958,"If he were dead, you’ld weep for him: if you would not, it were a good"
+IV,II,63,SON,1533-0.txt,2959,sign that I should quickly have a new father.
+IV,II,64,LADY MACDUFF,1533-0.txt,2962,"Poor prattler, how thou talk’st!"
+IV,II,64,---,1533-0.txt,2964,Enter a Messenger.
+IV,II,65,MESSENGER,1533-0.txt,2967,"Bless you, fair dame! I am not to you known,"
+IV,II,66,MESSENGER,1533-0.txt,2968,Though in your state of honour I am perfect.
+IV,II,67,MESSENGER,1533-0.txt,2969,I doubt some danger does approach you nearly:
+IV,II,68,MESSENGER,1533-0.txt,2970,"If you will take a homely man’s advice,"
+IV,II,69,MESSENGER,1533-0.txt,2971,"Be not found here; hence, with your little ones."
+IV,II,70,MESSENGER,1533-0.txt,2972,"To fright you thus, methinks, I am too savage;"
+IV,II,71,MESSENGER,1533-0.txt,2973,"To do worse to you were fell cruelty,"
+IV,II,72,MESSENGER,1533-0.txt,2974,Which is too nigh your person. Heaven preserve you!
+IV,II,73,MESSENGER,1533-0.txt,2975,I dare abide no longer.
+IV,II,73,---,1533-0.txt,2977,[Exit.]
+IV,II,74,LADY MACDUFF,1533-0.txt,2980,Whither should I fly?
+IV,II,75,LADY MACDUFF,1533-0.txt,2981,I have done no harm. But I remember now
+IV,II,76,LADY MACDUFF,1533-0.txt,2982,"I am in this earthly world, where to do harm"
+IV,II,77,LADY MACDUFF,1533-0.txt,2983,Is often laudable; to do good sometime
+IV,II,78,LADY MACDUFF,1533-0.txt,2984,"Accounted dangerous folly:  why then, alas,"
+IV,II,79,LADY MACDUFF,1533-0.txt,2985,"Do I put up that womanly defence,"
+IV,II,80,LADY MACDUFF,1533-0.txt,2986,To say I have done no harm? What are these faces?
+IV,II,80,---,1533-0.txt,2988,Enter Murderers.
+IV,II,81,FIRST MURDERER,1533-0.txt,2991,Where is your husband?
+IV,II,82,LADY MACDUFF,1533-0.txt,2994,"I hope, in no place so unsanctified"
+IV,II,83,LADY MACDUFF,1533-0.txt,2995,Where such as thou mayst find him.
+IV,II,84,FIRST MURDERER,1533-0.txt,2998,He’s a traitor.
+IV,II,85,SON,1533-0.txt,3001,"Thou liest, thou shag-ear’d villain!"
+IV,II,86,FIRST MURDERER,1533-0.txt,3004,"What, you egg!"
+IV,II,86,---,1533-0.txt,3006,[Stabbing him.]
+IV,II,87,FIRST MURDERER,1533-0.txt,3008,Young fry of treachery!
+IV,II,88,SON,1533-0.txt,3011,"He has kill’d me, mother:"
+IV,II,89,SON,1533-0.txt,3012,"Run away, I pray you!"
+IV,II,89,---,1533-0.txt,3014,"[Dies. Exit Lady Macduff, crying “Murder!” and pursued by the Murderers.]"
+IV,III,0,---,1533-0.txt,3019,Enter Malcolm and Macduff.
+IV,III,1,MALCOLM,1533-0.txt,3022,Let us seek out some desolate shade and there
+IV,III,2,MALCOLM,1533-0.txt,3023,Weep our sad bosoms empty.
+IV,III,3,MACDUFF,1533-0.txt,3026,Let us rather
+IV,III,4,MACDUFF,1533-0.txt,3027,"Hold fast the mortal sword, and, like good men,"
+IV,III,5,MACDUFF,1533-0.txt,3028,Bestride our down-fall’n birthdom. Each new morn
+IV,III,6,MACDUFF,1533-0.txt,3029,"New widows howl, new orphans cry; new sorrows"
+IV,III,7,MACDUFF,1533-0.txt,3030,"Strike heaven on the face, that it resounds"
+IV,III,8,MACDUFF,1533-0.txt,3031,"As if it felt with Scotland, and yell’d out"
+IV,III,9,MACDUFF,1533-0.txt,3032,Like syllable of dolour.
+IV,III,10,MALCOLM,1533-0.txt,3035,"What I believe, I’ll wail;"
+IV,III,11,MALCOLM,1533-0.txt,3036,"What know, believe; and what I can redress,"
+IV,III,12,MALCOLM,1533-0.txt,3037,"As I shall find the time to friend, I will."
+IV,III,13,MALCOLM,1533-0.txt,3038,"What you have spoke, it may be so, perchance."
+IV,III,14,MALCOLM,1533-0.txt,3039,"This tyrant, whose sole name blisters our tongues,"
+IV,III,15,MALCOLM,1533-0.txt,3040,Was once thought honest: you have loved him well;
+IV,III,16,MALCOLM,1533-0.txt,3041,He hath not touch’d you yet. I am young; but something
+IV,III,17,MALCOLM,1533-0.txt,3042,You may deserve of him through me; and wisdom
+IV,III,18,MALCOLM,1533-0.txt,3043,"To offer up a weak, poor, innocent lamb"
+IV,III,19,MALCOLM,1533-0.txt,3044,To appease an angry god.
+IV,III,20,MACDUFF,1533-0.txt,3047,I am not treacherous.
+IV,III,21,MALCOLM,1533-0.txt,3050,But Macbeth is.
+IV,III,22,MALCOLM,1533-0.txt,3051,A good and virtuous nature may recoil
+IV,III,23,MALCOLM,1533-0.txt,3052,In an imperial charge. But I shall crave your pardon.
+IV,III,24,MALCOLM,1533-0.txt,3053,"That which you are, my thoughts cannot transpose."
+IV,III,25,MALCOLM,1533-0.txt,3054,"Angels are bright still, though the brightest fell:"
+IV,III,26,MALCOLM,1533-0.txt,3055,"Though all things foul would wear the brows of grace,"
+IV,III,27,MALCOLM,1533-0.txt,3056,Yet grace must still look so.
+IV,III,28,MACDUFF,1533-0.txt,3059,I have lost my hopes.
+IV,III,29,MALCOLM,1533-0.txt,3062,Perchance even there where I did find my doubts.
+IV,III,30,MALCOLM,1533-0.txt,3063,"Why in that rawness left you wife and child,"
+IV,III,31,MALCOLM,1533-0.txt,3064,"Those precious motives, those strong knots of love,"
+IV,III,32,MALCOLM,1533-0.txt,3065,"Without leave-taking?— I pray you,"
+IV,III,33,MALCOLM,1533-0.txt,3066,"Let not my jealousies be your dishonours,"
+IV,III,34,MALCOLM,1533-0.txt,3067,"But mine own safeties. You may be rightly just,"
+IV,III,35,MALCOLM,1533-0.txt,3068,Whatever I shall think.
+IV,III,36,MACDUFF,1533-0.txt,3071,"Bleed, bleed, poor country!"
+IV,III,37,MACDUFF,1533-0.txt,3072,"Great tyranny, lay thou thy basis sure,"
+IV,III,38,MACDUFF,1533-0.txt,3073,For goodness dare not check thee! wear thou thy wrongs;
+IV,III,39,MACDUFF,1533-0.txt,3074,"The title is affeer’d.— Fare thee well, lord:"
+IV,III,40,MACDUFF,1533-0.txt,3075,I would not be the villain that thou think’st
+IV,III,41,MACDUFF,1533-0.txt,3076,For the whole space that’s in the tyrant’s grasp
+IV,III,42,MACDUFF,1533-0.txt,3077,And the rich East to boot.
+IV,III,43,MALCOLM,1533-0.txt,3080,Be not offended:
+IV,III,44,MALCOLM,1533-0.txt,3081,I speak not as in absolute fear of you.
+IV,III,45,MALCOLM,1533-0.txt,3082,I think our country sinks beneath the yoke;
+IV,III,46,MALCOLM,1533-0.txt,3083,"It weeps, it bleeds; and each new day a gash"
+IV,III,47,MALCOLM,1533-0.txt,3084,"Is added to her wounds. I think, withal,"
+IV,III,48,MALCOLM,1533-0.txt,3085,There would be hands uplifted in my right;
+IV,III,49,MALCOLM,1533-0.txt,3086,"And here, from gracious England, have I offer"
+IV,III,50,MALCOLM,1533-0.txt,3087,"Of goodly thousands: but, for all this,"
+IV,III,51,MALCOLM,1533-0.txt,3088,"When I shall tread upon the tyrant’s head,"
+IV,III,52,MALCOLM,1533-0.txt,3089,"Or wear it on my sword, yet my poor country"
+IV,III,53,MALCOLM,1533-0.txt,3090,"Shall have more vices than it had before,"
+IV,III,54,MALCOLM,1533-0.txt,3091,"More suffer, and more sundry ways than ever,"
+IV,III,55,MALCOLM,1533-0.txt,3092,By him that shall succeed.
+IV,III,56,MACDUFF,1533-0.txt,3095,What should he be?
+IV,III,57,MALCOLM,1533-0.txt,3098,It is myself I mean; in whom I know
+IV,III,58,MALCOLM,1533-0.txt,3099,All the particulars of vice so grafted
+IV,III,59,MALCOLM,1533-0.txt,3100,"That, when they shall be open’d, black Macbeth"
+IV,III,60,MALCOLM,1533-0.txt,3101,Will seem as pure as snow; and the poor state
+IV,III,61,MALCOLM,1533-0.txt,3102,"Esteem him as a lamb, being compar’d"
+IV,III,62,MALCOLM,1533-0.txt,3103,With my confineless harms.
+IV,III,63,MACDUFF,1533-0.txt,3106,Not in the legions
+IV,III,64,MACDUFF,1533-0.txt,3107,Of horrid hell can come a devil more damn’d
+IV,III,65,MACDUFF,1533-0.txt,3108,In evils to top Macbeth.
+IV,III,66,MALCOLM,1533-0.txt,3111,"I grant him bloody,"
+IV,III,67,MALCOLM,1533-0.txt,3112,"Luxurious, avaricious, false, deceitful,"
+IV,III,68,MALCOLM,1533-0.txt,3113,"Sudden, malicious, smacking of every sin"
+IV,III,69,MALCOLM,1533-0.txt,3114,"That has a name: but there’s no bottom, none,"
+IV,III,70,MALCOLM,1533-0.txt,3115,"In my voluptuousness: your wives, your daughters,"
+IV,III,71,MALCOLM,1533-0.txt,3116,"Your matrons, and your maids, could not fill up"
+IV,III,72,MALCOLM,1533-0.txt,3117,The cistern of my lust; and my desire
+IV,III,73,MALCOLM,1533-0.txt,3118,"All continent impediments would o’erbear,"
+IV,III,74,MALCOLM,1533-0.txt,3119,That did oppose my will: better Macbeth
+IV,III,75,MALCOLM,1533-0.txt,3120,Than such an one to reign.
+IV,III,76,MACDUFF,1533-0.txt,3123,Boundless intemperance
+IV,III,77,MACDUFF,1533-0.txt,3124,In nature is a tyranny; it hath been
+IV,III,78,MACDUFF,1533-0.txt,3125,"Th’ untimely emptying of the happy throne,"
+IV,III,79,MACDUFF,1533-0.txt,3126,And fall of many kings. But fear not yet
+IV,III,80,MACDUFF,1533-0.txt,3127,To take upon you what is yours: you may
+IV,III,81,MACDUFF,1533-0.txt,3128,"Convey your pleasures in a spacious plenty,"
+IV,III,82,MACDUFF,1533-0.txt,3129,And yet seem cold— the time you may so hoodwink.
+IV,III,83,MACDUFF,1533-0.txt,3130,We have willing dames enough; there cannot be
+IV,III,84,MACDUFF,1533-0.txt,3131,"That vulture in you, to devour so many"
+IV,III,85,MACDUFF,1533-0.txt,3132,"As will to greatness dedicate themselves,"
+IV,III,86,MACDUFF,1533-0.txt,3133,Finding it so inclin’d.
+IV,III,87,MALCOLM,1533-0.txt,3136,With this there grows
+IV,III,88,MALCOLM,1533-0.txt,3137,In my most ill-compos’d affection such
+IV,III,89,MALCOLM,1533-0.txt,3138,"A staunchless avarice, that, were I king,"
+IV,III,90,MALCOLM,1533-0.txt,3139,I should cut off the nobles for their lands;
+IV,III,91,MALCOLM,1533-0.txt,3140,"Desire his jewels, and this other’s house:"
+IV,III,92,MALCOLM,1533-0.txt,3141,And my more-having would be as a sauce
+IV,III,93,MALCOLM,1533-0.txt,3142,To make me hunger more; that I should forge
+IV,III,94,MALCOLM,1533-0.txt,3143,"Quarrels unjust against the good and loyal,"
+IV,III,95,MALCOLM,1533-0.txt,3144,Destroying them for wealth.
+IV,III,96,MACDUFF,1533-0.txt,3147,This avarice
+IV,III,97,MACDUFF,1533-0.txt,3148,Sticks deeper; grows with more pernicious root
+IV,III,98,MACDUFF,1533-0.txt,3149,Than summer-seeming lust; and it hath been
+IV,III,99,MACDUFF,1533-0.txt,3150,The sword of our slain kings: yet do not fear;
+IV,III,100,MACDUFF,1533-0.txt,3151,"Scotland hath foisons to fill up your will,"
+IV,III,101,MACDUFF,1533-0.txt,3152,"Of your mere own. All these are portable,"
+IV,III,102,MACDUFF,1533-0.txt,3153,With other graces weigh’d.
+IV,III,103,MALCOLM,1533-0.txt,3156,"But I have none: the king-becoming graces,"
+IV,III,104,MALCOLM,1533-0.txt,3157,"As justice, verity, temp’rance, stableness,"
+IV,III,105,MALCOLM,1533-0.txt,3158,"Bounty, perseverance, mercy, lowliness,"
+IV,III,106,MALCOLM,1533-0.txt,3159,"Devotion, patience, courage, fortitude,"
+IV,III,107,MALCOLM,1533-0.txt,3160,I have no relish of them; but abound
+IV,III,108,MALCOLM,1533-0.txt,3161,"In the division of each several crime,"
+IV,III,109,MALCOLM,1533-0.txt,3162,"Acting it many ways. Nay, had I power, I should"
+IV,III,110,MALCOLM,1533-0.txt,3163,"Pour the sweet milk of concord into hell,"
+IV,III,111,MALCOLM,1533-0.txt,3164,"Uproar the universal peace, confound"
+IV,III,112,MALCOLM,1533-0.txt,3165,All unity on earth.
+IV,III,113,MACDUFF,1533-0.txt,3168,"O Scotland, Scotland!"
+IV,III,114,MALCOLM,1533-0.txt,3171,"If such a one be fit to govern, speak:"
+IV,III,115,MALCOLM,1533-0.txt,3172,I am as I have spoken.
+IV,III,116,MACDUFF,1533-0.txt,3175,Fit to govern?
+IV,III,117,MACDUFF,1533-0.txt,3176,"No, not to live.— O nation miserable,"
+IV,III,118,MACDUFF,1533-0.txt,3177,"With an untitled tyrant bloody-scepter’d,"
+IV,III,119,MACDUFF,1533-0.txt,3178,"When shalt thou see thy wholesome days again,"
+IV,III,120,MACDUFF,1533-0.txt,3179,Since that the truest issue of thy throne
+IV,III,121,MACDUFF,1533-0.txt,3180,"By his own interdiction stands accus’d,"
+IV,III,122,MACDUFF,1533-0.txt,3181,And does blaspheme his breed? Thy royal father
+IV,III,123,MACDUFF,1533-0.txt,3182,"Was a most sainted king. The queen that bore thee,"
+IV,III,124,MACDUFF,1533-0.txt,3183,"Oft’ner upon her knees than on her feet,"
+IV,III,125,MACDUFF,1533-0.txt,3184,Died every day she lived. Fare thee well!
+IV,III,126,MACDUFF,1533-0.txt,3185,These evils thou repeat’st upon thyself
+IV,III,127,MACDUFF,1533-0.txt,3186,"Have banish’d me from Scotland.— O my breast,"
+IV,III,128,MACDUFF,1533-0.txt,3187,Thy hope ends here!
+IV,III,129,MALCOLM,1533-0.txt,3190,"Macduff, this noble passion,"
+IV,III,130,MALCOLM,1533-0.txt,3191,"Child of integrity, hath from my soul"
+IV,III,131,MALCOLM,1533-0.txt,3192,"Wiped the black scruples, reconcil’d my thoughts"
+IV,III,132,MALCOLM,1533-0.txt,3193,To thy good truth and honour. Devilish Macbeth
+IV,III,133,MALCOLM,1533-0.txt,3194,By many of these trains hath sought to win me
+IV,III,134,MALCOLM,1533-0.txt,3195,"Into his power, and modest wisdom plucks me"
+IV,III,135,MALCOLM,1533-0.txt,3196,From over-credulous haste: but God above
+IV,III,136,MALCOLM,1533-0.txt,3197,Deal between thee and me! for even now
+IV,III,137,MALCOLM,1533-0.txt,3198,"I put myself to thy direction, and"
+IV,III,138,MALCOLM,1533-0.txt,3199,Unspeak mine own detraction; here abjure
+IV,III,139,MALCOLM,1533-0.txt,3200,"The taints and blames I laid upon myself,"
+IV,III,140,MALCOLM,1533-0.txt,3201,For strangers to my nature. I am yet
+IV,III,141,MALCOLM,1533-0.txt,3202,Unknown to woman; never was forsworn;
+IV,III,142,MALCOLM,1533-0.txt,3203,Scarcely have coveted what was mine own;
+IV,III,143,MALCOLM,1533-0.txt,3204,At no time broke my faith; would not betray
+IV,III,144,MALCOLM,1533-0.txt,3205,The devil to his fellow; and delight
+IV,III,145,MALCOLM,1533-0.txt,3206,No less in truth than life: my first false speaking
+IV,III,146,MALCOLM,1533-0.txt,3207,"Was this upon myself. What I am truly,"
+IV,III,147,MALCOLM,1533-0.txt,3208,Is thine and my poor country’s to command:
+IV,III,148,MALCOLM,1533-0.txt,3209,"Whither, indeed, before thy here-approach,"
+IV,III,149,MALCOLM,1533-0.txt,3210,"Old Siward, with ten thousand warlike men,"
+IV,III,150,MALCOLM,1533-0.txt,3211,"Already at a point, was setting forth."
+IV,III,151,MALCOLM,1533-0.txt,3212,"Now we’ll together, and the chance of goodness"
+IV,III,152,MALCOLM,1533-0.txt,3213,Be like our warranted quarrel. Why are you silent?
+IV,III,153,MACDUFF,1533-0.txt,3216,Such welcome and unwelcome things at once
+IV,III,154,MACDUFF,1533-0.txt,3217,’Tis hard to reconcile.
+IV,III,154,---,1533-0.txt,3219,Enter a Doctor.
+IV,III,155,MALCOLM,1533-0.txt,3222,"Well; more anon.— Comes the King forth, I pray you?"
+IV,III,156,DOCTOR,1533-0.txt,3225,"Ay, sir. There are a crew of wretched souls"
+IV,III,157,DOCTOR,1533-0.txt,3226,That stay his cure: their malady convinces
+IV,III,158,DOCTOR,1533-0.txt,3227,"The great assay of art; but at his touch,"
+IV,III,159,DOCTOR,1533-0.txt,3228,"Such sanctity hath heaven given his hand,"
+IV,III,160,DOCTOR,1533-0.txt,3229,They presently amend.
+IV,III,161,MALCOLM,1533-0.txt,3232,"I thank you, doctor."
+IV,III,161,---,1533-0.txt,3234,[Exit Doctor.]
+IV,III,162,MACDUFF,1533-0.txt,3237,What’s the disease he means?
+IV,III,163,MALCOLM,1533-0.txt,3240,’Tis call’d the evil:
+IV,III,164,MALCOLM,1533-0.txt,3241,A most miraculous work in this good king;
+IV,III,165,MALCOLM,1533-0.txt,3242,"Which often, since my here-remain in England,"
+IV,III,166,MALCOLM,1533-0.txt,3243,"I have seen him do. How he solicits heaven,"
+IV,III,167,MALCOLM,1533-0.txt,3244,"Himself best knows, but strangely-visited people,"
+IV,III,168,MALCOLM,1533-0.txt,3245,"All swoln and ulcerous, pitiful to the eye,"
+IV,III,169,MALCOLM,1533-0.txt,3246,"The mere despair of surgery, he cures;"
+IV,III,170,MALCOLM,1533-0.txt,3247,"Hanging a golden stamp about their necks,"
+IV,III,171,MALCOLM,1533-0.txt,3248,"Put on with holy prayers: and ’tis spoken,"
+IV,III,172,MALCOLM,1533-0.txt,3249,To the succeeding royalty he leaves
+IV,III,173,MALCOLM,1533-0.txt,3250,"The healing benediction. With this strange virtue,"
+IV,III,174,MALCOLM,1533-0.txt,3251,He hath a heavenly gift of prophecy;
+IV,III,175,MALCOLM,1533-0.txt,3252,"And sundry blessings hang about his throne,"
+IV,III,176,MALCOLM,1533-0.txt,3253,That speak him full of grace.
+IV,III,176,---,1533-0.txt,3255,Enter Ross.
+IV,III,177,MACDUFF,1533-0.txt,3258,"See, who comes here?"
+IV,III,178,MALCOLM,1533-0.txt,3261,My countryman; but yet I know him not.
+IV,III,179,MACDUFF,1533-0.txt,3264,"My ever-gentle cousin, welcome hither."
+IV,III,180,MALCOLM,1533-0.txt,3267,"I know him now. Good God, betimes remove"
+IV,III,181,MALCOLM,1533-0.txt,3268,The means that makes us strangers!
+IV,III,182,ROSS,1533-0.txt,3271,"Sir, amen."
+IV,III,183,MACDUFF,1533-0.txt,3274,Stands Scotland where it did?
+IV,III,184,ROSS,1533-0.txt,3277,"Alas, poor country,"
+IV,III,185,ROSS,1533-0.txt,3278,Almost afraid to know itself! It cannot
+IV,III,186,ROSS,1533-0.txt,3279,"Be call’d our mother, but our grave, where nothing,"
+IV,III,187,ROSS,1533-0.txt,3280,"But who knows nothing, is once seen to smile;"
+IV,III,188,ROSS,1533-0.txt,3281,"Where sighs, and groans, and shrieks, that rent the air,"
+IV,III,189,ROSS,1533-0.txt,3282,"Are made, not mark’d; where violent sorrow seems"
+IV,III,190,ROSS,1533-0.txt,3283,A modern ecstasy. The dead man’s knell
+IV,III,191,ROSS,1533-0.txt,3284,Is there scarce ask’d for who; and good men’s lives
+IV,III,192,ROSS,1533-0.txt,3285,"Expire before the flowers in their caps,"
+IV,III,193,ROSS,1533-0.txt,3286,Dying or ere they sicken.
+IV,III,194,MACDUFF,1533-0.txt,3289,"O, relation"
+IV,III,195,MACDUFF,1533-0.txt,3290,"Too nice, and yet too true!"
+IV,III,196,MALCOLM,1533-0.txt,3293,What’s the newest grief?
+IV,III,197,ROSS,1533-0.txt,3296,That of an hour’s age doth hiss the speaker;
+IV,III,198,ROSS,1533-0.txt,3297,Each minute teems a new one.
+IV,III,199,MACDUFF,1533-0.txt,3300,How does my wife?
+IV,III,200,ROSS,1533-0.txt,3303,"Why, well."
+IV,III,201,MACDUFF,1533-0.txt,3306,And all my children?
+IV,III,202,ROSS,1533-0.txt,3309,Well too.
+IV,III,203,MACDUFF,1533-0.txt,3312,The tyrant has not batter’d at their peace?
+IV,III,204,ROSS,1533-0.txt,3315,No; they were well at peace when I did leave ’em.
+IV,III,205,MACDUFF,1533-0.txt,3318,Be not a niggard of your speech: how goes’t?
+IV,III,206,ROSS,1533-0.txt,3321,"When I came hither to transport the tidings,"
+IV,III,207,ROSS,1533-0.txt,3322,"Which I have heavily borne, there ran a rumour"
+IV,III,208,ROSS,1533-0.txt,3323,Of many worthy fellows that were out;
+IV,III,209,ROSS,1533-0.txt,3324,"Which was to my belief witness’d the rather,"
+IV,III,210,ROSS,1533-0.txt,3325,For that I saw the tyrant’s power afoot.
+IV,III,211,ROSS,1533-0.txt,3326,Now is the time of help. Your eye in Scotland
+IV,III,212,ROSS,1533-0.txt,3327,"Would create soldiers, make our women fight,"
+IV,III,213,ROSS,1533-0.txt,3328,To doff their dire distresses.
+IV,III,214,MALCOLM,1533-0.txt,3331,Be’t their comfort
+IV,III,215,MALCOLM,1533-0.txt,3332,We are coming thither. Gracious England hath
+IV,III,216,MALCOLM,1533-0.txt,3333,Lent us good Siward and ten thousand men;
+IV,III,217,MALCOLM,1533-0.txt,3334,An older and a better soldier none
+IV,III,218,MALCOLM,1533-0.txt,3335,That Christendom gives out.
+IV,III,219,ROSS,1533-0.txt,3338,Would I could answer
+IV,III,220,ROSS,1533-0.txt,3339,This comfort with the like! But I have words
+IV,III,221,ROSS,1533-0.txt,3340,"That would be howl’d out in the desert air,"
+IV,III,222,ROSS,1533-0.txt,3341,Where hearing should not latch them.
+IV,III,223,MACDUFF,1533-0.txt,3344,What concern they?
+IV,III,224,MACDUFF,1533-0.txt,3345,The general cause? or is it a fee-grief
+IV,III,225,MACDUFF,1533-0.txt,3346,Due to some single breast?
+IV,III,226,ROSS,1533-0.txt,3349,No mind that’s honest
+IV,III,227,ROSS,1533-0.txt,3350,"But in it shares some woe, though the main part"
+IV,III,228,ROSS,1533-0.txt,3351,Pertains to you alone.
+IV,III,229,MACDUFF,1533-0.txt,3354,"If it be mine,"
+IV,III,230,MACDUFF,1533-0.txt,3355,"Keep it not from me, quickly let me have it."
+IV,III,231,ROSS,1533-0.txt,3358,"Let not your ears despise my tongue for ever,"
+IV,III,232,ROSS,1533-0.txt,3359,Which shall possess them with the heaviest sound
+IV,III,233,ROSS,1533-0.txt,3360,That ever yet they heard.
+IV,III,234,MACDUFF,1533-0.txt,3363,Humh! I guess at it.
+IV,III,235,ROSS,1533-0.txt,3366,Your castle is surpris’d; your wife and babes
+IV,III,236,ROSS,1533-0.txt,3367,Savagely slaughter’d. To relate the manner
+IV,III,237,ROSS,1533-0.txt,3368,"Were, on the quarry of these murder’d deer,"
+IV,III,238,ROSS,1533-0.txt,3369,To add the death of you.
+IV,III,239,MALCOLM,1533-0.txt,3372,Merciful heaven!— 
+IV,III,240,MALCOLM,1533-0.txt,3373,"What, man! ne’er pull your hat upon your brows."
+IV,III,241,MALCOLM,1533-0.txt,3374,Give sorrow words. The grief that does not speak
+IV,III,242,MALCOLM,1533-0.txt,3375,"Whispers the o’er-fraught heart, and bids it break."
+IV,III,243,MACDUFF,1533-0.txt,3378,My children too?
+IV,III,244,ROSS,1533-0.txt,3381,"Wife, children, servants, all"
+IV,III,245,ROSS,1533-0.txt,3382,That could be found.
+IV,III,246,MACDUFF,1533-0.txt,3385,And I must be from thence!
+IV,III,247,MACDUFF,1533-0.txt,3386,My wife kill’d too?
+IV,III,248,ROSS,1533-0.txt,3389,I have said.
+IV,III,249,MALCOLM,1533-0.txt,3392,Be comforted:
+IV,III,250,MALCOLM,1533-0.txt,3393,"Let’s make us med’cines of our great revenge,"
+IV,III,251,MALCOLM,1533-0.txt,3394,To cure this deadly grief.
+IV,III,252,MACDUFF,1533-0.txt,3397,He has no children.— All my pretty ones?
+IV,III,253,MACDUFF,1533-0.txt,3398,Did you say all?— O hell-kite!— All?
+IV,III,254,MACDUFF,1533-0.txt,3399,"What, all my pretty chickens and their dam"
+IV,III,255,MACDUFF,1533-0.txt,3400,At one fell swoop?
+IV,III,256,MALCOLM,1533-0.txt,3403,Dispute it like a man.
+IV,III,257,MACDUFF,1533-0.txt,3406,I shall do so;
+IV,III,258,MACDUFF,1533-0.txt,3407,But I must also feel it as a man:
+IV,III,259,MACDUFF,1533-0.txt,3408,"I cannot but remember such things were,"
+IV,III,260,MACDUFF,1533-0.txt,3409,"That were most precious to me.— Did heaven look on,"
+IV,III,261,MACDUFF,1533-0.txt,3410,"And would not take their part? Sinful Macduff,"
+IV,III,262,MACDUFF,1533-0.txt,3411,"They were all struck for thee! Naught that I am,"
+IV,III,263,MACDUFF,1533-0.txt,3412,"Not for their own demerits, but for mine,"
+IV,III,264,MACDUFF,1533-0.txt,3413,Fell slaughter on their souls: heaven rest them now!
+IV,III,265,MALCOLM,1533-0.txt,3416,Be this the whetstone of your sword. Let grief
+IV,III,266,MALCOLM,1533-0.txt,3417,"Convert to anger; blunt not the heart, enrage it."
+IV,III,267,MACDUFF,1533-0.txt,3420,"O, I could play the woman with mine eyes,"
+IV,III,268,MACDUFF,1533-0.txt,3421,"And braggart with my tongue!— But, gentle heavens,"
+IV,III,269,MACDUFF,1533-0.txt,3422,"Cut short all intermission; front to front,"
+IV,III,270,MACDUFF,1533-0.txt,3423,Bring thou this fiend of Scotland and myself;
+IV,III,271,MACDUFF,1533-0.txt,3424,"Within my sword’s length set him; if he ’scape,"
+IV,III,272,MACDUFF,1533-0.txt,3425,Heaven forgive him too!
+IV,III,273,MALCOLM,1533-0.txt,3428,This tune goes manly.
+IV,III,274,MALCOLM,1533-0.txt,3429,"Come, go we to the King. Our power is ready;"
+IV,III,275,MALCOLM,1533-0.txt,3430,Our lack is nothing but our leave. Macbeth
+IV,III,276,MALCOLM,1533-0.txt,3431,"Is ripe for shaking, and the powers above"
+IV,III,277,MALCOLM,1533-0.txt,3432,Put on their instruments. Receive what cheer you may;
+IV,III,278,MALCOLM,1533-0.txt,3433,The night is long that never finds the day.
+IV,III,278,---,1533-0.txt,3435,[Exeunt.]
+V,I,0,---,1533-0.txt,3442,Enter a Doctor of Physic and a Waiting-Gentlewoman.
+V,I,1,DOCTOR,1533-0.txt,3445,"I have two nights watched with you, but can perceive no truth in your"
+V,I,2,DOCTOR,1533-0.txt,3446,report. When was it she last walked?
+V,I,3,GENTLEWOMAN,1533-0.txt,3449,"Since his Majesty went into the field, I have seen her rise from her"
+V,I,4,GENTLEWOMAN,1533-0.txt,3450,"bed, throw her nightgown upon her, unlock her closet, take forth paper,"
+V,I,5,GENTLEWOMAN,1533-0.txt,3451,"fold it, write upon’t, read it, afterwards seal it, and again return to"
+V,I,6,GENTLEWOMAN,1533-0.txt,3452,bed; yet all this while in a most fast sleep.
+V,I,7,DOCTOR,1533-0.txt,3455,"A great perturbation in nature, to receive at once the benefit of"
+V,I,8,DOCTOR,1533-0.txt,3456,"sleep, and do the effects of watching. In this slumbery agitation,"
+V,I,9,DOCTOR,1533-0.txt,3457,"besides her walking and other actual performances, what, at any time,"
+V,I,10,DOCTOR,1533-0.txt,3458,have you heard her say?
+V,I,11,GENTLEWOMAN,1533-0.txt,3461,"That, sir, which I will not report after her."
+V,I,12,DOCTOR,1533-0.txt,3464,You may to me; and ’tis most meet you should.
+V,I,13,GENTLEWOMAN,1533-0.txt,3467,Neither to you nor anyone; having no witness to confirm my speech.
+V,I,13,---,1533-0.txt,3469,Enter Lady Macbeth with a taper.
+V,I,14,GENTLEWOMAN,1533-0.txt,3471,"Lo you, here she comes! This is her very guise; and, upon my life, fast"
+V,I,15,GENTLEWOMAN,1533-0.txt,3472,asleep. Observe her; stand close.
+V,I,16,DOCTOR,1533-0.txt,3475,How came she by that light?
+V,I,17,GENTLEWOMAN,1533-0.txt,3478,"Why, it stood by her: she has light by her continually; ’tis her"
+V,I,18,GENTLEWOMAN,1533-0.txt,3479,command.
+V,I,19,DOCTOR,1533-0.txt,3482,"You see, her eyes are open."
+V,I,20,GENTLEWOMAN,1533-0.txt,3485,"Ay, but their sense are shut."
+V,I,21,DOCTOR,1533-0.txt,3488,What is it she does now? Look how she rubs her hands.
+V,I,22,GENTLEWOMAN,1533-0.txt,3491,"It is an accustomed action with her, to seem thus washing her hands. I"
+V,I,23,GENTLEWOMAN,1533-0.txt,3492,have known her continue in this a quarter of an hour.
+V,I,24,LADY MACBETH,1533-0.txt,3495,Yet here’s a spot.
+V,I,25,DOCTOR,1533-0.txt,3498,"Hark, she speaks. I will set down what comes from her, to satisfy my"
+V,I,26,DOCTOR,1533-0.txt,3499,remembrance the more strongly.
+V,I,27,LADY MACBETH,1533-0.txt,3502,"Out, damned spot! out, I say! One; two. Why, then ’tis time to do’t."
+V,I,28,LADY MACBETH,1533-0.txt,3503,"Hell is murky! Fie, my lord, fie! a soldier, and afeard? What need we"
+V,I,29,LADY MACBETH,1533-0.txt,3504,"fear who knows it, when none can call our power to account? Yet who"
+V,I,30,LADY MACBETH,1533-0.txt,3505,would have thought the old man to have had so much blood in him?
+V,I,31,DOCTOR,1533-0.txt,3508,Do you mark that?
+V,I,32,LADY MACBETH,1533-0.txt,3511,"The Thane of Fife had a wife. Where is she now?— What, will these hands"
+V,I,33,LADY MACBETH,1533-0.txt,3512,"ne’er be clean? No more o’ that, my lord, no more o’ that: you mar all"
+V,I,34,LADY MACBETH,1533-0.txt,3513,with this starting.
+V,I,35,DOCTOR,1533-0.txt,3516,"Go to, go to. You have known what you should not."
+V,I,36,GENTLEWOMAN,1533-0.txt,3519,"She has spoke what she should not, I am sure of that: heaven knows what"
+V,I,37,GENTLEWOMAN,1533-0.txt,3520,she has known.
+V,I,38,LADY MACBETH,1533-0.txt,3523,Here’s the smell of the blood still: all the perfumes of Arabia will
+V,I,39,LADY MACBETH,1533-0.txt,3524,"not sweeten this little hand. Oh, oh, oh!"
+V,I,40,DOCTOR,1533-0.txt,3527,What a sigh is there! The heart is sorely charged.
+V,I,41,GENTLEWOMAN,1533-0.txt,3530,I would not have such a heart in my bosom for the dignity of the whole
+V,I,42,GENTLEWOMAN,1533-0.txt,3531,body.
+V,I,43,DOCTOR,1533-0.txt,3534,"Well, well, well."
+V,I,44,GENTLEWOMAN,1533-0.txt,3537,"Pray God it be, sir."
+V,I,45,DOCTOR,1533-0.txt,3540,This disease is beyond my practice: yet I have known those which have
+V,I,46,DOCTOR,1533-0.txt,3541,"walked in their sleep, who have died holily in their beds."
+V,I,47,LADY MACBETH,1533-0.txt,3544,"Wash your hands, put on your nightgown; look not so pale. I tell you"
+V,I,48,LADY MACBETH,1533-0.txt,3545,"yet again, Banquo’s buried; he cannot come out on’s grave."
+V,I,49,DOCTOR,1533-0.txt,3548,Even so?
+V,I,50,LADY MACBETH,1533-0.txt,3551,"To bed, to bed. There’s knocking at the gate. Come, come, come, come,"
+V,I,51,LADY MACBETH,1533-0.txt,3552,"give me your hand. What’s done cannot be undone. To bed, to bed, to"
+V,I,52,LADY MACBETH,1533-0.txt,3553,bed.
+V,I,52,---,1533-0.txt,3555,[Exit.]
+V,I,53,DOCTOR,1533-0.txt,3558,Will she go now to bed?
+V,I,54,GENTLEWOMAN,1533-0.txt,3561,Directly.
+V,I,55,DOCTOR,1533-0.txt,3564,Foul whisp’rings are abroad. Unnatural deeds
+V,I,56,DOCTOR,1533-0.txt,3565,Do breed unnatural troubles: infected minds
+V,I,57,DOCTOR,1533-0.txt,3566,To their deaf pillows will discharge their secrets.
+V,I,58,DOCTOR,1533-0.txt,3567,More needs she the divine than the physician.— 
+V,I,59,DOCTOR,1533-0.txt,3568,"God, God, forgive us all! Look after her;"
+V,I,60,DOCTOR,1533-0.txt,3569,"Remove from her the means of all annoyance,"
+V,I,61,DOCTOR,1533-0.txt,3570,"And still keep eyes upon her. So, good night:"
+V,I,62,DOCTOR,1533-0.txt,3571,"My mind she has mated, and amaz’d my sight."
+V,I,63,DOCTOR,1533-0.txt,3572,"I think, but dare not speak."
+V,I,64,GENTLEWOMAN,1533-0.txt,3575,"Good night, good doctor."
+V,I,64,---,1533-0.txt,3577,[Exeunt.]
+V,II,0,---,1533-0.txt,3581,"Enter, with drum and colours Menteith, Caithness, Angus, Lennox and Soldiers."
+V,II,1,MENTEITH,1533-0.txt,3585,"The English power is near, led on by Malcolm,"
+V,II,2,MENTEITH,1533-0.txt,3586,"His uncle Siward, and the good Macduff."
+V,II,3,MENTEITH,1533-0.txt,3587,Revenges burn in them; for their dear causes
+V,II,4,MENTEITH,1533-0.txt,3588,Would to the bleeding and the grim alarm
+V,II,5,MENTEITH,1533-0.txt,3589,Excite the mortified man.
+V,II,6,ANGUS,1533-0.txt,3592,Near Birnam wood
+V,II,7,ANGUS,1533-0.txt,3593,Shall we well meet them. That way are they coming.
+V,II,8,CAITHNESS,1533-0.txt,3596,Who knows if Donalbain be with his brother?
+V,II,9,LENNOX,1533-0.txt,3599,"For certain, sir, he is not. I have a file"
+V,II,10,LENNOX,1533-0.txt,3600,Of all the gentry: there is Siward’s son
+V,II,11,LENNOX,1533-0.txt,3601,"And many unrough youths, that even now"
+V,II,12,LENNOX,1533-0.txt,3602,Protest their first of manhood.
+V,II,13,MENTEITH,1533-0.txt,3605,What does the tyrant?
+V,II,14,CAITHNESS,1533-0.txt,3608,Great Dunsinane he strongly fortifies.
+V,II,15,CAITHNESS,1533-0.txt,3609,"Some say he’s mad; others, that lesser hate him,"
+V,II,16,CAITHNESS,1533-0.txt,3610,"Do call it valiant fury: but, for certain,"
+V,II,17,CAITHNESS,1533-0.txt,3611,He cannot buckle his distemper’d cause
+V,II,18,CAITHNESS,1533-0.txt,3612,Within the belt of rule.
+V,II,19,ANGUS,1533-0.txt,3615,Now does he feel
+V,II,20,ANGUS,1533-0.txt,3616,His secret murders sticking on his hands;
+V,II,21,ANGUS,1533-0.txt,3617,Now minutely revolts upbraid his faith-breach;
+V,II,22,ANGUS,1533-0.txt,3618,"Those he commands move only in command,"
+V,II,23,ANGUS,1533-0.txt,3619,Nothing in love: now does he feel his title
+V,II,24,ANGUS,1533-0.txt,3620,"Hang loose about him, like a giant’s robe"
+V,II,25,ANGUS,1533-0.txt,3621,Upon a dwarfish thief.
+V,II,26,MENTEITH,1533-0.txt,3624,"Who, then, shall blame"
+V,II,27,MENTEITH,1533-0.txt,3625,"His pester’d senses to recoil and start,"
+V,II,28,MENTEITH,1533-0.txt,3626,When all that is within him does condemn
+V,II,29,MENTEITH,1533-0.txt,3627,Itself for being there?
+V,II,30,CAITHNESS,1533-0.txt,3630,"Well, march we on,"
+V,II,31,CAITHNESS,1533-0.txt,3631,To give obedience where ’tis truly ow’d:
+V,II,32,CAITHNESS,1533-0.txt,3632,Meet we the med’cine of the sickly weal;
+V,II,33,CAITHNESS,1533-0.txt,3633,"And with him pour we, in our country’s purge,"
+V,II,34,CAITHNESS,1533-0.txt,3634,Each drop of us.
+V,II,35,LENNOX,1533-0.txt,3637,Or so much as it needs
+V,II,36,LENNOX,1533-0.txt,3638,"To dew the sovereign flower, and drown the weeds."
+V,II,37,LENNOX,1533-0.txt,3639,Make we our march towards Birnam.
+V,II,37,---,1533-0.txt,3641,"[Exeunt, marching.]"
+V,III,0,---,1533-0.txt,3645,"Enter Macbeth, Doctor and Attendants."
+V,III,1,MACBETH,1533-0.txt,3648,Bring me no more reports; let them fly all:
+V,III,2,MACBETH,1533-0.txt,3649,Till Birnam wood remove to Dunsinane
+V,III,3,MACBETH,1533-0.txt,3650,I cannot taint with fear. What’s the boy Malcolm?
+V,III,4,MACBETH,1533-0.txt,3651,Was he not born of woman? The spirits that know
+V,III,5,MACBETH,1533-0.txt,3652,All mortal consequences have pronounc’d me thus:
+V,III,6,MACBETH,1533-0.txt,3653,"“Fear not, Macbeth; no man that’s born of woman"
+V,III,7,MACBETH,1533-0.txt,3654,"Shall e’er have power upon thee.”— Then fly, false thanes,"
+V,III,8,MACBETH,1533-0.txt,3655,And mingle with the English epicures:
+V,III,9,MACBETH,1533-0.txt,3656,"The mind I sway by, and the heart I bear,"
+V,III,10,MACBETH,1533-0.txt,3657,Shall never sag with doubt nor shake with fear.
+V,III,10,---,1533-0.txt,3659,Enter a Servant.
+V,III,11,MACBETH,1533-0.txt,3661,"The devil damn thee black, thou cream-fac’d loon!"
+V,III,12,MACBETH,1533-0.txt,3662,Where gott’st thou that goose look?
+V,III,13,SERVANT,1533-0.txt,3665,There is ten thousand— 
+V,III,14,MACBETH,1533-0.txt,3668,"Geese, villain?"
+V,III,15,SERVANT,1533-0.txt,3671,"Soldiers, sir."
+V,III,16,MACBETH,1533-0.txt,3674,"Go prick thy face and over-red thy fear,"
+V,III,17,MACBETH,1533-0.txt,3675,"Thou lily-liver’d boy. What soldiers, patch?"
+V,III,18,MACBETH,1533-0.txt,3676,Death of thy soul! those linen cheeks of thine
+V,III,19,MACBETH,1533-0.txt,3677,"Are counsellors to fear. What soldiers, whey-face?"
+V,III,20,SERVANT,1533-0.txt,3680,"The English force, so please you."
+V,III,21,MACBETH,1533-0.txt,3683,Take thy face hence.
+V,III,21,---,1533-0.txt,3685,[Exit Servant.]
+V,III,22,MACBETH,1533-0.txt,3687,"Seyton!— I am sick at heart,"
+V,III,23,MACBETH,1533-0.txt,3688,"When I behold— Seyton, I say!— This push"
+V,III,24,MACBETH,1533-0.txt,3689,Will cheer me ever or disseat me now.
+V,III,25,MACBETH,1533-0.txt,3690,I have liv’d long enough: my way of life
+V,III,26,MACBETH,1533-0.txt,3691,"Is fall’n into the sere, the yellow leaf;"
+V,III,27,MACBETH,1533-0.txt,3692,"And that which should accompany old age,"
+V,III,28,MACBETH,1533-0.txt,3693,"As honour, love, obedience, troops of friends,"
+V,III,29,MACBETH,1533-0.txt,3694,"I must not look to have; but, in their stead,"
+V,III,30,MACBETH,1533-0.txt,3695,"Curses, not loud but deep, mouth-honour, breath,"
+V,III,31,MACBETH,1533-0.txt,3696,"Which the poor heart would fain deny, and dare not."
+V,III,32,MACBETH,1533-0.txt,3697,Seyton!— 
+V,III,32,---,1533-0.txt,3699,Enter Seyton.
+V,III,33,SEYTON,1533-0.txt,3702,What’s your gracious pleasure?
+V,III,34,MACBETH,1533-0.txt,3705,What news more?
+V,III,35,SEYTON,1533-0.txt,3708,"All is confirm’d, my lord, which was reported."
+V,III,36,MACBETH,1533-0.txt,3711,I’ll fight till from my bones my flesh be hack’d.
+V,III,37,MACBETH,1533-0.txt,3712,Give me my armour.
+V,III,38,SEYTON,1533-0.txt,3715,’Tis not needed yet.
+V,III,39,MACBETH,1533-0.txt,3718,I’ll put it on.
+V,III,40,MACBETH,1533-0.txt,3719,"Send out more horses, skirr the country round;"
+V,III,41,MACBETH,1533-0.txt,3720,Hang those that talk of fear. Give me mine armour.— 
+V,III,42,MACBETH,1533-0.txt,3721,"How does your patient, doctor?"
+V,III,43,DOCTOR,1533-0.txt,3724,"Not so sick, my lord,"
+V,III,44,DOCTOR,1533-0.txt,3725,"As she is troubled with thick-coming fancies,"
+V,III,45,DOCTOR,1533-0.txt,3726,That keep her from her rest.
+V,III,46,MACBETH,1533-0.txt,3729,Cure her of that:
+V,III,47,MACBETH,1533-0.txt,3730,"Canst thou not minister to a mind diseas’d,"
+V,III,48,MACBETH,1533-0.txt,3731,"Pluck from the memory a rooted sorrow,"
+V,III,49,MACBETH,1533-0.txt,3732,"Raze out the written troubles of the brain,"
+V,III,50,MACBETH,1533-0.txt,3733,And with some sweet oblivious antidote
+V,III,51,MACBETH,1533-0.txt,3734,Cleanse the stuff’d bosom of that perilous stuff
+V,III,52,MACBETH,1533-0.txt,3735,Which weighs upon the heart?
+V,III,53,DOCTOR,1533-0.txt,3738,Therein the patient
+V,III,54,DOCTOR,1533-0.txt,3739,Must minister to himself.
+V,III,55,MACBETH,1533-0.txt,3742,"Throw physic to the dogs, I’ll none of it."
+V,III,56,MACBETH,1533-0.txt,3743,"Come, put mine armour on; give me my staff:"
+V,III,57,MACBETH,1533-0.txt,3744,"Seyton, send out.— Doctor, the Thanes fly from me.— "
+V,III,58,MACBETH,1533-0.txt,3745,"Come, sir, despatch.— If thou couldst, doctor, cast"
+V,III,59,MACBETH,1533-0.txt,3746,"The water of my land, find her disease,"
+V,III,60,MACBETH,1533-0.txt,3747,"And purge it to a sound and pristine health,"
+V,III,61,MACBETH,1533-0.txt,3748,"I would applaud thee to the very echo,"
+V,III,62,MACBETH,1533-0.txt,3749,"That should applaud again.— Pull’t off, I say.— "
+V,III,63,MACBETH,1533-0.txt,3750,"What rhubarb, senna, or what purgative drug,"
+V,III,64,MACBETH,1533-0.txt,3751,Would scour these English hence? Hear’st thou of them?
+V,III,65,DOCTOR,1533-0.txt,3754,"Ay, my good lord. Your royal preparation"
+V,III,66,DOCTOR,1533-0.txt,3755,Makes us hear something.
+V,III,67,MACBETH,1533-0.txt,3758,Bring it after me.— 
+V,III,68,MACBETH,1533-0.txt,3759,"I will not be afraid of death and bane,"
+V,III,69,MACBETH,1533-0.txt,3760,Till Birnam forest come to Dunsinane.
+V,III,69,---,1533-0.txt,3762,[Exeunt all except Doctor.]
+V,III,70,DOCTOR,1533-0.txt,3765,"Were I from Dunsinane away and clear,"
+V,III,71,DOCTOR,1533-0.txt,3766,Profit again should hardly draw me here.
+V,III,71,---,1533-0.txt,3768,[Exit.]
+V,IV,0,---,1533-0.txt,3772,"Enter, with drum and colours Malcolm, old Siward and his Son, Macduff, Menteith, Caithness, Angus, Lennox, Ross and Soldiers, marching."
+V,IV,1,MALCOLM,1533-0.txt,3776,"Cousins, I hope the days are near at hand"
+V,IV,2,MALCOLM,1533-0.txt,3777,That chambers will be safe.
+V,IV,3,MENTEITH,1533-0.txt,3780,We doubt it nothing.
+V,IV,4,SIWARD,1533-0.txt,3783,What wood is this before us?
+V,IV,5,MENTEITH,1533-0.txt,3786,The wood of Birnam.
+V,IV,6,MALCOLM,1533-0.txt,3789,"Let every soldier hew him down a bough,"
+V,IV,7,MALCOLM,1533-0.txt,3790,And bear’t before him. Thereby shall we shadow
+V,IV,8,MALCOLM,1533-0.txt,3791,"The numbers of our host, and make discovery"
+V,IV,9,MALCOLM,1533-0.txt,3792,Err in report of us.
+V,IV,10,SOLDIERS,1533-0.txt,3795,It shall be done.
+V,IV,11,SIWARD,1533-0.txt,3798,We learn no other but the confident tyrant
+V,IV,12,SIWARD,1533-0.txt,3799,"Keeps still in Dunsinane, and will endure"
+V,IV,13,SIWARD,1533-0.txt,3800,Our setting down before’t.
+V,IV,14,MALCOLM,1533-0.txt,3803,’Tis his main hope;
+V,IV,15,MALCOLM,1533-0.txt,3804,"For where there is advantage to be given,"
+V,IV,16,MALCOLM,1533-0.txt,3805,"Both more and less have given him the revolt,"
+V,IV,17,MALCOLM,1533-0.txt,3806,"And none serve with him but constrained things,"
+V,IV,18,MALCOLM,1533-0.txt,3807,Whose hearts are absent too.
+V,IV,19,MACDUFF,1533-0.txt,3810,Let our just censures
+V,IV,20,MACDUFF,1533-0.txt,3811,"Attend the true event, and put we on"
+V,IV,21,MACDUFF,1533-0.txt,3812,Industrious soldiership.
+V,IV,22,SIWARD,1533-0.txt,3815,"The time approaches,"
+V,IV,23,SIWARD,1533-0.txt,3816,That will with due decision make us know
+V,IV,24,SIWARD,1533-0.txt,3817,"What we shall say we have, and what we owe."
+V,IV,25,SIWARD,1533-0.txt,3818,"Thoughts speculative their unsure hopes relate,"
+V,IV,26,SIWARD,1533-0.txt,3819,But certain issue strokes must arbitrate;
+V,IV,27,SIWARD,1533-0.txt,3820,Towards which advance the war.
+V,IV,27,---,1533-0.txt,3822,"[Exeunt, marching.]"
+V,V,0,---,1533-0.txt,3826,"Enter with drum and colours, Macbeth, Seyton and Soldiers."
+V,V,1,MACBETH,1533-0.txt,3829,Hang out our banners on the outward walls;
+V,V,2,MACBETH,1533-0.txt,3830,"The cry is still, “They come!” Our castle’s strength"
+V,V,3,MACBETH,1533-0.txt,3831,Will laugh a siege to scorn: here let them lie
+V,V,4,MACBETH,1533-0.txt,3832,Till famine and the ague eat them up.
+V,V,5,MACBETH,1533-0.txt,3833,"Were they not forc’d with those that should be ours,"
+V,V,6,MACBETH,1533-0.txt,3834,"We might have met them dareful, beard to beard,"
+V,V,7,MACBETH,1533-0.txt,3835,And beat them backward home.
+V,V,7,---,1533-0.txt,3837,[A cry of women within.]
+V,V,8,MACBETH,1533-0.txt,3839,What is that noise?
+V,V,9,SEYTON,1533-0.txt,3842,"It is the cry of women, my good lord."
+V,V,9,---,1533-0.txt,3844,[Exit.]
+V,V,10,MACBETH,1533-0.txt,3847,I have almost forgot the taste of fears.
+V,V,11,MACBETH,1533-0.txt,3848,"The time has been, my senses would have cool’d"
+V,V,12,MACBETH,1533-0.txt,3849,To hear a night-shriek; and my fell of hair
+V,V,13,MACBETH,1533-0.txt,3850,Would at a dismal treatise rouse and stir
+V,V,14,MACBETH,1533-0.txt,3851,As life were in’t. I have supp’d full with horrors;
+V,V,15,MACBETH,1533-0.txt,3852,"Direness, familiar to my slaughterous thoughts,"
+V,V,16,MACBETH,1533-0.txt,3853,Cannot once start me.
+V,V,16,---,1533-0.txt,3855,Enter Seyton.
+V,V,17,MACBETH,1533-0.txt,3857,Wherefore was that cry?
+V,V,18,SEYTON,1533-0.txt,3860,"The Queen, my lord, is dead."
+V,V,19,MACBETH,1533-0.txt,3863,She should have died hereafter.
+V,V,20,MACBETH,1533-0.txt,3864,There would have been a time for such a word.
+V,V,21,MACBETH,1533-0.txt,3865,"Tomorrow, and tomorrow, and tomorrow,"
+V,V,22,MACBETH,1533-0.txt,3866,"Creeps in this petty pace from day to day,"
+V,V,23,MACBETH,1533-0.txt,3867,To the last syllable of recorded time;
+V,V,24,MACBETH,1533-0.txt,3868,And all our yesterdays have lighted fools
+V,V,25,MACBETH,1533-0.txt,3869,"The way to dusty death. Out, out, brief candle!"
+V,V,26,MACBETH,1533-0.txt,3870,"Life’s but a walking shadow; a poor player,"
+V,V,27,MACBETH,1533-0.txt,3871,"That struts and frets his hour upon the stage,"
+V,V,28,MACBETH,1533-0.txt,3872,And then is heard no more: it is a tale
+V,V,29,MACBETH,1533-0.txt,3873,"Told by an idiot, full of sound and fury,"
+V,V,30,MACBETH,1533-0.txt,3874,Signifying nothing.
+V,V,30,---,1533-0.txt,3876,Enter a Messenger.
+V,V,31,MACBETH,1533-0.txt,3878,Thou com’st to use thy tongue; thy story quickly.
+V,V,32,MESSENGER,1533-0.txt,3881,"Gracious my lord,"
+V,V,33,MESSENGER,1533-0.txt,3882,"I should report that which I say I saw,"
+V,V,34,MESSENGER,1533-0.txt,3883,But know not how to do’t.
+V,V,35,MACBETH,1533-0.txt,3886,"Well, say, sir."
+V,V,36,MESSENGER,1533-0.txt,3889,"As I did stand my watch upon the hill,"
+V,V,37,MESSENGER,1533-0.txt,3890,"I look’d toward Birnam, and anon, methought,"
+V,V,38,MESSENGER,1533-0.txt,3891,The wood began to move.
+V,V,39,MACBETH,1533-0.txt,3894,"Liar, and slave!"
+V,V,40,MESSENGER,1533-0.txt,3897,"Let me endure your wrath, if’t be not so."
+V,V,41,MESSENGER,1533-0.txt,3898,Within this three mile may you see it coming;
+V,V,42,MESSENGER,1533-0.txt,3899,"I say, a moving grove."
+V,V,43,MACBETH,1533-0.txt,3902,"If thou speak’st false,"
+V,V,44,MACBETH,1533-0.txt,3903,"Upon the next tree shalt thou hang alive,"
+V,V,45,MACBETH,1533-0.txt,3904,"Till famine cling thee: if thy speech be sooth,"
+V,V,46,MACBETH,1533-0.txt,3905,I care not if thou dost for me as much.— 
+V,V,47,MACBETH,1533-0.txt,3906,I pull in resolution; and begin
+V,V,48,MACBETH,1533-0.txt,3907,"To doubt th’ equivocation of the fiend,"
+V,V,49,MACBETH,1533-0.txt,3908,"That lies like truth. “Fear not, till Birnam wood"
+V,V,50,MACBETH,1533-0.txt,3909,Do come to Dunsinane;” and now a wood
+V,V,51,MACBETH,1533-0.txt,3910,"Comes toward Dunsinane.— Arm, arm, and out!— "
+V,V,52,MACBETH,1533-0.txt,3911,"If this which he avouches does appear,"
+V,V,53,MACBETH,1533-0.txt,3912,There is nor flying hence nor tarrying here.
+V,V,54,MACBETH,1533-0.txt,3913,"I ’gin to be aweary of the sun,"
+V,V,55,MACBETH,1533-0.txt,3914,And wish th’ estate o’ th’ world were now undone.— 
+V,V,56,MACBETH,1533-0.txt,3915,"Ring the alarum bell!— Blow, wind! come, wrack!"
+V,V,57,MACBETH,1533-0.txt,3916,At least we’ll die with harness on our back.
+V,V,57,---,1533-0.txt,3918,[Exeunt.]
+V,VI,0,---,1533-0.txt,3922,"Enter, with drum and colours, Malcolm, old Siward, Macduff and their Army, with boughs."
+V,VI,1,MALCOLM,1533-0.txt,3926,"Now near enough. Your leafy screens throw down,"
+V,VI,2,MALCOLM,1533-0.txt,3927,"And show like those you are.— You, worthy uncle,"
+V,VI,3,MALCOLM,1533-0.txt,3928,"Shall with my cousin, your right noble son,"
+V,VI,4,MALCOLM,1533-0.txt,3929,Lead our first battle: worthy Macduff and we
+V,VI,5,MALCOLM,1533-0.txt,3930,"Shall take upon’s what else remains to do,"
+V,VI,6,MALCOLM,1533-0.txt,3931,According to our order.
+V,VI,7,SIWARD,1533-0.txt,3934,Fare you well.— 
+V,VI,8,SIWARD,1533-0.txt,3935,"Do we but find the tyrant’s power tonight,"
+V,VI,9,SIWARD,1533-0.txt,3936,"Let us be beaten, if we cannot fight."
+V,VI,10,MACDUFF,1533-0.txt,3939,"Make all our trumpets speak; give them all breath,"
+V,VI,11,MACDUFF,1533-0.txt,3940,Those clamorous harbingers of blood and death.
+V,VI,11,---,1533-0.txt,3942,[Exeunt.]
+V,VII,0,---,1533-0.txt,3946,Alarums. Enter Macbeth.
+V,VII,1,MACBETH,1533-0.txt,3949,"They have tied me to a stake. I cannot fly,"
+V,VII,2,MACBETH,1533-0.txt,3950,"But, bear-like I must fight the course.— What’s he"
+V,VII,3,MACBETH,1533-0.txt,3951,That was not born of woman? Such a one
+V,VII,4,MACBETH,1533-0.txt,3952,"Am I to fear, or none."
+V,VII,4,---,1533-0.txt,3954,Enter young Siward.
+V,VII,5,YOUNG SIWARD,1533-0.txt,3957,What is thy name?
+V,VII,6,MACBETH,1533-0.txt,3960,Thou’lt be afraid to hear it.
+V,VII,7,YOUNG SIWARD,1533-0.txt,3963,No; though thou call’st thyself a hotter name
+V,VII,8,YOUNG SIWARD,1533-0.txt,3964,Than any is in hell.
+V,VII,9,MACBETH,1533-0.txt,3967,My name’s Macbeth.
+V,VII,10,YOUNG SIWARD,1533-0.txt,3970,The devil himself could not pronounce a title
+V,VII,11,YOUNG SIWARD,1533-0.txt,3971,More hateful to mine ear.
+V,VII,12,MACBETH,1533-0.txt,3974,"No, nor more fearful."
+V,VII,13,YOUNG SIWARD,1533-0.txt,3977,"Thou liest, abhorred tyrant. With my sword"
+V,VII,14,YOUNG SIWARD,1533-0.txt,3978,I’ll prove the lie thou speak’st.
+V,VII,14,---,1533-0.txt,3980,"[They fight, and young Siward is slain.]"
+V,VII,15,MACBETH,1533-0.txt,3983,Thou wast born of woman.
+V,VII,16,MACBETH,1533-0.txt,3984,"But swords I smile at, weapons laugh to scorn,"
+V,VII,17,MACBETH,1533-0.txt,3985,Brandish’d by man that’s of a woman born.
+V,VII,17,---,1533-0.txt,3987,[Exit.]
+V,VII,17,---,1533-0.txt,3989,Alarums. Enter Macduff.
+V,VII,18,MACDUFF,1533-0.txt,3992,"That way the noise is.— Tyrant, show thy face!"
+V,VII,19,MACDUFF,1533-0.txt,3993,"If thou be’st slain and with no stroke of mine,"
+V,VII,20,MACDUFF,1533-0.txt,3994,My wife and children’s ghosts will haunt me still.
+V,VII,21,MACDUFF,1533-0.txt,3995,"I cannot strike at wretched kerns, whose arms"
+V,VII,22,MACDUFF,1533-0.txt,3996,"Are hired to bear their staves. Either thou, Macbeth,"
+V,VII,23,MACDUFF,1533-0.txt,3997,"Or else my sword, with an unbatter’d edge,"
+V,VII,24,MACDUFF,1533-0.txt,3998,I sheathe again undeeded. There thou shouldst be;
+V,VII,25,MACDUFF,1533-0.txt,3999,"By this great clatter, one of greatest note"
+V,VII,26,MACDUFF,1533-0.txt,4000,"Seems bruited. Let me find him, Fortune!"
+V,VII,27,MACDUFF,1533-0.txt,4001,And more I beg not.
+V,VII,27,---,1533-0.txt,4003,[Exit. Alarums.]
+V,VII,27,---,1533-0.txt,4005,Enter Malcolm and old Siward.
+V,VII,28,SIWARD,1533-0.txt,4008,"This way, my lord;— the castle’s gently render’d:"
+V,VII,29,SIWARD,1533-0.txt,4009,The tyrant’s people on both sides do fight;
+V,VII,30,SIWARD,1533-0.txt,4010,"The noble thanes do bravely in the war,"
+V,VII,31,SIWARD,1533-0.txt,4011,"The day almost itself professes yours,"
+V,VII,32,SIWARD,1533-0.txt,4012,And little is to do.
+V,VII,33,MALCOLM,1533-0.txt,4015,We have met with foes
+V,VII,34,MALCOLM,1533-0.txt,4016,That strike beside us.
+V,VII,35,SIWARD,1533-0.txt,4019,"Enter, sir, the castle."
+V,VII,35,---,1533-0.txt,4021,[Exeunt. Alarums.]
+V,VIII,0,---,1533-0.txt,4025,Enter Macbeth.
+V,VIII,1,MACBETH,1533-0.txt,4028,"Why should I play the Roman fool, and die"
+V,VIII,2,MACBETH,1533-0.txt,4029,"On mine own sword? whiles I see lives, the gashes"
+V,VIII,3,MACBETH,1533-0.txt,4030,Do better upon them.
+V,VIII,3,---,1533-0.txt,4032,Enter Macduff.
+V,VIII,4,MACDUFF,1533-0.txt,4035,"Turn, hell-hound, turn!"
+V,VIII,5,MACBETH,1533-0.txt,4038,Of all men else I have avoided thee:
+V,VIII,6,MACBETH,1533-0.txt,4039,But get thee back; my soul is too much charg’d
+V,VIII,7,MACBETH,1533-0.txt,4040,With blood of thine already.
+V,VIII,8,MACDUFF,1533-0.txt,4043,I have no words;
+V,VIII,9,MACDUFF,1533-0.txt,4044,My voice is in my sword: thou bloodier villain
+V,VIII,10,MACDUFF,1533-0.txt,4045,Than terms can give thee out!
+V,VIII,10,---,1533-0.txt,4047,[They fight.]
+V,VIII,11,MACBETH,1533-0.txt,4050,Thou losest labour:
+V,VIII,12,MACBETH,1533-0.txt,4051,As easy mayst thou the intrenchant air
+V,VIII,13,MACBETH,1533-0.txt,4052,"With thy keen sword impress, as make me bleed:"
+V,VIII,14,MACBETH,1533-0.txt,4053,Let fall thy blade on vulnerable crests;
+V,VIII,15,MACBETH,1533-0.txt,4054,"I bear a charmed life, which must not yield"
+V,VIII,16,MACBETH,1533-0.txt,4055,To one of woman born.
+V,VIII,17,MACDUFF,1533-0.txt,4058,Despair thy charm;
+V,VIII,18,MACDUFF,1533-0.txt,4059,And let the angel whom thou still hast serv’d
+V,VIII,19,MACDUFF,1533-0.txt,4060,"Tell thee, Macduff was from his mother’s womb"
+V,VIII,20,MACDUFF,1533-0.txt,4061,Untimely ripp’d.
+V,VIII,21,MACBETH,1533-0.txt,4064,"Accursed be that tongue that tells me so,"
+V,VIII,22,MACBETH,1533-0.txt,4065,For it hath cow’d my better part of man!
+V,VIII,23,MACBETH,1533-0.txt,4066,"And be these juggling fiends no more believ’d,"
+V,VIII,24,MACBETH,1533-0.txt,4067,That palter with us in a double sense;
+V,VIII,25,MACBETH,1533-0.txt,4068,"That keep the word of promise to our ear,"
+V,VIII,26,MACBETH,1533-0.txt,4069,And break it to our hope!— I’ll not fight with thee.
+V,VIII,27,MACDUFF,1533-0.txt,4072,"Then yield thee, coward,"
+V,VIII,28,MACDUFF,1533-0.txt,4073,And live to be the show and gaze o’ th’ time.
+V,VIII,29,MACDUFF,1533-0.txt,4074,"We’ll have thee, as our rarer monsters are,"
+V,VIII,30,MACDUFF,1533-0.txt,4075,"Painted upon a pole, and underwrit,"
+V,VIII,31,MACDUFF,1533-0.txt,4076,“Here may you see the tyrant.”
+V,VIII,32,MACBETH,1533-0.txt,4079,"I will not yield,"
+V,VIII,33,MACBETH,1533-0.txt,4080,"To kiss the ground before young Malcolm’s feet,"
+V,VIII,34,MACBETH,1533-0.txt,4081,And to be baited with the rabble’s curse.
+V,VIII,35,MACBETH,1533-0.txt,4082,"Though Birnam wood be come to Dunsinane,"
+V,VIII,36,MACBETH,1533-0.txt,4083,"And thou oppos’d, being of no woman born,"
+V,VIII,37,MACBETH,1533-0.txt,4084,Yet I will try the last. Before my body
+V,VIII,38,MACBETH,1533-0.txt,4085,"I throw my warlike shield: lay on, Macduff;"
+V,VIII,39,MACBETH,1533-0.txt,4086,"And damn’d be him that first cries, “Hold, enough!”"
+V,VIII,39,---,1533-0.txt,4088,[Exeunt fighting. Alarums.]
+V,VIII,39,---,1533-0.txt,4090,"Retreat. Flourish. Enter, with drum and colours, Malcolm, old Siward, Ross, Thanes and Soldiers."
+V,VIII,40,MALCOLM,1533-0.txt,4094,I would the friends we miss were safe arriv’d.
+V,VIII,41,SIWARD,1533-0.txt,4097,"Some must go off; and yet, by these I see,"
+V,VIII,42,SIWARD,1533-0.txt,4098,So great a day as this is cheaply bought.
+V,VIII,43,MALCOLM,1533-0.txt,4101,"Macduff is missing, and your noble son."
+V,VIII,44,ROSS,1533-0.txt,4104,"Your son, my lord, has paid a soldier’s debt:"
+V,VIII,45,ROSS,1533-0.txt,4105,He only liv’d but till he was a man;
+V,VIII,46,ROSS,1533-0.txt,4106,The which no sooner had his prowess confirm’d
+V,VIII,47,ROSS,1533-0.txt,4107,"In the unshrinking station where he fought,"
+V,VIII,48,ROSS,1533-0.txt,4108,But like a man he died.
+V,VIII,49,SIWARD,1533-0.txt,4111,Then he is dead?
+V,VIII,50,FLEANCE,1533-0.txt,4114,"Ay, and brought off the field. Your cause of sorrow"
+V,VIII,51,FLEANCE,1533-0.txt,4115,"Must not be measur’d by his worth, for then"
+V,VIII,52,FLEANCE,1533-0.txt,4116,It hath no end.
+V,VIII,53,SIWARD,1533-0.txt,4119,Had he his hurts before?
+V,VIII,54,ROSS,1533-0.txt,4122,"Ay, on the front."
+V,VIII,55,SIWARD,1533-0.txt,4125,"Why then, God’s soldier be he!"
+V,VIII,56,SIWARD,1533-0.txt,4126,"Had I as many sons as I have hairs,"
+V,VIII,57,SIWARD,1533-0.txt,4127,I would not wish them to a fairer death:
+V,VIII,58,SIWARD,1533-0.txt,4128,And so his knell is knoll’d.
+V,VIII,59,MALCOLM,1533-0.txt,4131,"He’s worth more sorrow,"
+V,VIII,60,MALCOLM,1533-0.txt,4132,And that I’ll spend for him.
+V,VIII,61,SIWARD,1533-0.txt,4135,He’s worth no more.
+V,VIII,62,SIWARD,1533-0.txt,4136,They say he parted well and paid his score:
+V,VIII,63,SIWARD,1533-0.txt,4137,"And so, God be with him!— Here comes newer comfort."
+V,VIII,63,---,1533-0.txt,4139,Enter Macduff with Macbeth’s head.
+V,VIII,64,MACDUFF,1533-0.txt,4142,"Hail, King, for so thou art. Behold, where stands"
+V,VIII,65,MACDUFF,1533-0.txt,4143,Th’ usurper’s cursed head: the time is free.
+V,VIII,66,MACDUFF,1533-0.txt,4144,"I see thee compass’d with thy kingdom’s pearl,"
+V,VIII,67,MACDUFF,1533-0.txt,4145,That speak my salutation in their minds;
+V,VIII,68,MACDUFF,1533-0.txt,4146,"Whose voices I desire aloud with mine,— "
+V,VIII,69,MACDUFF,1533-0.txt,4147,"Hail, King of Scotland!"
+V,VIII,70,ALL,1533-0.txt,4150,"Hail, King of Scotland!"
+V,VIII,70,---,1533-0.txt,4152,[Flourish.]
+V,VIII,71,MALCOLM,1533-0.txt,4155,We shall not spend a large expense of time
+V,VIII,72,MALCOLM,1533-0.txt,4156,"Before we reckon with your several loves,"
+V,VIII,73,MALCOLM,1533-0.txt,4157,"And make us even with you. My thanes and kinsmen,"
+V,VIII,74,MALCOLM,1533-0.txt,4158,"Henceforth be earls, the first that ever Scotland"
+V,VIII,75,MALCOLM,1533-0.txt,4159,"In such an honour nam’d. What’s more to do,"
+V,VIII,76,MALCOLM,1533-0.txt,4160,"Which would be planted newly with the time,— "
+V,VIII,77,MALCOLM,1533-0.txt,4161,"As calling home our exil’d friends abroad,"
+V,VIII,78,MALCOLM,1533-0.txt,4162,That fled the snares of watchful tyranny;
+V,VIII,79,MALCOLM,1533-0.txt,4163,Producing forth the cruel ministers
+V,VIII,80,MALCOLM,1533-0.txt,4164,"Of this dead butcher, and his fiend-like queen,"
+V,VIII,81,MALCOLM,1533-0.txt,4165,"Who, as ’tis thought, by self and violent hands"
+V,VIII,82,MALCOLM,1533-0.txt,4166,"Took off her life;— this, and what needful else"
+V,VIII,83,MALCOLM,1533-0.txt,4167,"That calls upon us, by the grace of Grace,"
+V,VIII,84,MALCOLM,1533-0.txt,4168,"We will perform in measure, time, and place."
+V,VIII,85,MALCOLM,1533-0.txt,4169,"So thanks to all at once, and to each one,"
+V,VIII,86,MALCOLM,1533-0.txt,4170,Whom we invite to see us crown’d at Scone.
+V,VIII,86,---,1533-0.txt,4172,[Flourish. Exeunt.]
