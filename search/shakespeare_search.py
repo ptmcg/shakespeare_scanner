@@ -18,7 +18,16 @@ class InputSubmitEvent(Event):
 
 
 class ShakespeareSearchApp(App):
-    """A Textual app to manage stopwatches."""
+    """
+    A Textual app to search Shakespeare plays for given search terms.
+
+    TODO:
+    - add selector for different plays
+    - add help popup
+        . show how to add multiple search terms, with optional +, -, ++, and --
+        . click on results to scroll the script to that line in the play
+    - search multiple plays
+    """
 
     BINDINGS = [
         ("q", "quit", "Quit"),
@@ -49,6 +58,9 @@ class ShakespeareSearchApp(App):
         play_iter = itertools.dropwhile(lambda s: not s[1].strip(), play_iter)
         self.title_line_no = next(play_iter)[0]
 
+        title_line = next(line for line in self.play_contents if line.startswith("Title:"))
+        self.play_title = title_line.removeprefix("Title:").strip()
+
     def compose(self) -> ComposeResult:
         """Create child widgets for the app."""
 
@@ -58,7 +70,10 @@ class ShakespeareSearchApp(App):
         search_results_table.add_column("Line")
         search_results_table.zebra_stripes = True
 
-        yield Header()
+        yield Header(show_clock=True)
+        self.title = "Shakespeare Keyword Search"
+        self.sub_title = self.play_title
+
         yield Footer()
         with Container():
             yield Input(placeholder="Search terms...")
@@ -76,7 +91,7 @@ class ShakespeareSearchApp(App):
 
     def on_mount(self, event):
         script_view = self.query_one(Static)
-        script_view.scroll_to(self.title_line_no)
+        self.script_scroller.scroll_to(y=self.title_line_no)
 
     @textual.on(DataTable.CellSelected, "#search-results")
     def on_data_table_click(self, event):
