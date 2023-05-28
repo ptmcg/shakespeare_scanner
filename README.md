@@ -2,6 +2,8 @@
 
 A simple Python program to demonstrate use of Textual to present a terminal-interface form, supporting keyword search against the Shakespeare play "Macbeth".
 
+![Demo screenshot](static/macbeth_search_thunder2.jpg)
+
 ## Setup
 
 Install dependencies using:
