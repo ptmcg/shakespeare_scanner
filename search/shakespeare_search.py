@@ -49,7 +49,7 @@ class ShakespeareSearchApp(App):
         )
         self.play.create_search_index("line")
 
-        self.play_contents = Path("gutenberg/1533-0.txt").read_text().splitlines()
+        self.play_contents: list[str] = Path("gutenberg/1533-0.txt").read_text().splitlines()
 
         # find title line - first non-blank line after "cover"
         play_iter = iter(enumerate(self.play_contents))
@@ -59,7 +59,12 @@ class ShakespeareSearchApp(App):
         self.title_line_no = next(play_iter)[0]
 
         title_line = next(line for line in self.play_contents if line.startswith("Title:"))
-        self.play_title = title_line.removeprefix("Title:").strip()
+        self.play_title: str = title_line.removeprefix("Title:").strip()
+
+        # initialize instance vars that will be populated in event handlers
+        self.search_results: lt.Table = None
+        self.script_scroller: VerticalScroll = None
+        self.search_results_table: DataTable = None
 
     def compose(self) -> ComposeResult:
         """Create child widgets for the app."""
@@ -86,11 +91,9 @@ class ShakespeareSearchApp(App):
         self.script_scroller.styles.border = ("solid", "white")
 
         script_view.update('\n'.join(self.play_contents))
-        self.script_view = script_view
         self.search_results_table = search_results_table
 
     def on_mount(self, event):
-        script_view = self.query_one(Static)
         self.script_scroller.scroll_to(y=self.title_line_no)
 
     @textual.on(DataTable.CellSelected, "#search-results")
@@ -112,23 +115,27 @@ class ShakespeareSearchApp(App):
 
     def on_enter(self, event: InputSubmitEvent):
         search_results = self.play.search.line(event.value)
-        if "+" not in event.value.replace("++", ""):
-            search_results.sort("file_lineno")
 
-        results_table: DataTable = self.query_one(DataTable)
+        # sort results in order by position in the script
+        search_results.sort("file_lineno")
+
+        # if a preference was given, then re-sort by search score (descending)
+        if "+" in event.value.replace("++", "") or "-" in event.value.replace("--", ""):
+            search_results.sort("line_search_score desc")
+
+        results_table: DataTable = self.search_results_table
 
         # clear search results list
         results_table.clear()
 
         # populate search results list
-        if search_results:
-            self.search_results = search_results
-            for result in search_results:
-                results_table.add_row(
-                    result.act_scene_line,
-                    result.role,
-                    result.line,
-                )
+        self.search_results = search_results
+        for result in search_results:
+            results_table.add_row(
+                result.act_scene_line,
+                result.role,
+                result.line,
+            )
 
 
 if __name__ == "__main__":
