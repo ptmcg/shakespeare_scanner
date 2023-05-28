@@ -97,6 +97,8 @@ class ShakespeareSearchApp(App):
 
     def on_enter(self, event: InputSubmitEvent):
         search_results = self.play.search.line(event.value)
+        if "+" not in event.value.replace("++", ""):
+            search_results.sort("file_lineno")
 
         results_table: DataTable = self.query_one(DataTable)
 
