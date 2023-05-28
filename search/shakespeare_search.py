@@ -4,7 +4,6 @@ import textual
 from textual.app import App, ComposeResult
 from textual.containers import Container, VerticalScroll, Grid
 from textual.events import Event
-from textual.messages import UpdateScroll
 from textual.widgets import Header, Footer, Input, Static, DataTable
 
 from pathlib import Path
@@ -68,6 +67,8 @@ class ShakespeareSearchApp(App):
                 with VerticalScroll() as vs:
                     self.script_scroller = vs
                     yield (script_view := Static(id="script-view"))
+
+        self.script_scroller.styles.border = ("solid", "white")
 
         script_view.update('\n'.join(self.play_contents))
         self.script_view = script_view
