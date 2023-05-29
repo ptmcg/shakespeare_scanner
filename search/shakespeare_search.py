@@ -14,6 +14,16 @@ import littletable as lt
 # capture location of this script
 script_loc = Path(__file__).parent
 
+play_name_table = lt.Table()
+play_name_table.create_index("slug", unique=True)
+play_name_table.create_index("title", unique=True)
+
+
+def get_list_of_plays():
+    play_name_table.csv_import(
+        script_loc.parent / 'scraped.csv'
+    )
+
 
 def read_file_contents(fpath: Path):
     raw_source = fpath.read_bytes()
@@ -56,7 +66,19 @@ class ShakespeareSearchApp(App):
         self.script_scroller: VerticalScroll = None
         self.search_results_data_table: DataTable = None
 
-    def load_play_content(self, play_file_name: str):
+    def load_play_content(self, play_ref: str):
+
+        # lookup play by slug or title in play_name_table
+        # and get its base filename
+        try:
+            play_rec = play_name_table.by.slug[play_ref]
+        except KeyError:
+            try:
+                play_rec = play_name_table.by.title[play_ref]
+            except KeyError:
+                raise
+
+        play_file_name = play_rec.file_name
 
         # load play CSV and build search index
         self.play_lines = lt.csv_import(
@@ -181,7 +203,8 @@ class ShakespeareSearchApp(App):
 
 
 if __name__ == "__main__":
+    get_list_of_plays()
     app = ShakespeareSearchApp()
     # pick Macbeth to start
-    app.load_play_content("1533-0.txt")
+    app.load_play_content("macbeth")
     app.run()

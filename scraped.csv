@@ -1,13 +1,13 @@
-file,title
-1514-0.txt,A Midsummer Night’s Dream
-1533-0.txt,Macbeth
-pg1503.txt,King Richard III
-pg1513.txt,Romeo and Juliet
-pg1515.txt,The Merchant of Venice
-pg1521.txt,The Life of King Henry V
-pg1522.txt,Julius Caesar
-pg1524.txt,Hamlet
-pg1526.txt,Twelfth Night
-pg1531.txt,"Othello, the Moor of Venice"
-pg1539.txt,The Winter's Tale
-pg1540.txt,The Tempest
+file_name,title,slug
+1514-0.txt,A Midsummer Night’s Dream,midsummer-nights-dream
+1533-0.txt,Macbeth,macbeth
+pg1503.txt,King Richard III,richard-iii
+pg1513.txt,Romeo and Juliet,romeo-and-juliet
+pg1515.txt,The Merchant of Venice,merchant-of-venice
+pg1521.txt,The Life of King Henry V,king-henry-v
+pg1522.txt,Julius Caesar,julius-caesar
+pg1524.txt,Hamlet,hamlet
+pg1526.txt,Twelfth Night,twelfth-night
+pg1531.txt,"Othello, the Moor of Venice",othello
+pg1539.txt,The Winter's Tale,winters-tale
+pg1540.txt,The Tempest,tempest
