@@ -21,6 +21,15 @@ class InputSubmitEvent(Event):
         self.value = input_value
 
 
+def read_file_contents(fpath: Path):
+    raw_source = fpath.read_bytes()
+    try:
+        file_text = raw_source.decode("utf-8")
+    except UnicodeDecodeError:
+        file_text = raw_source.decode("cp1252")
+    return file_text
+
+
 class ShakespeareSearchApp(App):
     """
     A Textual app to search Shakespeare plays for given search terms.
@@ -48,9 +57,6 @@ class ShakespeareSearchApp(App):
         self.play_title = ""
         self.title_line_no = -1
 
-        file_name = "1533-0.txt"
-        self.load_play_content(file_name)
-
         # initialize instance vars that will be populated in compose and event handlers
         self.search_results: lt.Table = None
         self.script_scroller: VerticalScroll = None
@@ -69,9 +75,8 @@ class ShakespeareSearchApp(App):
         )
         self.play_lines.create_search_index("line")
 
-        self.play_contents = (
-                script_loc.parent / "gutenberg" / play_file_name
-        ).read_text().splitlines()
+        play_text = read_file_contents(script_loc.parent / "gutenberg" / play_file_name)
+        self.play_contents = play_text.splitlines()
         self.get_play_metadata_from_contents()
 
     def get_play_metadata_from_contents(self):
@@ -81,13 +86,12 @@ class ShakespeareSearchApp(App):
         """
         # find title line - first non-blank line after "cover"
         play_iter = iter(enumerate(self.play_contents))
-        play_iter = itertools.dropwhile(lambda s: s[1].strip() != "cover", play_iter)
+        play_iter = itertools.dropwhile(lambda s: not s[1].startswith("*** START"), play_iter)
         next(play_iter)
-        play_iter = itertools.dropwhile(lambda s: not s[1].strip(), play_iter)
-        self.title_line_no = next(play_iter)[0]
+        play_iter = itertools.dropwhile(lambda s: s[1].strip() in ("cover", ""), play_iter)
+        self.title_line_no, title_line = next(play_iter)
 
-        title_line = next(line for line in self.play_contents if line.startswith("Title:"))
-        self.play_title: str = title_line.removeprefix("Title:").strip()
+        self.play_title: str = title_line.removeprefix("Title:").strip().title()
 
     def compose(self) -> ComposeResult:
         """Create child widgets for the app."""
@@ -188,4 +192,6 @@ class ShakespeareSearchApp(App):
 
 if __name__ == "__main__":
     app = ShakespeareSearchApp()
+    # pick Macbeth to start
+    app.load_play_content("1533-0.txt")
     app.run()

@@ -16,9 +16,9 @@ def scan_gutenberg_file(fname) -> lt.Table:
     play_file = Path(f"{fname}")
     raw_source = play_file.read_bytes()
     try:
-        play_text = raw_source.decode("cp1252")
-    except UnicodeDecodeError:
         play_text = raw_source.decode("utf-8")
+    except UnicodeDecodeError:
+        play_text = raw_source.decode("cp1252")
 
     replacements = [
         ("-", "-"),
@@ -34,11 +34,11 @@ def scan_gutenberg_file(fname) -> lt.Table:
     line_iter = iter(enumerate(play_text.splitlines()))
 
     # skip to first instance of ACT I
-    line_iter = itertools.dropwhile(lambda s: s[1] != "ACT I", line_iter)
+    line_iter = itertools.dropwhile(lambda s: s[1].lstrip().rstrip(".") != "ACT I", line_iter)
 
     # advance to next instance of ACT I - this is the actual start of the play
     next(line_iter)
-    line_iter = itertools.dropwhile(lambda s: s[1] != "ACT I", line_iter)
+    line_iter = itertools.dropwhile(lambda s: s[1].lstrip().rstrip(".") != "ACT I", line_iter)
 
     current_file = fname
     current_act = ""
@@ -52,7 +52,7 @@ def scan_gutenberg_file(fname) -> lt.Table:
     play = lt.Table()
 
     for lineno, line in line_iter:
-        if line.strip() and line.startswith(" "):
+        if line.strip() and line.startswith(" ") and not line.startswith("  "):
             if last_is_stage_direction:
                 play[-1].line = f"{play[-1].line.rstrip()} {line.lstrip()}"
             else:
@@ -78,12 +78,12 @@ def scan_gutenberg_file(fname) -> lt.Table:
             continue
 
         if line.startswith("ACT"):
-            current_act = line.split()[-1]
+            current_act = line.split()[-1].rstrip(".")
             continue
 
         if line.startswith("SCENE"):
             scene_label, _, scene_description = line.partition(". ")
-            current_scene = scene_label.split()[-1]
+            current_scene = scene_label.split()[-1].rstrip(".")
             current_scene_description = scene_description
             scene_line = 0
             current_part = ""
