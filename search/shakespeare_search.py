@@ -129,12 +129,8 @@ class ShakespeareSearchApp(App):
         # scroll the play script to the line bearing the title of the play
         self.script_scroller.scroll_to(y=self.title_line_no)
 
-    def on_key(self, event):
-        if event.key == 'enter':
-            input_widget = self.query_one(Input)
-            self.on_enter(InputSubmitEvent(input_widget.value))
-
-    def on_enter(self, event: InputSubmitEvent):
+    @textual.on(Input.Submitted, "#search-term-input")
+    def on_input_enter(self, event: Input.Submitted):
         """
         Event handler that runs when the user presses ENTER in the input
         field. As a result:
