@@ -56,7 +56,7 @@ class ShakespeareSearchApp(App):
         self.script_scroller: VerticalScroll = None
         self.search_results_data_table: DataTable = None
 
-    def load_play_content(self, play_file_name):
+    def load_play_content(self, play_file_name: str):
 
         # load play CSV and build search index
         self.play_lines = lt.csv_import(
@@ -161,7 +161,7 @@ class ShakespeareSearchApp(App):
         self.search_results = search_results
 
     @textual.on(DataTable.CellSelected, "#search-results")
-    def on_search_results_table_click(self, event):
+    def on_search_results_table_click(self, event: DataTable.CellSelected):
         """
         Event handler that runs when user selects a row of the search results DataTable.
         As a result:
