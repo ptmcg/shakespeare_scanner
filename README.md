@@ -37,7 +37,7 @@ the chosen line.
 
 To exit, click the "Q" button in the footer.
 
-## Implementation
+## Dependencies
 
 - TUI interaction features are provided by the `textual` package (https://pypi.org/project/textual/).
-- The CSV import and keyword search features are provided by the `littletable` package (https://pypi.org/project/littletable/).
+- CSV import and keyword search features are provided by the `littletable` package (https://pypi.org/project/littletable/).
