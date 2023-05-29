@@ -122,19 +122,8 @@ class ShakespeareSearchApp(App):
         self.search_results_data_table = search_results_table
 
     def on_mount(self, event):
+        # scroll the play script to the line bearing the title of the play
         self.script_scroller.scroll_to(y=self.title_line_no)
-
-    def action_toggle_dark(self) -> None:
-        """An action to toggle dark mode."""
-        self.dark = not self.dark
-
-    @textual.on(DataTable.CellSelected, "#search-results")
-    def on_data_table_click(self, event):
-        data = self.search_results[event.coordinate.row]
-        self.script_scroller.scroll_to(
-            y=data.file_lineno - self.script_scroller.size.height // 2,
-            animate=False
-        )
 
     def on_key(self, event):
         if event.key == 'enter':
@@ -142,6 +131,17 @@ class ShakespeareSearchApp(App):
             self.on_enter(InputSubmitEvent(input_widget.value))
 
     def on_enter(self, event: InputSubmitEvent):
+        """
+        Event handler that runs when the user presses ENTER in the input
+        field. As a result:
+        - a new full-text search is run using the keywords provided in the event
+        - the returned search results get sorted for display
+        - the search results DataTable is cleared
+        - the search results DataTable gets populated with data from
+          the sorted search results
+        - the search results are saved for future navigation from the DataTable
+          to the scrollable play script
+        """
         # perform full-text search against search index on line,
         # using search terms from event
         search_results = self.play_lines.search.line(event.value)
@@ -165,6 +165,25 @@ class ShakespeareSearchApp(App):
 
         # save search_results table for navigation to play script lines
         self.search_results = search_results
+
+    @textual.on(DataTable.CellSelected, "#search-results")
+    def on_search_results_table_click(self, event):
+        """
+        Event handler that runs when user selects a row of the search results DataTable.
+        As a result:
+        - the corresponding record is retrieved from the search_results table
+        - the file_lineno field of that record is used to scroll the script contents
+          to that line
+        """
+        data = self.search_results[event.coordinate.row]
+        self.script_scroller.scroll_to(
+            y=data.file_lineno - self.script_scroller.size.height // 2,
+            animate=False
+        )
+
+    def action_toggle_dark(self) -> None:
+        """An action to toggle dark mode."""
+        self.dark = not self.dark
 
 
 if __name__ == "__main__":
