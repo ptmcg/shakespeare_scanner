@@ -5,7 +5,7 @@ from pathlib import Path
 import textual
 from textual.app import App, ComposeResult
 from textual.containers import Container, VerticalScroll, Grid
-from textual.events import Event
+from textual.events import Mount
 from textual.widgets import Header, Footer, Input, Static, DataTable
 
 import littletable as lt
@@ -13,12 +13,6 @@ import littletable as lt
 
 # capture location of this script
 script_loc = Path(__file__).parent
-
-
-class InputSubmitEvent(Event):
-    def __init__(self, input_value):
-        super().__init__()
-        self.value = input_value
 
 
 def read_file_contents(fpath: Path):
@@ -125,7 +119,7 @@ class ShakespeareSearchApp(App):
         script_view.update('\n'.join(self.play_contents))
         self.search_results_data_table = search_results_table
 
-    def on_mount(self, event):
+    def on_mount(self, event: Mount):
         # scroll the play script to the line bearing the title of the play
         self.script_scroller.scroll_to(y=self.title_line_no)
 
