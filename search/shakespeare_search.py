@@ -1,4 +1,5 @@
 import itertools
+import operator
 
 import textual
 from textual.app import App, ComposeResult
@@ -70,9 +71,11 @@ class ShakespeareSearchApp(App):
         """Create child widgets for the app."""
 
         search_results_table = DataTable(id="search-results")
-        search_results_table.add_column("Act.Scene.Line")
-        search_results_table.add_column("Role")
-        search_results_table.add_column("Line")
+        search_results_table.add_columns(
+            "Act.Scene.Line",
+            "Role",
+            "Line",
+        )
         search_results_table.zebra_stripes = True
 
         yield Header(show_clock=True)
@@ -130,12 +133,9 @@ class ShakespeareSearchApp(App):
 
         # populate search results list
         self.search_results = search_results
+        record_extract = operator.attrgetter("act_scene_line", "role", "line")
         for result in search_results:
-            results_table.add_row(
-                result.act_scene_line,
-                result.role,
-                result.line,
-            )
+            results_table.add_row(*record_extract(result))
 
 
 if __name__ == "__main__":

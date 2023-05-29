@@ -25,7 +25,7 @@ To exit, enter "q" at the prompt.
 
 ### As a TUI
 
-To run to program using the full TUI interface, open a terminal window, set default to the project directory, and run:
+To run the program using the full TUI interface, open a terminal window, set default to the project directory, and run:
 
     python ./search/shakespeare_search.py
 
