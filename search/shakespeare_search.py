@@ -205,7 +205,6 @@ class ShakespeareSearchApp(App):
 
 if __name__ == "__main__":
     get_list_of_plays()
-    app = ShakespeareSearchApp()
 
     try:
         play_reference = sys.argv[1]
@@ -222,5 +221,6 @@ if __name__ == "__main__":
         print(f"unknown play reference {play_reference!r}")
         sys.exit(1)
 
+    app = ShakespeareSearchApp()
     app.load_play_content(play_reference)
     app.run()
