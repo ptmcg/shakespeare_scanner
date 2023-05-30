@@ -1,6 +1,7 @@
 import itertools
 import operator
 from pathlib import Path
+import sys
 
 import textual
 from textual.app import App, ComposeResult
@@ -205,6 +206,21 @@ class ShakespeareSearchApp(App):
 if __name__ == "__main__":
     get_list_of_plays()
     app = ShakespeareSearchApp()
-    # pick Macbeth to start
-    app.load_play_content("macbeth")
+
+    try:
+        play_reference = sys.argv[1]
+    except IndexError:
+        play_reference = "macbeth"
+
+    # if no selection, pick Macbeth to start
+    play_name_references = {
+        *play_name_table.all.slug,
+        *play_name_table.all.title,
+    }
+
+    if play_reference not in play_name_references:
+        print(f"unknown play reference {play_reference!r}")
+        sys.exit(1)
+
+    app.load_play_content(play_reference)
     app.run()
